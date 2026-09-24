@@ -1,0 +1,3001 @@
+Distance_km,Avg_Speed_kmph,Number_of_Signals,Traffic_Level,Weather,Road_Type,Vehicle_Type,Day_of_Week,Time_of_Day,Travel_Time_Minutes
+23.98,8.0,12,High,Foggy,City Road,Bus,Sunday,Night,201.5
+13.97,18.7,10,Medium,Rainy,City Road,Car,Thursday,Night,48.7
+27.94,48.7,11,High,Clear,Highway,Car,Friday,Evening,48.2
+14.03,21.7,12,Medium,Rainy,City Road,Car,Wednesday,Afternoon,53.2
+9.09,28.1,12,Low,Clear,City Road,Car,Sunday,Evening,23.0
+13.34,8.0,10,High,Rainy,City Road,Bike,Monday,Evening,118.5
+7.18,47.6,5,High,Rainy,Highway,Car,Tuesday,Night,21.7
+7.39,25.6,6,High,Clear,Rural Road,Bike,Sunday,Morning,28.8
+10.91,68.8,6,Low,Clear,Highway,Bike,Thursday,Morning,11.5
+10.06,33.4,5,Medium,Rainy,Rural Road,Car,Tuesday,Morning,32.6
+23.62,56.5,9,Medium,Clear,Highway,Car,Wednesday,Morning,32.7
+10.83,32.5,3,High,Foggy,Highway,Bike,Tuesday,Evening,30.3
+6.6,22.5,7,Medium,Rainy,City Road,Bus,Thursday,Morning,36.3
+12.01,33.9,6,High,Rainy,Highway,Car,Tuesday,Morning,40.4
+13.95,26.7,11,Medium,Clear,City Road,Truck,Wednesday,Afternoon,38.3
+12.72,25.7,10,Low,Rainy,City Road,Bus,Sunday,Night,43.9
+6.41,8.0,9,Medium,Stormy,City Road,Bike,Monday,Afternoon,65.3
+25.01,55.7,10,Low,Clear,Rural Road,Car,Saturday,Afternoon,30.0
+4.03,58.5,1,High,Clear,Highway,Bike,Monday,Afternoon,5.6
+12.61,44.9,6,Medium,Clear,Rural Road,Bus,Thursday,Night,26.3
+6.29,28.4,5,High,Clear,Rural Road,Car,Friday,Afternoon,22.6
+20.46,30.8,8,Medium,Rainy,Rural Road,Truck,Sunday,Afternoon,57.6
+15.11,11.4,12,High,Clear,City Road,Truck,Tuesday,Night,97.0
+13.95,14.3,7,High,Rainy,Rural Road,Car,Monday,Afternoon,73.9
+10.38,33.7,4,High,Clear,Rural Road,Bike,Saturday,Afternoon,25.5
+23.83,59.0,10,Low,Clear,Rural Road,Bike,Sunday,Night,28.1
+10.36,29.8,7,Medium,Clear,City Road,Bus,Thursday,Afternoon,32.0
+29.29,22.2,16,Low,Foggy,City Road,Bus,Monday,Evening,93.9
+7.27,43.4,2,Low,Rainy,Rural Road,Car,Thursday,Evening,15.5
+12.05,22.5,12,Medium,Clear,City Road,Car,Wednesday,Morning,39.2
+17.69,21.0,12,Medium,Rainy,City Road,Car,Thursday,Morning,56.0
+15.68,9.9,11,High,Clear,City Road,Truck,Monday,Night,114.7
+11.54,38.3,12,Low,Clear,City Road,Car,Wednesday,Afternoon,26.0
+4.34,27.7,6,Medium,Clear,City Road,Bus,Sunday,Afternoon,19.8
+13.09,22.2,5,Medium,Stormy,Rural Road,Car,Monday,Evening,49.4
+9.68,31.8,3,Low,Rainy,Rural Road,Car,Sunday,Morning,23.4
+8.42,46.2,7,Low,Rainy,Rural Road,Truck,Thursday,Morning,23.6
+18.26,32.8,15,Medium,Clear,City Road,Bike,Friday,Afternoon,39.3
+3.83,48.8,5,Low,Clear,City Road,Car,Sunday,Night,9.2
+11.77,13.8,9,Medium,Rainy,City Road,Car,Tuesday,Evening,58.8
+2.32,19.2,7,Medium,Clear,City Road,Car,Sunday,Evening,14.2
+15.74,8.0,11,High,Foggy,City Road,Car,Tuesday,Evening,136.7
+18.36,67.2,7,Medium,Rainy,Highway,Car,Wednesday,Night,29.0
+12.99,51.4,6,Low,Clear,Rural Road,Bike,Thursday,Night,14.0
+9.17,29.0,5,High,Rainy,Highway,Car,Friday,Morning,32.1
+23.64,8.0,13,High,Stormy,City Road,Car,Wednesday,Evening,199.3
+24.51,23.3,15,Medium,Clear,City Road,Car,Saturday,Evening,71.9
+14.35,31.7,9,Low,Rainy,City Road,Car,Monday,Morning,35.8
+26.51,11.5,15,Medium,Foggy,City Road,Truck,Friday,Night,151.7
+7.26,78.6,1,Low,Clear,Highway,Car,Friday,Afternoon,4.9
+11.14,26.3,9,Low,Foggy,City Road,Car,Thursday,Night,37.1
+2.87,81.6,1,Low,Clear,Highway,Bike,Friday,Morning,3.0
+6.04,25.3,6,High,Rainy,Rural Road,Truck,Saturday,Evening,33.7
+5.74,16.1,8,Medium,Rainy,City Road,Bus,Sunday,Evening,32.2
+15.69,18.5,12,Medium,Rainy,City Road,Bus,Tuesday,Evening,68.3
+6.28,11.4,8,High,Clear,City Road,Truck,Thursday,Morning,48.6
+3.69,8.0,4,Medium,Rainy,City Road,Bike,Thursday,Morning,34.5
+8.05,65.5,1,Medium,Clear,Highway,Truck,Wednesday,Evening,15.3
+8.64,49.9,5,Low,Clear,Rural Road,Car,Sunday,Night,12.6
+5.37,46.1,4,Low,Clear,Rural Road,Bus,Thursday,Evening,12.3
+12.44,59.7,5,Medium,Rainy,Highway,Bus,Friday,Morning,24.1
+13.71,30.4,10,Medium,Clear,City Road,Truck,Tuesday,Night,42.2
+4.63,35.5,7,Medium,Clear,City Road,Car,Wednesday,Afternoon,11.3
+17.02,8.0,11,High,Foggy,City Road,Bus,Friday,Morning,152.3
+6.97,21.2,10,Medium,Clear,City Road,Car,Wednesday,Afternoon,32.8
+8.56,26.1,6,Medium,Clear,Rural Road,Bike,Saturday,Morning,26.3
+15.17,35.8,10,Medium,Clear,City Road,Car,Monday,Night,34.9
+8.6,46.0,9,Low,Clear,City Road,Bike,Tuesday,Night,15.2
+6.09,25.3,9,Low,Rainy,City Road,Bike,Wednesday,Morning,21.5
+12.04,24.0,11,Medium,Clear,City Road,Car,Wednesday,Evening,35.8
+20.59,51.5,12,Low,Clear,Rural Road,Car,Saturday,Morning,27.5
+19.23,16.4,13,Medium,Stormy,City Road,Car,Sunday,Afternoon,91.1
+8.15,8.0,11,High,Foggy,City Road,Bike,Thursday,Morning,80.5
+6.69,28.8,7,Low,Rainy,City Road,Bike,Thursday,Evening,21.2
+7.49,33.3,4,Low,Foggy,Rural Road,Bike,Wednesday,Morning,22.3
+19.35,69.2,5,Low,Foggy,Highway,Car,Thursday,Night,24.8
+7.42,73.0,4,Low,Clear,Highway,Bus,Friday,Morning,13.4
+25.8,17.7,16,Medium,Rainy,City Road,Bike,Saturday,Afternoon,97.0
+15.07,18.3,7,Medium,Rainy,City Road,Car,Sunday,Night,65.9
+11.29,41.2,6,High,Clear,Rural Road,Car,Friday,Night,26.9
+8.07,17.5,10,Medium,Clear,City Road,Car,Wednesday,Morning,37.0
+12.13,23.8,11,Medium,Clear,City Road,Car,Monday,Morning,37.7
+6.07,49.9,1,High,Rainy,Highway,Car,Friday,Night,19.7
+4.72,31.7,9,Low,Rainy,City Road,Car,Saturday,Night,15.2
+15.15,35.4,11,Low,Rainy,City Road,Car,Thursday,Afternoon,32.2
+11.26,48.6,7,Low,Clear,Rural Road,Car,Sunday,Morning,11.3
+17.36,17.6,12,Medium,Clear,City Road,Car,Wednesday,Morning,70.4
+13.47,32.7,11,Medium,Clear,City Road,Bus,Monday,Afternoon,40.4
+8.0,29.3,10,Low,Clear,City Road,Bike,Friday,Evening,18.0
+19.22,58.7,7,Medium,Foggy,Highway,Car,Monday,Morning,33.6
+8.54,22.1,9,Low,Foggy,City Road,Bike,Monday,Evening,34.5
+22.17,14.5,16,Medium,Foggy,City Road,Bike,Friday,Night,104.1
+8.39,51.7,4,Medium,Foggy,Highway,Car,Thursday,Morning,22.1
+5.17,47.4,1,Medium,Stormy,Highway,Car,Friday,Night,22.6
+24.35,56.3,12,Low,Clear,Rural Road,Car,Saturday,Night,28.2
+8.23,28.9,11,Medium,Clear,City Road,Bike,Wednesday,Afternoon,23.2
+8.56,17.9,11,Medium,Clear,City Road,Car,Friday,Morning,36.4
+5.3,75.8,4,Low,Clear,Highway,Car,Thursday,Afternoon,10.7
+10.75,92.2,1,Low,Clear,Highway,Bike,Friday,Afternoon,6.9
+5.69,15.5,7,High,Clear,City Road,Truck,Friday,Afternoon,37.2
+23.58,34.8,8,High,Stormy,Highway,Car,Wednesday,Night,63.2
+9.29,19.0,9,Medium,Clear,City Road,Bike,Thursday,Morning,40.2
+6.76,39.4,7,Low,Stormy,Rural Road,Car,Friday,Afternoon,21.9
+11.8,18.8,5,High,Rainy,Rural Road,Bike,Monday,Night,51.8
+34.76,8.0,22,High,Rainy,City Road,Bike,Tuesday,Morning,282.4
+12.1,28.8,6,Medium,Rainy,Rural Road,Bike,Monday,Morning,35.3
+10.02,44.8,4,Medium,Clear,Rural Road,Car,Tuesday,Afternoon,21.6
+11.65,29.9,11,Low,Rainy,City Road,Car,Thursday,Night,33.5
+17.84,35.5,14,Low,Clear,City Road,Bus,Sunday,Night,40.2
+16.96,35.0,8,High,Stormy,Highway,Car,Sunday,Night,50.8
+13.25,27.7,9,Medium,Clear,City Road,Truck,Saturday,Night,36.4
+19.65,29.0,14,Low,Clear,City Road,Car,Thursday,Morning,48.8
+12.01,33.4,9,Low,Rainy,City Road,Car,Tuesday,Afternoon,30.0
+10.49,40.1,4,Medium,Rainy,Rural Road,Car,Wednesday,Evening,23.0
+11.87,38.7,10,Low,Clear,City Road,Car,Saturday,Morning,18.4
+8.42,56.7,3,High,Rainy,Highway,Bus,Sunday,Night,28.4
+18.04,8.0,14,High,Clear,City Road,Car,Sunday,Evening,151.7
+8.19,30.4,8,Medium,Rainy,City Road,Bike,Wednesday,Night,26.4
+3.42,46.1,3,Medium,Clear,Rural Road,Bike,Thursday,Afternoon,4.8
+4.7,26.9,6,Medium,Clear,City Road,Bus,Thursday,Evening,21.5
+13.99,24.3,12,Medium,Clear,City Road,Bike,Monday,Morning,40.3
+7.44,20.3,8,Medium,Clear,City Road,Truck,Monday,Morning,35.0
+17.18,75.6,9,Low,Clear,Highway,Bus,Monday,Evening,21.3
+11.32,24.4,12,Medium,Clear,City Road,Car,Saturday,Morning,39.9
+17.97,31.2,12,Low,Clear,City Road,Bus,Tuesday,Afternoon,47.8
+3.61,29.4,7,Medium,Clear,City Road,Truck,Friday,Night,18.6
+8.15,44.4,8,Low,Clear,City Road,Car,Wednesday,Afternoon,16.0
+6.63,41.4,9,Low,Clear,City Road,Bike,Saturday,Afternoon,14.7
+38.52,74.3,14,Low,Rainy,Highway,Car,Monday,Afternoon,40.2
+8.94,8.0,9,Medium,Stormy,City Road,Bike,Wednesday,Evening,79.9
+4.66,41.3,8,Low,Clear,City Road,Car,Tuesday,Night,11.9
+13.84,34.5,3,High,Foggy,Highway,Bike,Thursday,Evening,43.4
+6.31,69.0,3,Medium,Clear,Highway,Car,Thursday,Afternoon,7.3
+18.99,36.6,14,Low,Clear,City Road,Bike,Tuesday,Afternoon,38.2
+20.72,18.6,13,Medium,Rainy,City Road,Car,Friday,Morning,80.3
+6.67,25.7,10,Low,Rainy,City Road,Bike,Sunday,Morning,21.4
+7.56,19.2,4,High,Foggy,Rural Road,Car,Monday,Afternoon,42.9
+13.14,40.3,10,Medium,Clear,City Road,Bike,Monday,Afternoon,31.6
+19.29,9.4,11,High,Rainy,City Road,Car,Sunday,Night,141.5
+13.98,46.0,10,Low,Clear,City Road,Car,Friday,Night,24.4
+8.94,23.4,12,Medium,Clear,City Road,Car,Sunday,Morning,30.3
+5.19,28.2,8,Medium,Clear,City Road,Truck,Friday,Afternoon,20.2
+27.07,8.0,15,High,Stormy,City Road,Car,Saturday,Morning,225.7
+14.17,63.2,4,Medium,Clear,Highway,Bike,Tuesday,Morning,15.5
+30.22,44.7,9,Medium,Foggy,Highway,Car,Thursday,Afternoon,55.0
+15.28,73.4,5,Low,Rainy,Highway,Bike,Wednesday,Night,16.6
+28.06,65.6,12,Low,Rainy,Highway,Car,Saturday,Morning,40.1
+7.18,12.9,8,Medium,Rainy,City Road,Car,Monday,Evening,49.6
+7.48,32.5,3,Medium,Foggy,Rural Road,Car,Monday,Afternoon,23.5
+10.26,65.7,3,Low,Clear,Highway,Car,Thursday,Evening,9.1
+6.85,36.9,5,High,Clear,Rural Road,Car,Sunday,Night,25.1
+4.24,45.3,2,High,Rainy,Highway,Car,Sunday,Night,22.4
+7.93,35.1,8,Low,Clear,City Road,Bike,Friday,Night,15.8
+15.16,32.7,11,Medium,Clear,City Road,Truck,Thursday,Afternoon,42.9
+5.55,32.6,11,Low,Clear,City Road,Car,Tuesday,Morning,15.9
+5.91,28.2,10,Medium,Clear,City Road,Truck,Sunday,Night,20.8
+8.22,37.7,11,Low,Clear,City Road,Car,Tuesday,Night,16.4
+6.42,30.0,6,Medium,Clear,City Road,Car,Monday,Night,18.2
+8.49,24.7,9,Medium,Foggy,City Road,Car,Thursday,Afternoon,34.4
+10.69,32.3,5,High,Clear,Rural Road,Car,Wednesday,Afternoon,32.4
+5.77,53.8,4,Low,Stormy,Highway,Car,Thursday,Morning,17.9
+8.33,41.3,6,High,Stormy,Highway,Bus,Sunday,Afternoon,34.3
+11.23,40.1,10,Low,Clear,City Road,Bike,Tuesday,Afternoon,12.9
+7.01,74.0,2,Low,Rainy,Highway,Bike,Sunday,Afternoon,10.2
+5.19,37.8,3,Medium,Rainy,Rural Road,Car,Tuesday,Night,14.7
+7.31,56.9,4,Medium,Rainy,Highway,Car,Wednesday,Evening,15.9
+9.23,44.8,5,High,Clear,Highway,Bike,Monday,Morning,20.0
+4.12,8.0,8,High,Clear,City Road,Car,Friday,Evening,41.9
+15.29,36.5,12,Low,Clear,City Road,Car,Sunday,Evening,27.5
+9.51,46.5,4,High,Rainy,Highway,Car,Sunday,Evening,29.5
+7.33,31.5,5,Low,Stormy,Rural Road,Car,Tuesday,Night,25.0
+4.5,22.9,9,Medium,Rainy,City Road,Bike,Saturday,Night,21.8
+14.24,29.8,12,Low,Rainy,City Road,Car,Monday,Afternoon,41.0
+20.83,8.0,13,High,Stormy,City Road,Car,Friday,Afternoon,182.7
+8.12,25.2,9,Low,Rainy,City Road,Truck,Friday,Morning,33.1
+28.77,71.6,12,Low,Clear,Rural Road,Truck,Tuesday,Night,33.8
+10.94,56.5,4,Medium,Foggy,Highway,Car,Monday,Night,25.8
+11.16,14.7,9,High,Clear,City Road,Car,Monday,Evening,61.7
+17.62,15.2,13,High,Clear,City Road,Bus,Friday,Morning,91.4
+14.65,24.7,10,Medium,Clear,City Road,Car,Friday,Evening,41.4
+5.53,8.0,9,High,Stormy,City Road,Car,Monday,Night,64.4
+7.95,47.5,4,High,Clear,Highway,Car,Thursday,Morning,16.2
+19.26,37.1,10,Medium,Clear,Rural Road,Car,Saturday,Evening,42.2
+14.81,77.7,7,Low,Clear,Highway,Truck,Tuesday,Evening,16.2
+28.92,8.0,17,High,Clear,City Road,Bus,Friday,Evening,237.8
+13.58,61.2,5,Medium,Clear,Highway,Truck,Wednesday,Evening,19.3
+15.08,60.6,7,Medium,Rainy,Highway,Bike,Tuesday,Night,22.3
+7.29,11.4,10,Low,Foggy,City Road,Bike,Wednesday,Morning,47.7
+20.66,66.3,6,Medium,Clear,Highway,Bus,Wednesday,Evening,33.2
+2.85,85.3,5,Low,Clear,Highway,Bike,Thursday,Night,5.0
+12.24,26.8,10,High,Clear,Rural Road,Car,Tuesday,Night,39.6
+15.33,45.2,13,Low,Clear,City Road,Car,Wednesday,Afternoon,21.0
+13.1,24.1,12,Low,Rainy,City Road,Bike,Friday,Night,32.9
+10.99,8.0,11,High,Rainy,City Road,Car,Wednesday,Afternoon,98.5
+10.32,31.4,9,Low,Rainy,City Road,Car,Friday,Afternoon,25.1
+11.24,40.4,10,Low,Clear,City Road,Car,Monday,Night,22.6
+6.03,62.4,5,Medium,Rainy,Highway,Bike,Monday,Afternoon,12.6
+13.06,14.6,9,High,Clear,City Road,Car,Sunday,Afternoon,65.9
+7.34,30.1,7,Low,Clear,City Road,Car,Thursday,Evening,16.0
+8.12,28.5,4,Low,Stormy,Rural Road,Car,Friday,Evening,29.7
+5.64,53.8,4,High,Rainy,Highway,Car,Saturday,Night,17.4
+43.19,8.0,20,High,Foggy,City Road,Truck,Tuesday,Evening,353.8
+12.56,61.3,5,Medium,Foggy,Highway,Car,Sunday,Morning,25.8
+4.99,20.8,8,Low,Rainy,City Road,Car,Wednesday,Morning,21.1
+11.86,29.2,9,Low,Foggy,City Road,Car,Sunday,Night,35.8
+20.53,82.9,5,Low,Clear,Highway,Bus,Wednesday,Afternoon,16.6
+12.98,30.5,9,Low,Clear,City Road,Bike,Wednesday,Morning,21.4
+10.83,28.9,10,Medium,Clear,City Road,Car,Friday,Morning,31.5
+7.0,34.7,9,Low,Clear,City Road,Car,Tuesday,Morning,20.0
+12.99,36.0,7,Medium,Clear,Rural Road,Bike,Friday,Morning,25.2
+16.63,36.9,13,Medium,Clear,City Road,Truck,Sunday,Night,43.5
+16.73,48.9,6,Medium,Rainy,Highway,Car,Friday,Evening,25.8
+12.33,21.2,9,Low,Rainy,City Road,Car,Monday,Evening,41.2
+12.31,41.8,6,High,,Highway,Car,Friday,Morning,34.0
+22.37,26.0,14,Medium,Clear,City Road,Car,Monday,Evening,60.6
+21.11,23.6,15,Medium,Rainy,City Road,Bike,Monday,Night,61.9
+9.99,79.4,5,Low,Clear,Highway,Truck,Tuesday,Night,11.5
+27.57,78.7,13,Low,Clear,Highway,Truck,Wednesday,Afternoon,31.0
+5.04,12.7,7,High,Clear,City Road,Bus,Monday,Evening,41.2
+12.63,31.2,12,Medium,Clear,City Road,Car,Monday,Afternoon,32.7
+13.33,35.6,14,Low,Clear,City Road,Truck,Saturday,Night,32.4
+6.77,13.4,8,Medium,Foggy,City Road,Car,Thursday,Night,42.4
+4.44,61.6,3,Medium,Rainy,Highway,Car,Tuesday,Morning,12.0
+6.86,8.0,7,High,Rainy,City Road,Bike,Thursday,Afternoon,64.8
+18.45,73.4,9,Low,Clear,Highway,Car,Friday,Morning,18.2
+18.74,8.0,14,High,Foggy,City Road,Bus,Saturday,Evening,165.3
+16.14,34.7,11,Low,Rainy,City Road,Truck,Wednesday,Afternoon,38.0
+7.41,18.2,9,Medium,Clear,City Road,Bus,Tuesday,Evening,35.6
+18.87,16.9,13,Medium,Rainy,City Road,Bus,Sunday,Night,79.4
+7.71,49.3,9,Low,Clear,City Road,Car,Friday,Night,16.9
+13.06,41.8,8,Low,Clear,Rural Road,Car,Sunday,Morning,23.0
+11.2,19.2,11,Medium,Clear,City Road,Bus,Wednesday,Morning,45.7
+9.02,31.9,5,High,Clear,Rural Road,Bike,Monday,Night,29.7
+15.71,20.9,13,Medium,Clear,City Road,Truck,Wednesday,Morning,59.7
+17.42,17.9,14,High,Clear,City Road,Car,Wednesday,Afternoon,71.6
+7.16,8.0,8,High,Clear,City Road,Car,Saturday,Night,69.6
+11.57,10.9,10,Medium,Stormy,City Road,Car,Saturday,Afternoon,84.3
+16.93,50.4,4,High,Clear,Highway,Bike,Monday,Morning,26.6
+2.2,58.4,4,Low,Clear,Rural Road,Bus,Friday,Night,8.4
+14.01,69.1,8,Low,Clear,Highway,Truck,Wednesday,Evening,18.3
+17.13,37.9,7,High,Foggy,Highway,Car,Friday,Afternoon,39.9
+14.36,8.0,11,High,Rainy,City Road,Car,Wednesday,Evening,127.0
+14.73,13.4,11,Low,Foggy,City Road,Car,Thursday,Evening,79.6
+10.76,68.4,4,Medium,Clear,Highway,Car,Saturday,Evening,15.8
+16.49,30.8,12,Medium,Clear,City Road,Car,Wednesday,Night,40.6
+5.44,8.0,7,High,Rainy,City Road,Bike,Tuesday,Night,56.4
+6.88,39.7,4,Medium,Clear,Rural Road,Car,Friday,Afternoon,12.3
+14.59,29.8,6,Medium,Foggy,Rural Road,Car,Sunday,Night,46.2
+16.52,50.2,8,Medium,Foggy,Highway,Bike,Thursday,Night,28.6
+20.6,24.5,14,Medium,Clear,City Road,Bus,Sunday,Morning,64.9
+25.36,23.0,10,Medium,Stormy,Rural Road,Car,Tuesday,Afternoon,82.9
+7.47,8.0,9,High,Rainy,City Road,Car,Saturday,Evening,72.2
+5.97,32.7,8,Medium,Clear,City Road,Bike,Sunday,Night,15.0
+18.22,36.8,14,Low,Clear,City Road,Bus,Wednesday,Evening,39.1
+8.8,48.3,4,Low,Clear,Rural Road,Bus,Tuesday,Evening,18.6
+11.0,38.6,7,Medium,Foggy,Rural Road,Car,Friday,Afternoon,27.5
+17.23,53.9,6,High,Clear,Highway,Bike,Sunday,Morning,30.0
+12.62,41.3,12,Low,Clear,City Road,Truck,Monday,Night,25.4
+16.21,25.6,13,Low,Rainy,City Road,Car,Friday,Evening,49.5
+7.07,27.2,10,Medium,Clear,City Road,Car,Sunday,Afternoon,23.8
+13.42,50.1,9,Low,Clear,Rural Road,Truck,Monday,Night,23.8
+13.27,8.0,11,High,Rainy,City Road,Car,Thursday,Morning,116.2
+20.41,43.0,15,Low,Clear,City Road,Bike,Monday,Afternoon,35.9
+22.87,83.4,11,Low,Clear,Highway,Bus,Tuesday,Night,25.3
+8.69,12.0,7,High,Clear,City Road,Car,Thursday,Afternoon,55.7
+6.37,63.1,3,Low,Clear,Rural Road,Bike,Wednesday,Night,5.0
+16.73,38.9,10,Low,Clear,City Road,Car,Monday,Night,35.5
+4.21,35.0,5,Low,Rainy,Rural Road,Bus,Saturday,Morning,15.2
+17.37,19.1,10,Low,Stormy,City Road,Truck,Tuesday,Afternoon,67.8
+18.1,47.9,10,Low,Clear,City Road,Bus,Sunday,Night,31.3
+8.31,16.4,7,Low,Stormy,City Road,Car,Tuesday,Afternoon,39.3
+2.45,20.2,4,Low,Rainy,City Road,Bus,Thursday,Morning,16.7
+19.14,78.5,8,Low,Rainy,Highway,Truck,Saturday,Morning,21.8
+23.74,18.7,13,Medium,Rainy,City Road,Bike,Thursday,Morning,86.5
+22.87,10.3,11,Medium,Rainy,City Road,Bike,Wednesday,Morning,141.2
+23.27,52.6,9,Medium,Foggy,Highway,Car,Saturday,Afternoon,40.7
+5.21,31.6,8,Low,Clear,City Road,Bus,Monday,Afternoon,18.9
+11.76,70.5,2,Medium,Clear,Highway,Car,Saturday,Night,16.3
+13.22,50.6,5,High,Clear,Highway,Car,Friday,Evening,27.2
+12.15,14.6,10,High,Clear,City Road,Truck,Saturday,Morning,69.2
+16.3,54.5,6,Low,Rainy,Highway,Truck,Wednesday,Morning,27.4
+6.14,25.4,8,Low,Clear,City Road,Truck,Wednesday,Morning,26.4
+4.14,39.4,9,Low,Clear,City Road,Car,Friday,Afternoon,11.4
+3.42,45.9,10,Low,Clear,City Road,Car,Friday,Evening,5.7
+19.36,41.4,8,Medium,Clear,Rural Road,Car,Sunday,Morning,37.0
+5.17,63.9,1,Medium,Rainy,Highway,Car,Sunday,Afternoon,12.3
+12.11,65.9,5,Low,Rainy,Highway,Bus,Monday,Afternoon,21.9
+8.09,26.4,5,Medium,Clear,Rural Road,Bike,Tuesday,Morning,22.0
+8.3,22.2,9,Medium,Clear,City Road,Car,Sunday,Morning,30.2
+10.17,46.5,6,Low,Clear,Rural Road,Car,Wednesday,Morning,11.4
+8.51,45.7,7,High,Clear,Highway,Car,Friday,Morning,22.3
+4.14,45.1,1,Low,Rainy,Rural Road,Bus,Monday,Night,16.6
+10.18,18.3,5,High,Rainy,Rural Road,Bike,Monday,Night,47.2
+7.16,42.1,7,Low,Clear,Rural Road,Car,Wednesday,Evening,10.8
+6.96,21.9,8,High,Clear,City Road,Car,Saturday,Night,24.6
+27.42,32.6,12,High,Stormy,Highway,Car,Saturday,Night,78.4
+4.71,20.6,5,High,Rainy,Rural Road,Car,Sunday,Night,28.6
+9.91,46.8,6,High,Clear,Highway,Truck,Tuesday,Morning,32.5
+12.69,18.5,13,High,Clear,City Road,Bike,Tuesday,Night,55.3
+27.43,40.7,12,Medium,Clear,Rural Road,Car,Thursday,Afternoon,46.5
+5.77,8.0,5,High,Stormy,City Road,Bus,Thursday,Evening,62.9
+22.23,37.1,13,Low,Clear,City Road,Car,Monday,Night,39.8
+10.14,69.2,8,Medium,Clear,Highway,Car,Thursday,Afternoon,15.7
+10.35,20.2,8,Medium,Stormy,City Road,Bike,Sunday,Afternoon,46.1
+15.79,34.2,7,High,Rainy,Highway,Car,Tuesday,Morning,40.6
+24.12,25.6,11,Medium,Clear,City Road,Car,Saturday,Morning,64.3
+8.47,67.0,2,Medium,Clear,Highway,Bus,Thursday,Morning,17.0
+13.21,46.5,8,Medium,Clear,Rural Road,Truck,Thursday,Afternoon,30.3
+12.23,31.4,10,Low,Rainy,City Road,Car,Friday,Night,30.8
+11.91,90.6,5,Low,Clear,Highway,Bike,Friday,Afternoon,9.4
+17.27,8.0,11,Medium,Stormy,City Road,Car,Friday,Evening,148.7
+7.45,20.0,2,Medium,Stormy,Rural Road,Bike,Monday,Morning,36.1
+9.14,45.3,6,Low,Clear,Rural Road,Car,Wednesday,Evening,12.5
+4.21,22.8,7,Medium,Rainy,City Road,Bike,Saturday,Night,11.0
+15.11,74.8,4,Medium,Clear,Highway,Car,Monday,Afternoon,16.7
+11.61,78.6,5,Low,Clear,Highway,Truck,Saturday,Afternoon,14.2
+23.79,51.5,10,Medium,Rainy,Highway,Bus,Thursday,Night,40.8
+5.7,64.6,3,Medium,Clear,Highway,Car,Monday,Evening,5.9
+29.31,34.6,16,Low,Clear,City Road,Bus,Monday,Afternoon,61.8
+16.5,50.7,7,High,Clear,Highway,Car,Sunday,Morning,32.0
+2.48,15.0,6,High,Clear,City Road,Bike,Monday,Night,19.7
+16.11,26.7,12,Medium,Clear,City Road,Car,Monday,Evening,38.1
+7.98,34.3,6,Low,Rainy,Rural Road,Car,Monday,Morning,16.5
+9.66,8.0,11,Medium,Foggy,City Road,Bike,Friday,Evening,88.0
+8.77,45.3,5,High,Rainy,Highway,Car,Sunday,Night,27.1
+21.49,10.6,13,Medium,Foggy,City Road,Bike,Tuesday,Night,134.9
+3.84,27.6,4,High,Clear,Rural Road,Bike,Saturday,Morning,13.8
+10.46,49.9,5,Medium,Foggy,Highway,Car,Saturday,Afternoon,23.3
+10.96,35.5,9,Medium,Clear,City Road,Car,Tuesday,Night,25.9
+8.6,42.1,8,Low,Clear,City Road,Bike,Monday,Night,12.8
+6.53,8.0,9,Medium,Stormy,City Road,Bike,Thursday,Evening,59.5
+2.75,56.7,5,Low,Clear,Rural Road,Car,Monday,Afternoon,3.0
+10.56,71.6,2,Medium,Clear,Highway,Car,Monday,Night,17.7
+15.09,8.0,14,High,Clear,City Road,Bike,Thursday,Evening,124.4
+11.62,73.5,7,Low,Clear,Highway,Bike,Saturday,Evening,13.1
+6.54,33.7,9,Medium,Clear,City Road,Bus,Sunday,Night,23.6
+11.02,35.3,9,Low,Clear,City Road,Car,Friday,Afternoon,21.3
+23.95,11.7,15,Medium,Foggy,City Road,Bike,Tuesday,Evening,137.2
+7.64,18.9,8,Low,Clear,City Road,Bike,Wednesday,Morning,30.3
+12.56,37.4,5,High,Clear,Highway,Car,Friday,Evening,32.0
+13.54,49.8,5,Low,Clear,Rural Road,Car,Tuesday,Evening,16.5
+4.92,15.9,1,High,Foggy,Rural Road,Car,Thursday,Night,33.1
+9.41,25.7,9,High,Clear,Rural Road,Bus,Saturday,Afternoon,42.5
+9.47,29.7,9,Medium,Clear,City Road,Car,Saturday,Night,20.3
+11.36,8.0,10,High,Clear,City Road,Bike,Monday,Evening,96.6
+21.1,34.1,8,High,Rainy,Highway,Bike,Wednesday,Morning,53.6
+5.58,8.0,3,High,Rainy,Rural Road,Car,Tuesday,Morning,54.4
+21.81,54.2,8,Low,Rainy,Highway,Bus,Thursday,Morning,36.8
+15.71,25.7,12,Medium,Rainy,City Road,Bike,Tuesday,Afternoon,49.1
+29.75,69.9,11,Low,Clear,Highway,Car,Sunday,Evening,25.8
+3.22,74.8,1,Medium,Clear,Highway,Bus,Sunday,Night,13.1
+2.34,52.8,4,Low,Clear,Rural Road,Bike,Wednesday,Night,3.0
+38.63,63.8,15,Medium,Clear,Highway,Car,Wednesday,Evening,44.0
+4.79,29.4,8,Medium,Clear,City Road,Bike,Thursday,Afternoon,13.5
+6.81,22.2,9,Medium,Clear,City Road,Bike,Monday,Evening,24.8
+6.85,30.5,8,Medium,Clear,City Road,Car,Sunday,Afternoon,25.2
+15.31,8.0,11,High,Rainy,City Road,Truck,Saturday,Morning,137.1
+9.87,15.9,8,High,Clear,Rural Road,Bike,Wednesday,Evening,49.0
+7.43,65.8,2,Medium,Rainy,Highway,Bike,Thursday,Night,13.4
+26.81,22.0,13,Medium,Rainy,City Road,Car,Wednesday,Morning,89.1
+2.93,15.3,8,High,Clear,City Road,Car,Tuesday,Morning,21.0
+18.95,69.2,7,Low,Clear,Highway,Car,Wednesday,Morning,14.3
+10.81,60.3,3,Low,Rainy,Highway,Bike,Monday,Morning,14.1
+7.35,21.2,10,Low,Rainy,City Road,Bike,Saturday,Morning,28.8
+7.87,36.1,5,Medium,Clear,Rural Road,Bus,Friday,Morning,16.7
+9.31,21.7,7,Medium,Clear,City Road,Car,Sunday,Morning,32.0
+6.9,8.0,11,High,Rainy,City Road,Bike,Monday,Afternoon,67.9
+17.34,8.0,10,Medium,Rainy,City Road,Bus,Friday,Evening,147.8
+8.87,72.2,4,Low,Clear,Highway,Bus,Thursday,Morning,14.9
+16.0,37.3,4,High,Clear,Highway,Bus,Friday,Afternoon,37.4
+7.94,17.5,5,High,Foggy,Rural Road,Bus,Sunday,Night,46.3
+12.44,27.3,9,Low,Clear,City Road,Car,Wednesday,Morning,30.2
+12.44,36.9,8,Medium,Foggy,Rural Road,Bike,Monday,Night,32.9
+11.3,77.2,5,Low,Clear,Highway,Truck,Monday,Evening,15.7
+22.19,37.4,16,Low,Clear,City Road,Bike,Thursday,Evening,38.4
+23.4,38.3,14,Low,Clear,City Road,Car,Tuesday,Afternoon,42.8
+16.84,9.3,9,High,Clear,City Road,Truck,Monday,Afternoon,123.3
+19.8,28.9,9,Medium,Foggy,Rural Road,Car,Tuesday,Afternoon,60.6
+16.34,23.4,11,Medium,Clear,City Road,Car,Tuesday,Morning,50.7
+8.52,8.0,6,Medium,Stormy,City Road,Car,Monday,Afternoon,82.4
+10.33,77.0,3,Medium,Clear,Highway,Car,Thursday,Night,15.6
+3.24,8.3,2,High,Foggy,Rural Road,Car,Friday,Morning,41.6
+6.27,37.5,6,High,Foggy,Highway,Car,Wednesday,Evening,27.9
+4.81,45.1,4,Medium,Rainy,Highway,Truck,Monday,Evening,19.3
+7.31,17.4,8,Medium,Clear,City Road,Car,Friday,Morning,35.0
+12.99,8.0,7,High,Rainy,Rural Road,Bike,Monday,Morning,112.3
+8.34,27.1,6,Medium,Clear,City Road,Bus,Saturday,Evening,27.2
+17.79,8.0,11,High,Stormy,City Road,Bus,Wednesday,Morning,168.4
+6.41,57.9,5,Low,Clear,Rural Road,Car,Wednesday,Night,7.0
+15.59,8.0,12,High,Clear,City Road,Car,Tuesday,Morning,127.7
+6.09,24.3,7,Medium,Clear,City Road,Bike,Tuesday,Morning,21.9
+21.34,70.3,8,Low,Rainy,Highway,Bus,Tuesday,Afternoon,29.0
+6.41,11.0,9,Medium,Stormy,City Road,Bike,Thursday,Afternoon,52.3
+14.35,21.5,11,Medium,Clear,City Road,Car,Tuesday,Morning,52.7
+7.44,66.0,5,Low,Rainy,Highway,Bike,Friday,Evening,7.3
+25.33,60.2,10,Medium,Foggy,Highway,Bike,Tuesday,Afternoon,37.8
+24.75,61.1,10,High,Clear,Highway,Bike,Thursday,Evening,40.0
+14.09,40.4,14,Low,Clear,City Road,Bus,Thursday,Morning,34.2
+13.94,45.1,7,Medium,Rainy,Highway,Bus,Friday,Morning,33.6
+17.08,28.3,11,Medium,Rainy,Rural Road,Bike,Saturday,Morning,51.6
+15.45,30.0,10,Low,Clear,City Road,Bike,Thursday,Morning,32.9
+18.34,9.4,10,High,Foggy,City Road,Bike,Saturday,Night,134.6
+6.32,13.4,8,High,Clear,City Road,Bike,Tuesday,Afternoon,43.9
+11.3,70.3,5,Low,Foggy,Highway,Car,Saturday,Afternoon,20.6
+7.76,8.0,11,High,Foggy,City Road,Bike,Wednesday,Evening,80.5
+24.55,27.4,8,High,Foggy,Highway,Bike,Friday,Morning,67.7
+5.28,57.5,4,Low,Clear,Rural Road,Car,Thursday,Evening,11.0
+26.91,8.0,16,High,Clear,City Road,Car,Sunday,Evening,217.8
+11.42,75.0,5,Low,Clear,Highway,Bike,Tuesday,Night,7.3
+18.49,8.2,12,High,Clear,City Road,Bike,Thursday,Morning,149.9
+8.3,8.7,9,Medium,Rainy,City Road,Car,Tuesday,Morning,69.2
+5.02,68.6,4,Medium,Clear,Highway,Car,Friday,Night,14.4
+24.02,32.7,17,Low,Clear,City Road,Car,Monday,Afternoon,53.3
+14.79,18.1,7,High,Clear,Rural Road,Truck,Wednesday,Morning,62.7
+5.56,69.9,2,Low,Clear,Highway,Bus,Monday,Evening,8.1
+10.58,45.6,12,Low,Clear,City Road,Bike,Wednesday,Afternoon,18.5
+10.14,34.3,8,Low,Rainy,City Road,Car,Thursday,Night,21.9
+14.5,10.2,14,High,Rainy,City Road,Bike,Wednesday,Night,101.7
+6.3,46.9,6,Low,Clear,Rural Road,Bike,Wednesday,Evening,7.5
+5.49,39.1,5,High,Foggy,Highway,Truck,Tuesday,Morning,28.5
+12.16,8.0,11,Medium,Foggy,City Road,Car,Saturday,Evening,108.1
+6.52,68.3,0,Low,Clear,Highway,Car,Saturday,Morning,3.9
+24.43,74.0,8,Low,Rainy,Highway,Bike,Thursday,Night,18.8
+17.53,70.6,8,Low,Clear,Highway,Car,Monday,Evening,13.5
+17.25,29.9,11,Medium,Clear,City Road,Bike,Monday,Afternoon,38.9
+3.19,14.2,7,High,Clear,City Road,Bus,Friday,Night,28.4
+8.49,38.3,10,Low,Clear,City Road,Car,Sunday,Evening,15.7
+9.51,9.5,9,High,Foggy,City Road,Car,Sunday,Afternoon,83.9
+5.93,16.9,6,Low,Foggy,City Road,Bike,Wednesday,Morning,29.5
+15.48,8.0,13,High,Foggy,City Road,Bus,Thursday,Evening,142.9
+14.35,8.0,12,High,Rainy,City Road,Car,Tuesday,Afternoon,127.7
+16.87,8.0,12,High,Rainy,City Road,Car,Monday,Morning,143.8
+19.59,8.2,14,Medium,Stormy,City Road,Bike,Saturday,Morning,159.2
+19.05,26.6,9,High,Clear,Rural Road,Car,Wednesday,Evening,58.5
+40.44,74.8,17,Low,Clear,Highway,Bus,Thursday,Night,46.0
+11.1,28.2,10,Low,Rainy,City Road,Bike,Wednesday,Afternoon,26.4
+10.05,64.6,7,Low,Clear,Highway,Car,Wednesday,Morning,12.3
+15.37,22.7,9,Medium,Clear,City Road,Bus,Sunday,Evening,54.9
+21.5,36.8,10,Medium,Clear,Rural Road,Bike,Saturday,Morning,40.1
+4.16,57.9,2,Medium,Rainy,Highway,Car,Friday,Morning,17.7
+7.06,9.5,7,High,Clear,City Road,Bike,Wednesday,Evening,59.0
+8.02,50.1,7,Low,Clear,Rural Road,Truck,Saturday,Evening,15.6
+11.73,29.3,7,Medium,Clear,Rural Road,Bike,Wednesday,Morning,28.4
+8.52,43.9,2,Low,Clear,Rural Road,Car,Thursday,Morning,11.9
+19.76,24.7,14,Low,Foggy,City Road,Bike,Tuesday,Morning,58.3
+12.66,19.3,11,Medium,Clear,City Road,Car,Friday,Evening,44.3
+10.51,30.9,4,High,Rainy,Highway,Bike,Monday,Evening,34.6
+14.42,18.0,10,Medium,Rainy,City Road,Bike,Saturday,Evening,62.1
+3.47,69.1,0,Low,Clear,Highway,Car,Friday,Morning,6.9
+14.04,63.3,5,Medium,Foggy,Highway,Car,Monday,Night,26.6
+6.63,23.9,8,Low,Rainy,City Road,Truck,Thursday,Morning,22.7
+17.85,8.0,13,High,Rainy,City Road,Car,Tuesday,Night,148.1
+3.82,36.8,8,Medium,Clear,City Road,Bus,Thursday,Night,19.8
+14.95,33.5,10,Low,Clear,City Road,Bike,Monday,Afternoon,34.2
+6.74,69.2,4,Low,Stormy,Highway,Bike,Saturday,Night,17.6
+21.74,60.8,8,Low,Rainy,Highway,Car,Thursday,Evening,28.0
+4.37,8.0,6,High,Stormy,City Road,Car,Wednesday,Night,58.5
+11.49,50.9,3,Medium,Foggy,Highway,Car,Sunday,Morning,26.1
+16.44,44.9,8,High,Clear,Highway,Bike,Friday,Morning,34.8
+13.59,58.2,6,Medium,Rainy,Highway,Truck,Friday,Night,23.4
+13.54,28.2,12,Medium,Clear,City Road,Bus,Tuesday,Night,44.6
+5.25,58.9,2,Low,Rainy,Highway,Car,Thursday,Evening,14.8
+5.05,64.8,3,High,Clear,Highway,Car,Friday,Afternoon,15.9
+13.26,37.6,9,Low,Clear,City Road,Car,Sunday,Afternoon,27.9
+12.15,67.8,4,Medium,Rainy,Highway,Truck,Friday,Afternoon,24.0
+6.1,42.1,4,Medium,Rainy,Rural Road,Car,Tuesday,Afternoon,17.9
+5.89,15.8,8,Medium,Rainy,City Road,Car,Friday,Evening,35.3
+10.61,54.3,2,High,Clear,Highway,Bike,Monday,Night,17.7
+9.02,56.0,4,Low,Clear,Rural Road,Bike,Wednesday,Afternoon,7.9
+29.18,29.9,12,Medium,Stormy,Rural Road,Car,Sunday,Night,75.7
+22.45,22.5,15,Medium,Clear,City Road,Bike,Saturday,Morning,69.7
+17.49,62.2,6,Medium,Clear,Highway,Car,Sunday,Night,18.4
+23.97,29.9,11,Low,Rainy,Rural Road,Car,Wednesday,Evening,59.9
+7.69,79.5,4,Low,Clear,Highway,Car,Friday,Evening,6.6
+8.36,18.8,9,Low,Rainy,City Road,Car,Friday,Afternoon,37.8
+20.68,41.0,14,Low,Clear,City Road,Truck,Tuesday,Afternoon,36.8
+11.47,56.8,3,Medium,Foggy,Highway,Bike,Sunday,Afternoon,22.5
+11.87,18.8,9,Medium,Foggy,City Road,Bus,Sunday,Night,58.8
+5.66,8.0,10,Medium,Stormy,City Road,Car,Monday,Morning,62.3
+20.17,15.8,15,Medium,Rainy,City Road,Bike,Saturday,Evening,89.7
+15.35,71.0,8,Medium,Clear,Highway,Truck,Thursday,Night,26.0
+9.62,37.8,11,Low,Rainy,City Road,Car,Friday,Evening,27.2
+8.39,25.6,2,Medium,Foggy,Rural Road,Truck,Thursday,Evening,35.1
+21.95,70.7,7,Low,Rainy,Highway,Bike,Tuesday,Evening,25.8
+7.74,31.5,4,Low,Rainy,Rural Road,Bike,Monday,Evening,22.6
+4.67,34.1,7,Medium,Rainy,Rural Road,Car,Thursday,Evening,20.3
+22.63,23.1,13,Medium,Rainy,City Road,Bike,Saturday,Night,66.1
+22.88,65.3,10,Low,Rainy,Highway,Bike,Saturday,Evening,31.6
+7.73,31.4,9,Medium,Clear,City Road,Truck,Tuesday,Night,26.4
+32.29,45.5,14,Medium,Clear,Rural Road,Truck,Sunday,Evening,55.4
+10.75,23.3,10,Medium,Rainy,City Road,Car,Wednesday,Night,38.9
+7.78,66.1,2,Medium,Clear,Highway,Truck,Thursday,Night,17.2
+15.08,21.9,3,Medium,Foggy,Rural Road,Bus,Wednesday,Morning,60.7
+5.17,36.1,10,Low,Rainy,City Road,Bike,Thursday,Night,16.5
+6.5,24.2,3,High,Clear,Rural Road,Car,Thursday,Evening,31.0
+13.3,10.3,8,Medium,Foggy,City Road,Car,Friday,Afternoon,90.3
+12.02,24.6,11,Medium,Rainy,City Road,Car,Thursday,Night,43.5
+18.45,8.6,13,Medium,Rainy,City Road,Car,Thursday,Morning,140.7
+5.63,24.2,9,Medium,Clear,City Road,Truck,Friday,Evening,24.3
+29.29,46.0,13,Medium,Foggy,Highway,Car,Wednesday,Evening,56.7
+8.93,43.6,4,Medium,Clear,Rural Road,Bike,Thursday,Night,13.4
+11.78,8.0,9,High,Rainy,City Road,Bike,Monday,Evening,103.0
+8.69,54.6,4,High,Clear,Highway,Bike,Sunday,Evening,15.3
+5.15,31.0,5,Medium,Rainy,Rural Road,Car,Monday,Evening,22.8
+11.08,60.3,2,Medium,Rainy,Highway,Bike,Sunday,Evening,20.4
+16.32,21.5,12,High,Rainy,City Road,Bike,Saturday,Night,62.3
+10.16,55.2,7,Low,Clear,Rural Road,Bike,Sunday,Night,10.6
+6.92,8.0,10,High,Foggy,City Road,Car,Monday,Morning,72.3
+18.79,50.5,9,Medium,Rainy,Highway,Bike,Tuesday,Evening,31.2
+19.18,86.3,9,Low,Clear,Highway,Car,Monday,Afternoon,15.0
+9.87,50.0,0,Low,Stormy,Highway,Bike,Wednesday,Morning,18.6
+13.76,8.0,13,High,Rainy,City Road,Car,Sunday,Night,123.6
+18.71,24.7,13,Low,Stormy,City Road,Car,Saturday,Night,58.0
+16.22,65.5,9,Low,Stormy,Highway,Bus,Friday,Night,33.8
+13.55,21.6,9,Low,Foggy,City Road,Car,Saturday,Afternoon,43.3
+15.86,27.7,9,Low,Rainy,City Road,Truck,Monday,Afternoon,49.3
+14.28,75.1,9,Low,Rainy,Highway,Bus,Saturday,Night,22.8
+11.43,60.2,4,Medium,Clear,Highway,Car,Wednesday,Morning,18.0
+5.56,25.0,7,Low,Clear,City Road,Car,Friday,Morning,16.6
+6.34,8.0,9,High,Rainy,City Road,Car,Saturday,Afternoon,66.6
+14.62,21.4,8,High,Clear,Rural Road,Truck,Friday,Evening,55.8
+8.65,18.9,11,Medium,Foggy,City Road,Bike,Wednesday,Afternoon,36.4
+14.33,34.6,11,Low,Clear,City Road,Car,Friday,Morning,27.1
+5.48,24.3,6,Medium,Clear,City Road,Bike,Thursday,Evening,17.9
+7.29,36.2,10,Low,Clear,City Road,Car,Friday,Night,18.9
+10.16,42.9,7,Medium,Clear,Rural Road,Bike,Thursday,Afternoon,19.9
+2.85,19.6,4,High,Clear,City Road,Bike,Wednesday,Afternoon,14.8
+6.75,12.3,10,High,Clear,City Road,Car,Tuesday,Afternoon,47.1
+7.83,41.0,0,High,Foggy,Highway,Bus,Wednesday,Afternoon,31.3
+12.5,24.5,12,Low,Clear,City Road,Car,Saturday,Evening,36.0
+9.82,29.9,8,Medium,Clear,City Road,Bike,Sunday,Afternoon,24.3
+12.87,38.7,8,Medium,Clear,Rural Road,Bike,Monday,Evening,25.7
+11.66,52.1,6,Medium,Clear,Highway,Truck,Tuesday,Morning,21.2
+9.59,16.6,9,Medium,Clear,City Road,Car,Thursday,Evening,40.9
+7.86,16.9,9,Low,Rainy,City Road,Truck,Friday,Morning,43.7
+11.88,35.9,10,Low,Rainy,City Road,Car,Tuesday,Afternoon,29.5
+21.52,20.4,15,Medium,Clear,City Road,Bus,Wednesday,Night,79.7
+7.84,71.6,7,Low,Rainy,Highway,Car,Monday,Afternoon,17.4
+28.64,75.6,9,Low,Clear,Highway,Bike,Monday,Evening,20.6
+12.0,55.9,0,High,Clear,Highway,Car,Tuesday,Afternoon,22.6
+17.95,15.8,8,High,Foggy,Rural Road,Truck,Saturday,Night,90.3
+13.85,31.7,10,Medium,Clear,City Road,Truck,Sunday,Night,33.6
+14.96,23.2,7,High,Foggy,Rural Road,Car,Thursday,Night,55.1
+6.72,54.5,2,High,Clear,Highway,Bike,Tuesday,Afternoon,14.7
+8.6,28.8,10,Low,Clear,City Road,Bike,Sunday,Afternoon,18.9
+4.11,42.7,1,Medium,Clear,Rural Road,Car,Tuesday,Evening,7.7
+10.03,32.0,10,Medium,Clear,City Road,Bike,Tuesday,Night,24.2
+15.72,53.8,7,Low,Stormy,Highway,Bike,Monday,Evening,34.8
+10.07,37.1,5,High,Clear,Highway,Bike,Wednesday,Evening,21.3
+18.48,16.5,13,Medium,Foggy,City Road,Car,Saturday,Night,85.2
+9.08,28.6,7,Medium,Foggy,Rural Road,Truck,Wednesday,Night,35.6
+7.56,25.9,9,Low,Rainy,City Road,Car,Thursday,Afternoon,24.3
+8.4,46.3,4,Low,Clear,Rural Road,Bike,Wednesday,Morning,5.9
+16.55,12.3,13,High,Clear,City Road,Car,Sunday,Afternoon,97.4
+25.3,29.6,16,Low,Clear,City Road,Car,Friday,Evening,55.7
+30.23,35.7,18,Low,Rainy,City Road,Car,Friday,Night,63.7
+15.62,56.3,5,Low,Clear,Rural Road,Car,Thursday,Afternoon,23.3
+18.02,8.0,12,Medium,Foggy,City Road,Bike,Thursday,Morning,144.2
+4.66,33.9,2,Medium,Rainy,Rural Road,Bike,Sunday,Afternoon,17.0
+5.41,19.7,9,Medium,Clear,City Road,Bike,Friday,Evening,20.4
+6.89,22.8,10,Low,Rainy,City Road,Bike,Saturday,Morning,19.4
+22.23,42.9,13,Low,Clear,City Road,Car,Monday,Afternoon,32.0
+22.05,8.0,13,High,Foggy,City Road,Car,Sunday,Afternoon,186.2
+33.93,52.3,15,Medium,Clear,Rural Road,Bike,Sunday,Night,47.1
+6.8,8.0,8,Medium,Stormy,City Road,Bike,Friday,Evening,62.0
+10.7,36.3,7,Medium,Foggy,Highway,Bike,Sunday,Evening,28.9
+4.09,35.4,5,High,Foggy,Highway,Car,Thursday,Evening,26.8
+4.93,77.2,4,Low,Clear,Highway,Bus,Tuesday,Morning,13.7
+9.57,59.9,5,Medium,Foggy,Highway,Car,Friday,Afternoon,20.5
+6.97,42.9,7,Medium,Clear,Rural Road,Bike,Friday,Night,14.1
+7.02,63.7,4,Low,Rainy,Highway,Car,Tuesday,Evening,14.8
+8.04,47.9,3,High,Clear,Highway,Bike,Tuesday,Evening,20.4
+23.59,73.8,8,Medium,Clear,Highway,Car,Wednesday,Night,27.0
+19.87,39.9,7,High,Clear,Highway,Bike,Thursday,Evening,41.0
+6.3,8.0,8,High,Clear,City Road,Car,Tuesday,Evening,60.6
+19.58,70.2,9,Medium,Clear,Highway,Bike,Saturday,Morning,22.7
+7.29,8.0,6,High,Foggy,City Road,Car,Monday,Morning,71.2
+4.62,69.6,2,Medium,Clear,Highway,Bike,Sunday,Morning,8.8
+7.88,36.9,5,High,Rainy,Rural Road,Car,Friday,Afternoon,24.1
+13.16,44.5,8,Low,Clear,Rural Road,Car,Wednesday,Evening,19.2
+6.71,31.0,4,Medium,Rainy,Rural Road,Bike,Wednesday,Night,20.2
+15.47,60.7,7,Medium,Rainy,Highway,Car,Friday,Afternoon,27.0
+8.19,77.5,2,Low,Clear,Highway,Car,Monday,Evening,8.8
+13.68,28.2,9,Medium,Rainy,City Road,Bus,Saturday,Night,47.9
+6.26,8.0,8,High,Foggy,City Road,Bus,Thursday,Evening,71.5
+11.28,17.8,11,Medium,Foggy,City Road,Bus,Tuesday,Afternoon,56.2
+6.82,42.4,9,Low,Clear,City Road,Car,Sunday,Afternoon,13.5
+9.73,43.4,4,Low,Clear,Rural Road,Bike,Friday,Evening,13.1
+28.88,34.5,12,Low,Rainy,Rural Road,Bus,Tuesday,Afternoon,65.5
+8.8,71.8,6,Low,Clear,Highway,Car,Friday,Morning,8.2
+5.34,8.0,9,High,Foggy,City Road,Bike,Wednesday,Evening,57.0
+11.68,65.2,5,Medium,Clear,Highway,Car,Saturday,Evening,20.4
+11.79,18.6,9,Low,Foggy,City Road,Truck,Thursday,Afternoon,53.7
+11.74,33.3,5,Medium,Clear,Rural Road,Bike,Sunday,Morning,22.3
+14.99,56.3,7,Low,Clear,Rural Road,Car,Sunday,Night,17.8
+8.57,23.9,9,Low,Stormy,City Road,Car,Monday,Afternoon,31.0
+15.79,9.8,12,Medium,Foggy,City Road,Car,Wednesday,Evening,111.1
+11.03,19.3,10,Medium,Foggy,City Road,Car,Tuesday,Morning,50.5
+5.17,8.0,7,High,Stormy,City Road,Bike,Thursday,Afternoon,56.3
+16.99,18.6,11,Medium,Clear,City Road,Bike,Tuesday,Evening,57.1
+12.29,30.0,13,Medium,Clear,City Road,Bike,Thursday,Morning,29.9
+15.34,23.8,11,High,Clear,City Road,Car,Tuesday,Afternoon,54.6
+5.52,8.0,6,High,Clear,City Road,Bike,Friday,Evening,54.6
+17.53,30.2,10,Medium,Clear,City Road,Car,Thursday,Night,42.5
+33.0,36.7,12,High,Stormy,Highway,Car,Sunday,Afternoon,76.1
+5.28,8.0,9,High,Clear,City Road,Truck,Sunday,Morning,55.9
+18.86,19.3,8,High,Clear,Rural Road,Bike,Friday,Morning,74.0
+12.32,38.6,13,Low,Clear,City Road,Bike,Thursday,Evening,22.4
+11.1,24.2,10,Medium,Clear,City Road,Truck,Saturday,Evening,38.5
+17.64,19.2,14,Medium,Clear,City Road,Car,Friday,Evening,64.1
+16.62,57.4,6,Medium,Rainy,Highway,Truck,Monday,Afternoon,27.0
+21.39,18.2,12,Medium,Clear,City Road,Bike,Wednesday,Morning,80.8
+5.64,38.2,3,High,Rainy,Highway,Bike,Sunday,Morning,23.7
+21.84,8.0,14,High,Foggy,City Road,Car,Wednesday,Morning,179.6
+13.61,42.7,6,Low,Rainy,Rural Road,Car,Monday,Afternoon,21.7
+4.16,26.5,8,Medium,Rainy,City Road,Car,Saturday,Afternoon,17.8
+8.85,23.0,10,Medium,Clear,City Road,Car,Sunday,Morning,32.2
+12.47,47.7,4,Low,Clear,Rural Road,Car,Friday,Evening,15.6
+8.74,45.1,9,Low,Clear,City Road,Bike,Friday,Afternoon,14.5
+10.35,26.2,9,Low,Stormy,City Road,Bike,Wednesday,Night,35.7
+8.07,15.0,4,High,Rainy,Rural Road,Car,Wednesday,Afternoon,47.0
+42.41,16.6,21,Medium,Clear,City Road,Bike,Sunday,Morning,167.5
+15.92,8.0,11,High,Clear,City Road,Truck,Sunday,Evening,137.8
+11.64,11.8,7,Medium,Foggy,City Road,Bike,Thursday,Evening,69.0
+6.18,13.8,8,High,Rainy,City Road,Bus,Wednesday,Night,50.3
+21.43,29.3,8,Medium,Rainy,Rural Road,Bike,Tuesday,Evening,52.7
+14.81,51.5,7,High,Foggy,Highway,Car,Monday,Afternoon,34.0
+6.54,60.5,4,Low,Rainy,Highway,Car,Thursday,Evening,10.8
+6.57,19.3,5,Medium,Rainy,City Road,Truck,Thursday,Night,38.7
+10.49,45.5,4,High,Clear,Highway,Bike,Friday,Evening,21.6
+11.71,50.9,6,High,Clear,Highway,Bus,Saturday,Night,34.0
+15.72,8.0,9,High,Stormy,City Road,Truck,Wednesday,Night,142.1
+10.88,33.2,7,Low,Rainy,Rural Road,Car,Tuesday,Night,28.1
+16.45,59.5,8,Medium,Clear,Highway,Car,Saturday,Evening,27.4
+8.75,77.7,4,Low,Rainy,Highway,Bike,Saturday,Afternoon,9.7
+10.89,38.4,9,Low,Clear,City Road,Car,Thursday,Night,19.1
+21.85,23.4,10,Medium,Foggy,City Road,Bike,Monday,Night,66.5
+16.85,81.0,8,Medium,Clear,Highway,Bus,Thursday,Afternoon,24.6
+11.25,35.4,8,High,Foggy,Highway,Bike,Friday,Morning,36.8
+13.34,20.8,13,High,Clear,City Road,Car,Sunday,Night,53.7
+10.92,34.1,10,Medium,Clear,City Road,Bike,Thursday,Morning,23.8
+4.96,32.0,2,High,Clear,Rural Road,Car,Thursday,Night,23.9
+2.29,19.8,8,Low,Foggy,City Road,Bus,Wednesday,Morning,21.3
+25.9,44.5,15,Low,Clear,City Road,Car,Wednesday,Night,38.6
+6.79,67.9,4,Medium,Clear,Highway,Bus,Monday,Evening,18.1
+9.12,8.0,10,High,Rainy,City Road,Car,Monday,Afternoon,87.9
+38.42,29.6,20,Low,Clear,City Road,Car,Saturday,Morning,90.9
+6.04,38.6,10,Medium,Clear,City Road,Bike,Wednesday,Night,20.8
+10.58,35.6,7,Medium,Clear,Rural Road,Car,Saturday,Morning,24.6
+22.63,26.0,13,Low,Foggy,City Road,Car,Wednesday,Morning,61.8
+28.95,71.3,10,Medium,Clear,Highway,Bus,Sunday,Night,33.3
+14.7,31.1,3,High,Clear,Rural Road,Bus,Tuesday,Evening,41.2
+21.53,57.8,8,Medium,Clear,Highway,Car,Tuesday,Morning,29.2
+9.99,75.7,3,Low,Clear,Highway,Bike,Friday,Afternoon,4.1
+2.29,51.3,2,High,Clear,Highway,Bus,Saturday,Evening,13.6
+20.5,26.3,13,Low,Clear,City Road,Bus,Tuesday,Evening,57.9
+11.11,55.6,5,High,Clear,Highway,Car,Thursday,Afternoon,25.7
+9.35,62.7,6,Low,Clear,Rural Road,Car,Tuesday,Afternoon,11.4
+8.89,41.1,5,Medium,Foggy,Highway,Truck,Saturday,Morning,30.5
+16.27,24.0,12,Medium,Clear,City Road,Car,Thursday,Morning,51.6
+16.17,46.1,14,Low,Clear,City Road,Car,Friday,Night,31.7
+11.29,9.9,7,High,Foggy,Rural Road,Bus,Tuesday,Morning,96.1
+14.32,23.4,10,Low,Foggy,City Road,Car,Wednesday,Night,54.0
+5.97,37.7,4,Low,Rainy,Rural Road,Bus,Friday,Morning,21.6
+10.07,35.8,11,Low,Clear,City Road,Car,Wednesday,Night,20.0
+6.13,70.3,3,Medium,Clear,Highway,Bike,Friday,Afternoon,8.0
+6.01,28.6,2,High,Clear,Rural Road,Truck,Tuesday,Night,30.6
+13.58,12.4,12,High,Clear,City Road,Truck,Wednesday,Night,83.3
+11.63,42.3,12,Low,Clear,City Road,Truck,Monday,Afternoon,29.5
+8.76,36.9,7,Medium,Rainy,Rural Road,Bus,Monday,Evening,28.1
+9.79,41.6,12,Low,Clear,City Road,Car,Tuesday,Afternoon,18.7
+14.21,28.7,14,Medium,Rainy,City Road,Truck,Thursday,Night,43.9
+16.45,62.9,9,High,Clear,Highway,Truck,Tuesday,Night,29.1
+15.03,27.1,12,Medium,Clear,City Road,Bike,Monday,Night,39.1
+4.05,55.4,2,Medium,Rainy,Highway,Car,Sunday,Evening,15.6
+2.76,15.9,4,Medium,Foggy,City Road,Car,Thursday,Afternoon,19.1
+7.15,8.0,9,High,Clear,City Road,Bike,Saturday,Morning,67.9
+2.78,30.8,4,Medium,Rainy,Rural Road,Bike,Saturday,Evening,10.4
+24.26,26.7,15,Low,Clear,City Road,Car,Monday,Morning,59.7
+9.61,24.4,7,Medium,Clear,City Road,Car,Friday,Evening,30.0
+5.15,64.2,2,Low,Rainy,Highway,Bike,Sunday,Night,9.2
+9.55,47.9,6,Low,Clear,Rural Road,Car,Thursday,Morning,15.0
+3.53,72.1,1,Low,Clear,Highway,Truck,Sunday,Night,7.7
+5.22,40.4,4,Medium,Clear,Rural Road,Car,Sunday,Evening,16.4
+9.15,20.0,10,Medium,Clear,City Road,Car,Thursday,Morning,36.2
+8.32,29.6,11,Low,Clear,City Road,Car,Monday,Evening,20.1
+9.11,42.6,8,Medium,Clear,Rural Road,Bus,Friday,Morning,20.8
+14.45,8.0,6,High,Stormy,Rural Road,Bus,Sunday,Evening,137.8
+18.67,39.6,8,High,Rainy,Highway,Car,Friday,Evening,42.7
+12.04,21.0,11,Medium,Clear,City Road,Car,Saturday,Evening,42.9
+19.21,42.5,14,Low,Clear,City Road,Car,Thursday,Afternoon,36.9
+8.43,8.0,10,High,Rainy,City Road,Car,Wednesday,Morning,85.8
+20.63,59.2,11,Low,Clear,Rural Road,Bike,Sunday,Afternoon,24.7
+12.14,52.7,3,Low,Clear,Rural Road,Car,Tuesday,Night,14.6
+17.81,13.0,13,High,Rainy,City Road,Bike,Thursday,Night,98.7
+8.52,17.4,10,Medium,Clear,City Road,Car,Tuesday,Morning,35.2
+11.84,26.3,10,Medium,Clear,City Road,Car,Friday,Afternoon,34.6
+31.06,29.4,13,Medium,Clear,City Road,Car,Sunday,Night,72.3
+11.79,75.2,5,Medium,Clear,Highway,Car,Sunday,Afternoon,16.6
+18.59,66.1,6,Low,Clear,Highway,Car,Tuesday,Morning,19.8
+19.84,32.5,15,Low,Foggy,City Road,Car,Saturday,Night,50.9
+15.67,79.7,7,Low,Clear,Highway,Car,Sunday,Afternoon,14.0
+17.19,36.8,7,Low,Rainy,Rural Road,Truck,Saturday,Evening,37.4
+8.54,12.5,6,High,Rainy,City Road,Car,Thursday,Afternoon,59.4
+7.02,28.0,9,Low,Clear,City Road,Car,Tuesday,Evening,18.4
+6.18,41.4,9,Medium,Clear,City Road,Car,Thursday,Afternoon,16.8
+14.08,8.0,11,High,Clear,City Road,Bus,Saturday,Evening,124.1
+11.61,47.7,6,High,Rainy,Highway,Truck,Friday,Afternoon,37.7
+13.56,69.7,5,Medium,Clear,Highway,Bus,Wednesday,Evening,22.1
+5.6,14.9,10,Medium,Rainy,City Road,Bike,Tuesday,Morning,33.9
+7.65,8.0,10,High,Foggy,City Road,Bus,Friday,Morning,80.4
+18.31,19.2,6,Medium,Rainy,Rural Road,Car,Wednesday,Evening,69.0
+12.61,8.0,8,High,Stormy,City Road,Bus,Thursday,Morning,122.4
+12.19,49.0,8,High,Rainy,Highway,Bus,Sunday,Night,38.0
+10.03,48.4,6,High,Foggy,Highway,Car,Monday,Night,32.0
+7.27,46.8,3,Low,Foggy,Rural Road,Car,Tuesday,Afternoon,14.4
+21.01,65.4,6,Medium,Rainy,Highway,Car,Sunday,Afternoon,30.0
+22.9,40.3,10,Low,Foggy,Rural Road,Car,Sunday,Evening,45.5
+11.87,46.4,3,Medium,Stormy,Highway,Bus,Wednesday,Morning,37.7
+3.68,8.0,7,High,Clear,City Road,Car,Sunday,Night,43.2
+10.61,21.2,10,Medium,Rainy,City Road,Bike,Tuesday,Morning,40.0
+23.81,25.8,14,Medium,Clear,City Road,Truck,Monday,Afternoon,73.3
+7.78,21.6,10,Low,Foggy,City Road,Car,Wednesday,Morning,30.5
+8.84,15.9,12,High,Clear,City Road,Car,Thursday,Night,45.6
+17.85,20.2,12,Low,Foggy,City Road,Bike,Monday,Morning,60.5
+8.76,26.5,7,Low,Rainy,City Road,Bus,Tuesday,Afternoon,34.9
+11.5,12.3,11,Low,Stormy,City Road,Car,Saturday,Night,68.8
+3.13,35.0,10,Low,Clear,City Road,Car,Friday,Afternoon,7.4
+23.2,58.1,9,Medium,Rainy,Highway,Bike,Friday,Morning,28.7
+17.04,46.8,8,Medium,Rainy,Highway,Truck,Sunday,Morning,39.4
+20.22,24.6,8,Low,Stormy,Rural Road,Car,Tuesday,Evening,59.7
+6.66,62.1,3,Low,Foggy,Highway,Car,Sunday,Morning,15.3
+25.92,41.9,9,Low,Rainy,Rural Road,Truck,Wednesday,Afternoon,49.2
+10.92,51.3,5,Medium,Rainy,Highway,Car,Sunday,Evening,20.4
+21.17,40.4,13,Low,Clear,City Road,Car,Saturday,Afternoon,34.9
+13.88,28.4,8,Medium,Stormy,Rural Road,Bike,Tuesday,Night,45.1
+17.46,26.8,15,Low,Clear,City Road,Car,Tuesday,Evening,41.9
+14.46,64.7,5,Low,Rainy,Highway,Car,Thursday,Morning,20.3
+8.72,64.0,1,Medium,Rainy,Highway,Bike,Thursday,Night,14.7
+4.39,23.6,7,Medium,Clear,City Road,Bike,Tuesday,Night,17.1
+22.06,73.1,9,Low,Clear,Highway,Bike,Tuesday,Morning,21.3
+2.39,36.4,7,Low,Clear,City Road,Car,Sunday,Afternoon,7.1
+18.51,8.0,12,High,Foggy,City Road,Bike,Saturday,Afternoon,153.7
+22.04,43.6,16,Low,Clear,City Road,Bike,Tuesday,Afternoon,35.5
+5.03,29.1,8,Medium,Clear,City Road,Bus,Saturday,Afternoon,24.0
+9.0,26.6,9,Medium,Rainy,City Road,Bus,Tuesday,Night,36.9
+4.71,76.0,1,Low,Clear,Highway,Bike,Thursday,Evening,3.0
+8.0,62.5,1,Medium,Foggy,Highway,Bus,Monday,Night,28.3
+20.04,17.0,14,High,Clear,City Road,Bus,Friday,Afternoon,89.8
+17.36,52.5,7,High,Clear,Highway,Car,Tuesday,Evening,34.0
+16.11,33.9,10,Low,Clear,City Road,Truck,Tuesday,Morning,40.2
+9.04,31.7,9,Low,Clear,City Road,Bus,Tuesday,Afternoon,25.0
+2.54,68.0,2,Low,Clear,Highway,Car,Tuesday,Evening,3.0
+5.46,27.9,3,Medium,Rainy,Rural Road,Car,Monday,Morning,19.0
+10.03,29.6,8,Medium,Clear,City Road,Bike,Thursday,Night,24.1
+6.15,41.8,9,Low,Clear,City Road,Car,Sunday,Afternoon,15.4
+18.62,68.0,7,Low,Clear,Highway,Bike,Wednesday,Morning,17.5
+26.36,40.0,10,High,Clear,Rural Road,Bike,Saturday,Night,58.4
+13.82,19.5,10,Low,Foggy,City Road,Car,Thursday,Morning,53.2
+5.0,30.0,8,Medium,Clear,City Road,Car,Tuesday,Afternoon,20.9
+22.49,8.0,15,Medium,Stormy,City Road,Bus,Monday,Morning,195.2
+12.2,67.0,6,Low,Clear,Highway,Car,Saturday,Evening,13.1
+11.3,54.4,6,Low,Clear,Rural Road,Bike,Monday,Night,16.0
+15.38,72.1,7,Low,Clear,Highway,Car,Wednesday,Morning,12.2
+5.59,14.6,10,High,Clear,City Road,Car,Monday,Afternoon,38.5
+9.12,80.3,5,Low,Rainy,Highway,Bike,Saturday,Afternoon,9.3
+10.87,46.4,6,Low,Clear,Rural Road,Car,Sunday,Evening,14.8
+13.17,39.6,12,Low,Clear,City Road,Bike,Wednesday,Afternoon,20.9
+13.91,43.1,7,Low,Rainy,Rural Road,Bike,Wednesday,Evening,21.5
+15.37,13.1,12,Medium,Rainy,City Road,Car,Thursday,Evening,79.1
+8.13,16.7,8,Low,Stormy,City Road,Car,Thursday,Morning,43.7
+3.9,37.6,0,Medium,Stormy,Highway,Bike,Wednesday,Evening,17.1
+9.97,8.0,10,Medium,Rainy,City Road,Bike,Wednesday,Evening,83.5
+10.68,18.6,6,High,Foggy,Rural Road,Bike,Tuesday,Night,52.7
+3.8,62.8,2,Low,Rainy,Highway,Bus,Tuesday,Evening,14.6
+7.88,11.0,10,High,Clear,City Road,Car,Friday,Night,54.8
+12.52,22.6,9,Medium,Rainy,City Road,Car,Saturday,Afternoon,52.1
+8.59,73.0,1,Low,Clear,Highway,Bike,Saturday,Evening,8.2
+12.24,8.0,9,High,Rainy,City Road,Bike,Thursday,Night,111.9
+8.38,26.4,2,High,Stormy,Highway,Bus,Saturday,Morning,42.7
+15.99,33.1,12,Low,Clear,City Road,Car,Friday,Evening,35.2
+6.44,8.0,7,High,Foggy,City Road,Bike,Wednesday,Night,61.0
+11.38,41.0,6,Medium,Stormy,Highway,Bike,Wednesday,Evening,30.2
+11.69,32.7,12,Medium,Clear,City Road,Car,Thursday,Night,29.2
+18.23,54.9,6,High,Clear,Highway,Bike,Wednesday,Afternoon,36.5
+9.39,55.6,3,Medium,Foggy,Highway,Bike,Saturday,Night,17.1
+26.16,8.0,16,High,Stormy,City Road,Car,Tuesday,Evening,222.5
+25.62,74.9,11,Low,Clear,Highway,Car,Monday,Afternoon,21.8
+6.68,46.3,0,High,Clear,Highway,Car,Thursday,Morning,19.0
+11.19,39.1,6,Medium,Rainy,Rural Road,Truck,Monday,Morning,28.9
+5.29,42.8,5,Low,Clear,City Road,Car,Tuesday,Afternoon,12.6
+14.72,23.3,10,Medium,Clear,City Road,Car,Wednesday,Night,39.6
+8.52,83.5,6,Low,Clear,Highway,Car,Monday,Afternoon,8.3
+12.11,76.2,10,Low,Clear,Highway,Car,Tuesday,Afternoon,10.7
+9.82,72.0,4,Low,Rainy,Highway,Car,Thursday,Afternoon,12.6
+41.54,69.1,14,Low,Rainy,Highway,Bike,Wednesday,Afternoon,41.7
+10.47,82.1,4,Low,Rainy,Highway,Car,Sunday,Night,11.5
+9.96,26.3,10,Low,Rainy,City Road,Car,Monday,Afternoon,30.5
+18.88,71.6,7,Medium,Clear,Highway,Car,Saturday,Afternoon,24.8
+20.36,18.6,12,Medium,Clear,City Road,Car,Friday,Evening,78.1
+13.09,25.7,10,Medium,Clear,City Road,Car,Friday,Evening,38.1
+20.67,81.5,9,Low,Clear,Highway,Bike,Friday,Afternoon,15.3
+37.72,13.3,19,High,Clear,City Road,Bike,Monday,Morning,186.9
+9.53,25.6,8,Medium,Clear,City Road,Bike,Saturday,Evening,25.2
+5.66,43.5,3,Low,Clear,Rural Road,Car,Wednesday,Evening,11.3
+14.1,86.6,5,Low,Clear,Highway,Bus,Friday,Evening,17.8
+19.63,56.8,6,Medium,Rainy,Highway,Bike,Wednesday,Evening,23.7
+25.01,36.2,10,Low,Rainy,Rural Road,Car,Wednesday,Evening,51.9
+15.51,13.0,12,Medium,Stormy,City Road,Car,Friday,Night,93.9
+11.54,42.2,5,High,Rainy,Highway,Bus,Sunday,Morning,41.0
+7.25,27.0,6,Low,Rainy,City Road,Car,Sunday,Morning,21.2
+22.11,42.5,15,Low,Clear,City Road,Car,Saturday,Night,40.4
+13.46,11.8,11,High,Rainy,City Road,Bike,Thursday,Night,81.9
+3.96,34.3,5,Medium,Clear,City Road,Car,Thursday,Afternoon,12.8
+31.02,67.8,11,Low,Clear,Highway,Truck,Sunday,Evening,38.9
+5.86,25.5,7,High,Clear,City Road,Car,Tuesday,Afternoon,24.6
+19.83,64.8,9,High,Clear,Highway,Car,Sunday,Night,32.2
+12.86,34.0,10,Medium,Clear,City Road,Car,Friday,Afternoon,29.5
+4.13,22.2,7,Medium,Rainy,City Road,Car,Friday,Night,20.3
+10.8,43.3,5,Low,Foggy,Rural Road,Bus,Friday,Afternoon,31.6
+9.55,70.4,2,Low,Rainy,Highway,Bus,Saturday,Afternoon,17.5
+4.71,28.0,6,Medium,Rainy,Rural Road,Truck,Friday,Evening,23.4
+14.7,29.1,12,Low,Clear,City Road,Bike,Monday,Afternoon,31.2
+18.32,29.7,11,Medium,Clear,City Road,Car,Saturday,Morning,47.8
+11.22,44.9,5,High,Rainy,Highway,Car,Saturday,Morning,28.6
+9.41,71.6,6,Low,Clear,Highway,Car,Sunday,Night,13.2
+15.32,34.4,11,Medium,Clear,City Road,Truck,Sunday,Afternoon,36.4
+2.09,47.0,5,Low,Clear,Rural Road,Car,Sunday,Morning,6.1
+8.81,36.0,8,High,Stormy,Highway,Car,Monday,Night,32.9
+9.19,74.5,4,Low,Rainy,Highway,Bike,Friday,Night,12.8
+11.42,21.3,9,Medium,Clear,City Road,Bus,Sunday,Afternoon,43.2
+4.54,53.9,1,Medium,Rainy,Highway,Car,Sunday,Evening,13.5
+3.35,30.4,4,Medium,Clear,City Road,Bike,Thursday,Night,7.9
+6.19,37.4,6,Medium,Clear,Rural Road,Bike,Sunday,Morning,10.8
+14.57,23.2,11,Medium,Clear,City Road,Bus,Sunday,Afternoon,50.5
+9.1,24.2,10,Medium,Clear,City Road,Car,Monday,Evening,30.9
+6.17,8.0,10,High,Rainy,City Road,Car,Sunday,Evening,64.8
+28.4,57.0,9,High,Clear,Highway,Car,Friday,Afternoon,43.5
+9.4,27.9,4,Medium,Rainy,Rural Road,Bus,Friday,Morning,31.5
+11.46,58.4,9,Medium,Clear,Rural Road,Truck,Tuesday,Night,27.3
+21.92,59.4,9,Low,Rainy,Highway,Bike,Sunday,Evening,29.1
+12.4,25.9,5,High,Rainy,Rural Road,Car,Wednesday,Night,42.2
+15.23,63.2,5,Medium,Rainy,Highway,Car,Wednesday,Afternoon,25.2
+7.05,24.1,8,Medium,Rainy,City Road,Bike,Wednesday,Evening,27.8
+11.81,63.9,7,Low,Stormy,Highway,Car,Sunday,Afternoon,23.8
+26.44,18.0,16,High,Clear,City Road,Bike,Thursday,Afternoon,102.6
+14.18,16.5,11,Medium,Rainy,City Road,Bus,Monday,Evening,72.4
+13.08,16.7,13,Medium,Rainy,City Road,Car,Monday,Night,63.0
+9.93,35.7,12,Low,Clear,City Road,Car,Sunday,Night,15.9
+5.25,20.6,4,High,Clear,Rural Road,Car,Tuesday,Evening,28.7
+20.65,51.8,13,Low,Clear,Rural Road,Car,Saturday,Morning,29.6
+10.96,33.2,9,Low,Clear,City Road,Bike,Monday,Evening,22.0
+7.64,54.0,5,High,Clear,Highway,Car,Sunday,Night,23.2
+4.92,21.9,7,High,Clear,City Road,Car,Friday,Afternoon,18.9
+13.45,14.1,12,Low,Rainy,City Road,Car,Tuesday,Evening,67.6
+5.75,23.5,8,Medium,Clear,City Road,Car,Sunday,Afternoon,24.2
+20.75,8.0,14,Medium,Foggy,City Road,Bike,Wednesday,Morning,165.2
+7.9,13.0,12,High,Clear,City Road,Bike,Sunday,Evening,45.5
+11.96,21.5,12,Medium,Rainy,City Road,Bike,Friday,Afternoon,47.1
+14.03,26.8,12,Medium,Clear,City Road,Bike,Thursday,Evening,32.0
+13.15,21.5,9,Medium,Clear,City Road,Car,Monday,Evening,43.6
+18.35,50.1,9,Medium,Clear,Rural Road,Bike,Tuesday,Night,30.2
+8.32,8.0,7,High,Rainy,City Road,Car,Monday,Night,79.0
+11.51,24.0,11,Medium,Clear,City Road,Truck,Saturday,Evening,42.7
+15.69,55.3,8,Low,Stormy,Highway,Car,Monday,Morning,30.7
+25.05,8.7,14,High,Clear,City Road,Car,Monday,Evening,189.2
+17.65,55.4,10,High,Rainy,Highway,Car,Monday,Night,33.7
+19.46,8.0,15,High,Clear,City Road,Bus,Sunday,Afternoon,165.8
+9.54,63.7,5,Low,,Highway,Car,Sunday,Evening,14.7
+14.18,81.0,7,Low,Clear,Highway,Truck,Saturday,Night,14.5
+23.09,70.2,8,Medium,Clear,Highway,Car,Monday,Afternoon,28.4
+11.19,78.0,5,Low,Clear,Highway,Bus,Thursday,Afternoon,9.5
+14.23,12.3,9,High,Clear,City Road,Bike,Sunday,Afternoon,80.7
+4.27,37.7,7,Medium,Clear,City Road,Car,Monday,Night,14.5
+16.52,11.6,12,Medium,Stormy,City Road,Car,Saturday,Afternoon,102.1
+13.0,67.2,3,High,Clear,Highway,Car,Monday,Afternoon,18.6
+15.93,24.6,12,Medium,Clear,City Road,Bus,Saturday,Evening,52.2
+9.67,12.6,11,Low,Stormy,City Road,Bus,Thursday,Evening,67.0
+3.7,72.8,2,Medium,Clear,Highway,Car,Sunday,Night,8.1
+16.95,30.5,8,Medium,Clear,City Road,Car,Wednesday,Night,38.0
+7.6,28.7,8,Medium,Rainy,City Road,Car,Saturday,Night,26.2
+4.55,52.2,1,Medium,Foggy,Highway,Car,Saturday,Night,15.3
+12.51,8.0,9,High,Rainy,City Road,Bike,Wednesday,Afternoon,109.1
+26.82,46.8,14,Medium,Clear,Rural Road,Car,Friday,Afternoon,42.5
+6.95,33.2,1,Low,Stormy,Rural Road,Car,Thursday,Evening,23.3
+7.77,38.4,3,Medium,Clear,Rural Road,Bus,Thursday,Evening,23.6
+17.41,8.0,13,Medium,Stormy,City Road,Bike,Saturday,Evening,149.4
+10.18,22.6,9,Low,Foggy,City Road,Bus,Tuesday,Morning,41.8
+16.92,52.6,6,Low,Foggy,Highway,Car,Monday,Morning,31.3
+9.87,63.4,8,Medium,Clear,Highway,Truck,Thursday,Morning,21.0
+9.0,86.6,5,Low,Clear,Highway,Bike,Saturday,Afternoon,4.4
+7.15,8.0,10,High,Rainy,City Road,Bike,Tuesday,Night,67.2
+13.64,33.5,12,Low,Clear,City Road,Car,Wednesday,Night,29.4
+7.12,38.3,9,Low,Clear,City Road,Bus,Friday,Night,16.7
+8.7,8.0,11,High,Foggy,City Road,Bike,Thursday,Evening,82.6
+20.57,8.0,16,High,Rainy,City Road,Bus,Friday,Morning,180.2
+33.09,45.2,11,Low,Clear,Rural Road,Bike,Thursday,Night,51.3
+14.59,41.8,11,Low,Clear,City Road,Bus,Saturday,Night,25.5
+21.0,75.3,8,Low,Clear,Highway,Bike,Sunday,Night,18.4
+9.29,47.5,5,Medium,Clear,Rural Road,Truck,Thursday,Afternoon,21.4
+10.01,24.9,11,Medium,Clear,City Road,Car,Thursday,Morning,31.2
+12.84,66.8,6,Low,Foggy,Highway,Car,Tuesday,Night,21.4
+7.66,67.2,7,Low,Rainy,Highway,Bike,Thursday,Morning,11.8
+8.93,35.7,11,Medium,Clear,City Road,Bike,Saturday,Night,23.3
+16.6,14.2,14,High,Clear,City Road,Bike,Thursday,Night,84.8
+11.66,30.3,4,Medium,Rainy,Rural Road,Bike,Friday,Night,35.0
+10.6,57.1,4,Medium,Foggy,Highway,Bike,Wednesday,Evening,20.4
+10.32,47.1,5,Low,Foggy,Rural Road,Bus,Friday,Night,26.0
+6.22,57.8,6,Low,Clear,Rural Road,Car,Friday,Night,6.9
+12.57,24.5,9,Low,Foggy,City Road,Bus,Thursday,Night,43.5
+7.66,59.9,2,High,Clear,Highway,Car,Sunday,Afternoon,19.3
+4.25,57.2,1,High,Clear,Highway,Bike,Sunday,Evening,14.1
+5.72,42.4,7,High,Foggy,Highway,Bus,Tuesday,Night,32.4
+10.43,47.5,4,High,Clear,Highway,Car,Tuesday,Morning,21.8
+15.87,41.7,7,High,Clear,Highway,Car,Sunday,Morning,33.1
+18.16,26.4,7,High,Clear,Rural Road,Car,Wednesday,Afternoon,58.0
+4.95,34.6,9,Low,Clear,City Road,Bike,Wednesday,Afternoon,9.1
+15.02,80.7,4,Low,Clear,Highway,Car,Saturday,Night,16.4
+27.71,30.3,14,Low,Rainy,City Road,Car,Friday,Night,64.1
+18.66,63.9,6,Medium,Clear,Highway,Bus,Monday,Morning,25.5
+12.31,75.5,6,Low,Clear,Highway,Car,Monday,Afternoon,9.9
+12.87,42.2,4,High,Foggy,Highway,Bike,Saturday,Night,31.6
+12.11,17.2,13,Medium,Clear,City Road,Bike,Saturday,Evening,48.8
+8.57,50.9,5,Medium,Foggy,Highway,Car,Wednesday,Morning,19.6
+19.15,23.8,12,Low,Clear,City Road,Car,Sunday,Evening,58.1
+6.53,32.8,10,Low,Rainy,City Road,Truck,Monday,Night,22.9
+12.67,38.6,10,Low,Clear,City Road,Bike,Sunday,Afternoon,23.3
+4.21,18.9,3,High,Foggy,Rural Road,Car,Monday,Afternoon,31.7
+20.1,13.7,14,Medium,Clear,City Road,Bus,Friday,Evening,106.0
+12.39,36.3,3,Medium,Foggy,Rural Road,Bike,Saturday,Night,27.5
+4.74,30.5,9,Low,Clear,City Road,Car,Friday,Evening,13.7
+23.76,63.1,8,Medium,Rainy,Highway,Bike,Saturday,Night,27.0
+10.87,60.6,4,Medium,Clear,Highway,Car,Wednesday,Night,16.2
+5.37,48.8,6,High,Clear,Highway,Car,Wednesday,Afternoon,21.7
+29.06,53.0,10,High,Clear,Highway,Bus,Tuesday,Afternoon,52.8
+9.89,78.9,6,Low,Clear,Highway,Car,Monday,Evening,16.2
+7.22,24.6,5,High,Clear,Rural Road,Car,Tuesday,Morning,30.5
+13.01,64.6,6,Low,Rainy,Highway,Car,Tuesday,Morning,17.1
+5.74,8.0,8,High,Clear,City Road,Bus,Saturday,Morning,62.7
+8.57,34.5,9,Low,Clear,City Road,Bike,Tuesday,Night,12.3
+22.26,81.4,11,Low,Clear,Highway,Truck,Tuesday,Night,22.6
+30.05,18.5,18,High,Clear,City Road,Car,Saturday,Night,114.2
+10.02,73.0,4,Low,Clear,Highway,Bus,Thursday,Morning,15.6
+14.54,70.5,5,Medium,Rainy,Highway,Bike,Tuesday,Afternoon,19.5
+22.81,26.6,13,Medium,Clear,City Road,Car,Friday,Afternoon,63.3
+9.85,60.9,6,Low,Foggy,Highway,Car,Tuesday,Morning,17.5
+7.04,61.5,5,Medium,Clear,Highway,Bus,Saturday,Afternoon,14.9
+16.03,56.1,7,High,Clear,Highway,Car,Monday,Afternoon,32.2
+5.25,50.3,0,High,Foggy,Highway,Bike,Friday,Night,11.9
+6.6,41.8,5,Low,Clear,Rural Road,Bike,Friday,Morning,9.7
+4.67,74.2,5,Medium,Clear,Highway,Car,Wednesday,Night,10.2
+21.92,44.2,10,Low,Stormy,Rural Road,Truck,Friday,Night,49.6
+11.87,10.6,13,Low,Stormy,City Road,Bus,Wednesday,Morning,91.1
+16.36,74.3,5,Low,Rainy,Highway,Car,Friday,Afternoon,20.2
+6.86,62.9,4,High,Clear,Highway,Bike,Tuesday,Afternoon,16.3
+14.23,8.2,9,High,Rainy,City Road,Car,Thursday,Night,118.4
+14.5,8.0,13,High,Stormy,City Road,Bike,Saturday,Night,127.7
+28.98,43.1,12,Medium,Stormy,Highway,Car,Sunday,Night,57.9
+15.61,33.0,14,Medium,Clear,City Road,Car,Wednesday,Afternoon,35.8
+18.14,47.6,9,Medium,Clear,Rural Road,Car,Thursday,Night,27.7
+12.39,23.4,10,Medium,Clear,City Road,Car,Thursday,Night,43.3
+2.25,17.2,6,Medium,Clear,City Road,Car,Sunday,Evening,17.2
+13.54,67.0,5,Low,Rainy,Highway,Car,Sunday,Morning,21.0
+10.39,38.5,9,Low,Clear,City Road,Truck,Friday,Afternoon,27.3
+10.1,12.6,12,High,Clear,City Road,Car,Saturday,Morning,63.0
+8.79,71.6,6,Medium,Clear,Highway,Car,Monday,Night,15.2
+10.1,55.3,2,High,Clear,Highway,Car,Saturday,Afternoon,21.9
+7.87,31.1,9,Low,Clear,City Road,Bike,Saturday,Evening,22.3
+17.21,71.5,7,Medium,Clear,Highway,Car,Saturday,Afternoon,17.5
+6.26,84.0,2,Low,Clear,Highway,Bike,Friday,Night,5.0
+26.91,64.7,11,Low,Stormy,Highway,Bike,Sunday,Night,36.1
+16.42,37.9,14,Low,Clear,City Road,Car,Friday,Afternoon,32.8
+19.7,46.2,14,Low,Clear,City Road,Truck,Saturday,Afternoon,31.2
+6.53,25.3,6,High,Clear,Rural Road,Car,Tuesday,Morning,23.7
+8.44,73.9,3,Low,Clear,Highway,Bike,Friday,Morning,3.0
+12.13,30.5,10,Medium,Clear,City Road,Car,Thursday,Night,33.4
+11.49,47.5,5,Medium,Clear,Rural Road,Bike,Sunday,Night,18.4
+16.45,20.8,12,Medium,Clear,City Road,Bus,Sunday,Night,68.2
+11.51,63.2,6,Medium,Clear,Highway,Car,Saturday,Evening,17.0
+27.69,72.2,12,Low,Rainy,Highway,Car,Tuesday,Morning,33.5
+6.61,23.1,6,High,Clear,Rural Road,Car,Thursday,Morning,29.8
+5.85,22.4,5,High,Clear,Rural Road,Car,Monday,Evening,29.4
+8.21,19.0,8,Medium,Rainy,City Road,Truck,Sunday,Afternoon,42.0
+10.12,64.5,3,Medium,Clear,Highway,Bike,Tuesday,Morning,14.6
+20.64,31.0,14,Low,Clear,City Road,Bike,Friday,Morning,40.2
+14.02,53.5,8,High,Clear,Highway,Truck,Thursday,Evening,25.3
+2.49,75.7,2,Low,Clear,Highway,Bus,Sunday,Night,8.8
+2.63,37.7,5,Low,Clear,City Road,Bus,Saturday,Afternoon,7.1
+10.65,19.0,13,Low,Stormy,City Road,Car,Saturday,Night,52.3
+8.98,8.0,10,High,Stormy,City Road,Car,Friday,Afternoon,90.1
+10.82,8.0,10,Medium,Stormy,City Road,Car,Monday,Evening,96.9
+10.12,8.0,8,High,Clear,City Road,Car,Sunday,Morning,94.5
+25.5,11.5,11,High,Clear,Rural Road,Car,Monday,Evening,148.3
+18.97,75.4,9,Low,Clear,Highway,Car,Thursday,Afternoon,17.4
+8.46,57.6,5,High,Clear,Highway,Car,Wednesday,Night,21.6
+11.39,47.6,5,Medium,Clear,Rural Road,Car,Wednesday,Afternoon,22.1
+9.66,58.7,4,Medium,Clear,Highway,Car,Sunday,Morning,17.1
+3.25,29.0,6,Low,Clear,City Road,Car,Tuesday,Morning,5.6
+8.69,39.3,8,High,Clear,Rural Road,Car,Friday,Afternoon,28.3
+8.75,93.5,5,Low,Clear,Highway,Car,Tuesday,Afternoon,7.8
+7.69,77.7,3,Low,Rainy,Highway,Bike,Sunday,Afternoon,7.3
+8.54,44.8,3,Medium,Clear,Rural Road,Bike,Saturday,Evening,13.6
+9.76,76.9,5,Low,Foggy,Highway,Car,Wednesday,Night,11.0
+14.64,83.1,5,Low,Clear,Highway,Car,Monday,Evening,14.7
+8.04,43.5,4,Medium,Clear,Rural Road,Car,Tuesday,Afternoon,14.8
+22.32,17.6,12,Medium,Clear,City Road,Car,Tuesday,Evening,85.0
+6.57,39.2,3,High,Clear,Rural Road,Car,Wednesday,Night,19.8
+20.27,27.2,13,Low,Clear,City Road,Truck,Sunday,Morning,55.1
+13.39,16.9,10,Medium,Clear,City Road,Car,Monday,Morning,56.5
+5.56,49.0,7,Medium,Rainy,Highway,Car,Friday,Morning,14.3
+9.62,29.3,10,Medium,Clear,City Road,Bike,Wednesday,Night,23.0
+26.03,35.1,9,Medium,Clear,Rural Road,Bike,Monday,Night,47.8
+6.64,10.8,6,Medium,Foggy,City Road,Car,Friday,Afternoon,45.4
+26.43,51.9,11,High,Clear,Highway,Car,Friday,Night,46.3
+14.87,18.0,11,Low,Rainy,City Road,Truck,Sunday,Evening,61.2
+13.51,60.3,9,Low,Clear,Rural Road,Car,Thursday,Night,14.4
+14.4,30.0,11,Medium,Clear,City Road,Bike,Wednesday,Night,35.4
+9.49,17.9,6,High,Clear,City Road,Bus,Saturday,Night,52.8
+6.81,42.3,7,Low,Clear,City Road,Car,Tuesday,Afternoon,13.3
+11.68,53.0,4,Medium,Rainy,Highway,Bike,Friday,Evening,19.7
+13.78,26.9,7,High,Clear,Rural Road,Car,Sunday,Morning,43.0
+15.24,47.3,6,Medium,Clear,Rural Road,Car,Monday,Night,24.4
+14.92,13.4,11,High,Clear,City Road,Car,Sunday,Afternoon,85.2
+17.02,9.6,10,Medium,Foggy,City Road,Truck,Tuesday,Afternoon,125.6
+31.96,16.6,17,Medium,Rainy,City Road,Car,Thursday,Evening,124.7
+13.15,55.7,6,Low,Stormy,Highway,Car,Tuesday,Night,29.0
+21.69,40.9,11,High,Rainy,Highway,Truck,Tuesday,Evening,55.3
+15.55,22.4,12,Medium,Rainy,City Road,Car,Friday,Night,54.5
+33.82,55.2,12,Medium,Clear,Highway,Bus,Thursday,Evening,42.6
+12.12,34.3,8,Medium,Foggy,Rural Road,Bike,Thursday,Night,31.5
+11.4,23.0,10,Medium,Clear,City Road,Bike,Thursday,Evening,38.0
+20.95,31.0,14,Medium,Clear,City Road,Bus,Saturday,Afternoon,55.9
+20.97,22.7,12,Medium,Rainy,City Road,Bike,Sunday,Night,66.9
+9.93,11.7,10,High,Clear,City Road,Car,Thursday,Afternoon,68.1
+15.24,25.0,10,Medium,Clear,City Road,Truck,Tuesday,Evening,47.1
+17.11,66.6,7,Medium,Clear,Highway,Truck,Wednesday,Afternoon,27.6
+16.6,34.6,13,Low,Clear,City Road,Bus,Thursday,Afternoon,40.7
+14.41,61.4,5,Medium,Foggy,Highway,Bike,Monday,Afternoon,23.6
+4.03,49.7,3,Medium,Clear,Rural Road,Bike,Tuesday,Afternoon,9.4
+16.73,46.0,8,Low,Foggy,Rural Road,Bike,Tuesday,Night,29.3
+17.15,79.0,6,Low,Clear,Highway,Car,Sunday,Night,12.4
+14.73,8.0,9,Medium,Rainy,City Road,Car,Wednesday,Evening,121.7
+9.33,29.4,10,Medium,Clear,City Road,Bike,Sunday,Morning,27.3
+24.63,8.0,14,Medium,Foggy,City Road,Bike,Thursday,Morning,200.1
+6.73,49.9,4,Low,Clear,Rural Road,Car,Thursday,Morning,12.3
+21.17,57.6,10,Low,Clear,Rural Road,Car,Sunday,Evening,25.1
+6.68,40.7,9,Low,Clear,City Road,Bike,Friday,Night,11.1
+19.78,16.5,13,High,Clear,City Road,Car,Tuesday,Afternoon,83.5
+6.86,56.9,2,High,Clear,Highway,Truck,Tuesday,Afternoon,21.8
+19.16,25.0,12,Low,Rainy,City Road,Bike,Friday,Evening,49.6
+27.6,38.8,13,Medium,Stormy,Rural Road,Car,Monday,Night,63.3
+27.66,27.8,16,Low,Rainy,City Road,Car,Tuesday,Afternoon,78.7
+24.4,35.2,14,Low,Clear,City Road,Bike,Monday,Afternoon,40.0
+12.08,30.4,9,Low,Clear,City Road,Car,Friday,Evening,29.2
+8.46,36.7,10,Low,Foggy,City Road,Bus,Thursday,Night,29.8
+2.34,8.0,6,Medium,Foggy,City Road,Car,Monday,Evening,30.9
+11.04,24.2,7,High,Clear,Rural Road,Car,Saturday,Evening,36.6
+20.31,19.4,14,Low,Stormy,City Road,Car,Friday,Evening,81.5
+16.58,65.9,6,Medium,Clear,Highway,Bike,Saturday,Morning,18.2
+35.5,23.1,20,Medium,Foggy,City Road,Truck,Tuesday,Night,108.1
+8.94,8.0,9,High,Stormy,City Road,Bus,Sunday,Morning,97.6
+28.63,23.5,16,Medium,,City Road,Car,Tuesday,Afternoon,89.2
+11.52,37.7,7,Low,Clear,City Road,Bus,Thursday,Afternoon,23.6
+6.67,14.7,7,Medium,Rainy,City Road,Car,Thursday,Evening,35.7
+14.15,30.3,10,Low,Clear,City Road,Bike,Tuesday,Morning,29.6
+16.36,26.6,7,High,Rainy,Rural Road,Truck,Wednesday,Morning,52.5
+23.18,67.3,9,Medium,Clear,Highway,Car,Monday,Night,28.4
+8.92,39.4,5,Medium,Rainy,Rural Road,Truck,Thursday,Afternoon,29.2
+14.15,12.5,11,Low,Foggy,City Road,Car,Friday,Evening,78.5
+12.2,62.7,4,Medium,Clear,Highway,Car,Wednesday,Evening,16.1
+9.91,45.6,6,High,Clear,Highway,Bike,Thursday,Evening,23.9
+27.05,17.4,18,Medium,Rainy,City Road,Truck,Sunday,Evening,115.1
+16.48,25.5,11,Medium,Clear,City Road,Car,Tuesday,Evening,44.9
+3.06,62.1,1,High,Clear,Highway,Bus,Wednesday,Night,18.6
+14.27,61.7,5,High,Clear,Highway,Car,Monday,Night,21.8
+4.58,39.7,8,Low,Clear,City Road,Bike,Thursday,Afternoon,9.4
+13.5,9.3,10,Medium,Rainy,City Road,Bike,Tuesday,Morning,95.3
+5.04,32.9,1,Medium,Rainy,Rural Road,Car,Saturday,Night,13.5
+16.53,31.5,10,Medium,Clear,City Road,Bike,Wednesday,Afternoon,37.6
+4.53,55.8,5,Low,Clear,Rural Road,Bike,Friday,Afternoon,5.0
+6.89,48.3,6,Low,Clear,Rural Road,Bike,Tuesday,Morning,9.3
+18.57,19.3,11,High,Clear,Rural Road,Car,Wednesday,Evening,70.1
+12.08,46.2,6,High,Rainy,Highway,Car,Tuesday,Evening,31.0
+5.32,8.0,6,High,Clear,City Road,Truck,Thursday,Night,56.4
+26.12,44.0,9,High,Clear,Highway,Bike,Monday,Evening,50.1
+9.58,44.6,2,Medium,Foggy,Highway,Bus,Monday,Evening,28.4
+10.5,46.0,2,High,Clear,Highway,Bike,Thursday,Evening,20.1
+11.03,13.2,10,High,Rainy,City Road,Bus,Thursday,Night,70.0
+17.27,28.6,13,Medium,Clear,City Road,Car,Wednesday,Night,39.7
+10.0,30.5,12,Medium,Clear,City Road,Car,Thursday,Night,27.9
+11.28,43.3,10,Low,Clear,City Road,Bike,Wednesday,Afternoon,19.0
+21.97,60.3,7,Medium,Rainy,Highway,Car,Saturday,Afternoon,29.4
+20.5,36.9,9,Low,Foggy,Rural Road,Car,Thursday,Morning,43.6
+10.9,81.3,4,Low,Clear,Highway,Bike,Saturday,Night,7.3
+11.11,56.3,4,Medium,Clear,Highway,Bus,Tuesday,Evening,23.4
+2.44,27.7,7,Medium,Clear,City Road,Bike,Tuesday,Night,11.5
+13.37,33.8,9,Low,Rainy,City Road,Car,Wednesday,Night,26.1
+18.96,13.4,13,High,Rainy,City Road,Truck,Monday,Afternoon,111.3
+9.7,8.0,10,High,Rainy,City Road,Car,Friday,Morning,89.8
+24.03,30.5,17,Low,Foggy,City Road,Car,Wednesday,Morning,58.8
+4.24,42.4,8,Low,Clear,City Road,Truck,Wednesday,Night,11.1
+7.16,29.9,10,Low,Rainy,City Road,Bus,Thursday,Afternoon,26.5
+23.0,46.7,8,High,Rainy,Highway,Truck,Monday,Afternoon,49.1
+18.55,14.4,12,High,Clear,City Road,Bus,Wednesday,Night,95.7
+4.08,26.0,9,Low,Foggy,City Road,Bike,Sunday,Afternoon,15.2
+4.56,16.9,6,High,Clear,City Road,Car,Friday,Night,25.1
+16.67,66.1,6,Low,Rainy,Highway,Car,Friday,Evening,24.7
+14.82,56.1,8,Medium,Rainy,Highway,Truck,Thursday,Night,29.7
+10.4,8.0,9,High,Foggy,City Road,Bus,Thursday,Morning,108.7
+23.58,30.8,14,Low,Clear,City Road,Car,Sunday,Afternoon,53.5
+8.21,45.9,4,Low,Clear,Rural Road,Car,Sunday,Morning,14.3
+3.16,55.7,2,Medium,Foggy,Highway,Car,Wednesday,Morning,10.9
+17.26,65.0,9,Medium,Rainy,Highway,Car,Sunday,Night,26.7
+19.38,45.2,9,High,Clear,Highway,Bus,Monday,Evening,43.1
+8.48,31.8,5,High,Rainy,Rural Road,Car,Wednesday,Afternoon,30.0
+6.03,52.8,6,Low,Clear,Rural Road,Car,Wednesday,Afternoon,8.8
+3.25,14.0,8,Low,Rainy,City Road,Truck,Friday,Morning,26.4
+11.96,37.3,6,High,Foggy,Highway,Bike,Friday,Morning,36.2
+14.42,31.1,10,Low,Clear,City Road,Car,Thursday,Night,28.9
+20.15,42.8,11,High,Clear,Highway,Car,Tuesday,Morning,42.4
+14.91,15.1,12,Medium,Stormy,City Road,Car,Thursday,Afternoon,79.6
+8.87,21.7,5,Low,Rainy,City Road,Car,Tuesday,Morning,28.9
+13.37,20.9,9,High,Foggy,Rural Road,Car,Thursday,Night,55.2
+20.7,41.2,9,Low,Clear,Rural Road,Car,Wednesday,Morning,35.0
+14.32,16.3,10,Medium,Stormy,City Road,Car,Sunday,Afternoon,64.1
+19.09,36.5,8,Medium,Clear,Rural Road,Car,Saturday,Night,38.8
+6.2,28.6,9,Medium,Clear,City Road,Car,Tuesday,Evening,24.5
+16.9,27.6,11,Medium,Clear,City Road,Truck,Sunday,Afternoon,42.9
+14.92,36.7,6,Medium,Rainy,Rural Road,Car,Friday,Evening,35.8
+9.94,8.0,9,High,Foggy,City Road,Car,Wednesday,Afternoon,95.2
+20.91,16.6,13,High,Rainy,City Road,Bus,Thursday,Afternoon,94.3
+31.74,49.2,11,Medium,Rainy,Highway,Car,Tuesday,Evening,51.8
+4.91,31.0,9,Low,Clear,City Road,Car,Monday,Afternoon,16.6
+4.0,30.2,8,Medium,Clear,City Road,Bus,Wednesday,Night,15.8
+10.22,21.2,10,High,Clear,City Road,Bike,Saturday,Afternoon,39.9
+11.48,84.0,6,Low,Clear,Highway,Car,Wednesday,Night,10.8
+11.96,27.8,10,Medium,Clear,City Road,Bike,Wednesday,Morning,34.3
+8.32,14.1,7,Medium,Foggy,City Road,Bike,Sunday,Evening,44.1
+4.46,59.9,5,Low,Rainy,Highway,Car,Sunday,Evening,11.0
+10.52,17.8,11,Medium,Rainy,City Road,Car,Thursday,Evening,46.0
+11.53,30.5,12,Medium,Clear,City Road,Car,Monday,Afternoon,29.8
+10.02,43.5,6,High,Clear,Highway,Bus,Friday,Evening,33.9
+11.68,47.9,4,High,Clear,Highway,Car,Saturday,Morning,25.9
+13.55,8.0,7,High,Clear,City Road,Car,Sunday,Evening,112.8
+10.75,52.1,4,Medium,Clear,Rural Road,Bike,Sunday,Night,15.3
+8.27,77.4,5,Low,Clear,Highway,Truck,Friday,Afternoon,10.3
+11.72,19.2,10,Medium,Clear,City Road,Car,Monday,Morning,42.4
+14.12,35.5,5,High,Rainy,Highway,Car,Tuesday,Evening,42.0
+12.3,79.5,2,Medium,Clear,Highway,Car,Saturday,Night,17.5
+32.9,51.8,12,High,Clear,Highway,Bike,Friday,Afternoon,45.2
+14.67,78.5,5,Low,Clear,Highway,Car,Thursday,Morning,15.4
+12.0,49.8,4,High,Clear,Highway,Bus,Wednesday,Afternoon,32.9
+7.59,57.5,6,Low,,Rural Road,Car,Friday,Night,8.5
+7.7,81.3,2,Low,Clear,Highway,Car,Wednesday,Afternoon,5.6
+10.03,35.2,4,Medium,Rainy,Rural Road,Car,Tuesday,Evening,24.7
+10.21,85.4,5,Low,Clear,Highway,Car,Sunday,Afternoon,14.2
+9.99,35.4,7,Low,Foggy,Rural Road,Car,Wednesday,Evening,29.4
+15.02,52.3,7,Low,Clear,Rural Road,Bus,Tuesday,Afternoon,23.2
+20.54,38.1,15,Medium,Clear,City Road,Car,Monday,Afternoon,38.7
+17.3,8.0,10,High,Clear,City Road,Bike,Thursday,Evening,141.9
+16.22,60.7,4,Low,Clear,Highway,Car,Sunday,Evening,19.4
+7.12,20.7,6,Medium,Clear,City Road,Bike,Tuesday,Afternoon,26.8
+22.19,34.9,6,High,Foggy,Highway,Car,Tuesday,Afternoon,53.4
+7.5,75.0,4,Low,Clear,Highway,Bike,Tuesday,Morning,7.6
+13.93,50.1,5,Low,Rainy,Rural Road,Car,Monday,Evening,21.7
+15.69,8.0,9,High,Clear,City Road,Truck,Friday,Afternoon,135.6
+22.54,43.1,9,High,Clear,Highway,Truck,Wednesday,Evening,47.4
+29.68,30.4,18,Medium,Clear,City Road,Bus,Saturday,Afternoon,79.7
+9.8,62.7,6,High,Clear,Highway,Bus,Wednesday,Night,27.1
+13.3,28.1,12,Low,Clear,City Road,Car,Friday,Evening,31.8
+21.44,55.0,7,Medium,Stormy,Highway,Bike,Monday,Afternoon,38.1
+31.06,60.7,12,Medium,Rainy,Highway,Car,Wednesday,Afternoon,44.3
+10.39,67.0,5,Low,Stormy,Highway,Bus,Wednesday,Evening,24.0
+7.33,47.7,3,High,Clear,Highway,Car,Monday,Morning,24.1
+5.31,15.8,8,Medium,Rainy,City Road,Car,Wednesday,Morning,34.1
+4.12,8.0,6,High,Rainy,City Road,Bike,Thursday,Morning,44.3
+8.03,19.9,8,Medium,Rainy,City Road,Car,Wednesday,Afternoon,37.0
+19.2,31.7,9,Medium,Stormy,Rural Road,Bike,Thursday,Afternoon,57.8
+19.8,41.2,11,Low,Rainy,Rural Road,Car,Saturday,Afternoon,39.6
+14.67,10.0,13,Low,Foggy,City Road,Bike,Saturday,Morning,97.3
+10.14,8.0,11,High,Rainy,City Road,Bus,Monday,Afternoon,100.4
+15.04,44.1,11,Low,Clear,City Road,Bike,Friday,Afternoon,17.8
+12.4,69.1,5,Low,Rainy,Highway,Car,Sunday,Afternoon,19.7
+10.41,32.9,7,Low,Clear,City Road,Car,Sunday,Evening,25.2
+14.31,21.9,10,Low,Foggy,City Road,Car,Wednesday,Afternoon,53.5
+9.89,8.3,8,High,Foggy,City Road,Car,Saturday,Night,91.7
+14.27,33.3,12,Medium,Clear,City Road,Bike,Saturday,Night,34.2
+15.5,8.0,13,High,Clear,City Road,Car,Wednesday,Evening,130.2
+17.57,32.8,13,Low,Clear,City Road,Car,Sunday,Evening,37.5
+4.57,55.0,4,Medium,Clear,Highway,Car,Friday,Morning,8.5
+22.35,55.3,9,Medium,Clear,Highway,Truck,Saturday,Evening,35.3
+11.53,21.4,9,Medium,Rainy,City Road,Car,Saturday,Afternoon,40.9
+29.86,49.6,11,High,Rainy,Highway,Car,Saturday,Afternoon,55.5
+19.27,8.0,12,High,Foggy,City Road,Car,Sunday,Night,168.6
+7.45,45.2,5,High,Clear,Highway,Car,Sunday,Morning,21.9
+16.36,58.7,7,Low,Clear,Rural Road,Truck,Wednesday,Afternoon,24.2
+21.48,47.1,13,Low,Clear,City Road,Car,Thursday,Night,34.2
+10.69,32.6,7,Medium,Foggy,Rural Road,Bike,Friday,Night,33.7
+7.13,73.5,2,Low,Clear,Highway,Bike,Saturday,Evening,4.2
+6.47,61.0,5,Medium,Clear,Highway,Bus,Wednesday,Evening,17.6
+5.22,29.4,6,Medium,Clear,City Road,Bike,Wednesday,Night,18.7
+3.36,10.8,8,Medium,Foggy,City Road,Bus,Saturday,Morning,37.4
+11.65,23.5,10,High,Clear,City Road,Car,Sunday,Afternoon,39.5
+6.66,33.6,6,Medium,Rainy,Rural Road,Car,Sunday,Morning,19.3
+8.49,76.1,2,Low,Rainy,Highway,Bike,Tuesday,Afternoon,11.5
+30.24,29.7,14,Low,Rainy,City Road,Bike,Sunday,Night,67.0
+15.54,57.5,8,Medium,Clear,Highway,Bike,Saturday,Evening,23.3
+7.32,31.9,8,Medium,Clear,City Road,Car,Tuesday,Night,25.3
+37.81,38.2,19,Low,Clear,City Road,Car,Monday,Evening,65.5
+14.21,78.6,5,Medium,Clear,Highway,Car,Tuesday,Night,13.3
+1.89,26.7,3,High,Rainy,Highway,Car,Sunday,Morning,17.6
+36.0,67.2,14,High,Clear,Highway,Car,Saturday,Afternoon,47.6
+26.38,72.1,11,Medium,Clear,Highway,Car,Friday,Afternoon,33.4
+14.48,74.5,4,Medium,Clear,Highway,Bike,Friday,Night,11.4
+11.6,30.3,7,Low,Rainy,Rural Road,Bike,Wednesday,Evening,29.5
+19.06,20.8,11,Medium,Clear,City Road,Bike,Sunday,Morning,64.7
+13.81,68.1,5,Low,Rainy,Highway,Bike,Tuesday,Morning,19.2
+9.44,64.1,2,Medium,Clear,Highway,Car,Wednesday,Afternoon,13.6
+9.11,8.0,9,Medium,Stormy,City Road,Car,Tuesday,Morning,84.5
+20.71,25.7,15,Low,Rainy,City Road,Bike,Saturday,Evening,61.7
+7.31,39.8,9,Low,Clear,City Road,Bus,Thursday,Night,20.7
+20.55,47.2,13,Low,Clear,City Road,Bike,Friday,Night,30.8
+12.59,46.2,6,High,Clear,Highway,Bike,Sunday,Morning,26.2
+4.68,29.6,8,Medium,Clear,City Road,Bike,Tuesday,Afternoon,10.0
+21.44,75.5,9,Low,Clear,Highway,Bike,Sunday,Evening,17.9
+7.42,8.2,9,High,Foggy,City Road,Bike,Monday,Afternoon,71.7
+8.0,18.5,7,Medium,Rainy,City Road,Bike,Saturday,Afternoon,33.9
+10.97,26.7,10,Medium,Clear,City Road,Car,Friday,Morning,29.5
+11.96,8.0,8,High,Rainy,City Road,Car,Saturday,Morning,107.4
+14.53,55.1,8,Low,Clear,Rural Road,Car,Tuesday,Afternoon,20.9
+20.84,17.4,12,Low,Stormy,City Road,Bike,Sunday,Morning,83.9
+20.47,26.2,15,Medium,Clear,City Road,Bus,Saturday,Morning,62.0
+8.95,25.6,5,Low,Rainy,City Road,Car,Monday,Evening,24.8
+9.12,16.6,12,Medium,Rainy,City Road,Car,Thursday,Night,47.2
+19.64,62.6,5,Low,Clear,Highway,Bus,Saturday,Evening,29.5
+6.69,71.1,2,Low,Clear,Highway,Car,Thursday,Morning,9.9
+12.58,44.9,11,Low,Clear,City Road,Bus,Wednesday,Night,23.8
+25.33,52.2,11,Medium,Foggy,Highway,Car,Tuesday,Evening,49.0
+9.72,41.2,9,Low,Clear,City Road,Car,Thursday,Afternoon,16.2
+5.17,47.0,5,Low,Rainy,Rural Road,Car,Sunday,Afternoon,10.0
+7.42,48.5,2,High,Rainy,Highway,Car,Friday,Night,19.8
+7.7,23.0,8,Low,Foggy,City Road,Car,Saturday,Afternoon,27.6
+7.07,65.9,3,Medium,Clear,Highway,Car,Saturday,Morning,11.2
+10.68,59.2,5,Low,Clear,Rural Road,Car,Saturday,Afternoon,12.6
+35.61,20.2,16,Medium,Rainy,City Road,Car,Wednesday,Afternoon,116.7
+16.13,57.2,8,Low,Clear,Rural Road,Bus,Saturday,Afternoon,24.0
+11.26,24.4,6,Medium,Foggy,Rural Road,Car,Wednesday,Afternoon,37.1
+11.8,32.9,12,Low,Clear,City Road,Car,Friday,Evening,25.6
+8.28,54.3,2,High,,Highway,Car,Wednesday,Afternoon,21.3
+11.78,41.3,4,High,Foggy,Highway,Truck,Sunday,Evening,42.5
+24.73,79.0,11,Low,Clear,Highway,Bus,Saturday,Afternoon,32.5
+12.82,84.3,6,Low,Clear,Highway,Truck,Friday,Night,17.5
+20.4,53.0,10,Low,Clear,Rural Road,Truck,Thursday,Night,31.8
+18.95,58.6,8,Medium,Clear,Highway,Car,Thursday,Afternoon,23.4
+34.72,58.9,14,Low,Foggy,Highway,Bike,Saturday,Morning,48.0
+18.77,8.0,15,High,Clear,City Road,Car,Tuesday,Evening,154.4
+33.41,15.8,18,High,Clear,City Road,Bus,Saturday,Afternoon,150.1
+21.23,30.8,8,High,Clear,Rural Road,Car,Tuesday,Night,58.8
+14.53,49.5,7,Medium,Stormy,Highway,Car,Monday,Afternoon,34.2
+7.88,13.4,8,High,Clear,City Road,Truck,Saturday,Afternoon,57.9
+20.34,31.4,9,Low,Stormy,Rural Road,Bus,Friday,Afternoon,56.4
+21.28,23.0,10,Medium,Foggy,Rural Road,Truck,Wednesday,Night,75.0
+21.58,71.5,7,Low,Clear,Highway,Car,Friday,Morning,23.0
+2.31,8.0,6,High,Foggy,City Road,Car,Saturday,Night,32.0
+9.58,59.4,5,Medium,Rainy,Highway,Car,Saturday,Morning,21.7
+16.01,8.0,11,High,Clear,City Road,Car,Sunday,Night,137.2
+9.99,33.5,11,Low,Clear,City Road,Car,Saturday,Evening,26.8
+9.08,45.6,3,High,Foggy,Highway,Car,Thursday,Evening,29.3
+8.26,28.1,3,Medium,Rainy,Rural Road,Bus,Tuesday,Morning,26.0
+4.76,14.0,11,Medium,Rainy,City Road,Car,Monday,Evening,34.4
+15.55,8.0,5,High,Stormy,Rural Road,Bike,Friday,Evening,137.1
+8.73,47.5,5,Medium,Clear,Rural Road,Bus,Friday,Afternoon,20.8
+9.73,16.0,12,Medium,Foggy,City Road,Bike,Friday,Afternoon,48.7
+11.26,8.0,10,Medium,Foggy,City Road,Car,Monday,Evening,95.9
+16.93,83.3,9,Low,Clear,Highway,Car,Friday,Afternoon,16.9
+14.32,70.5,7,Low,Clear,Highway,Car,Saturday,Night,17.9
+13.95,36.2,11,Low,Clear,City Road,Bike,Saturday,Morning,29.0
+3.06,66.0,2,Low,Foggy,Highway,Car,Thursday,Afternoon,6.7
+20.62,55.0,5,High,Clear,Highway,Car,Monday,Night,33.0
+28.87,59.4,11,Medium,Rainy,Highway,Truck,Thursday,Night,40.9
+13.75,77.2,6,Medium,Clear,Highway,Bike,Friday,Afternoon,18.4
+6.55,23.2,9,Medium,Clear,City Road,Bus,Thursday,Evening,32.5
+9.22,12.4,13,Medium,Rainy,City Road,Car,Friday,Morning,51.9
+6.72,20.3,9,Medium,Clear,City Road,Truck,Thursday,Morning,30.0
+27.03,17.3,12,High,Foggy,Rural Road,Car,Thursday,Night,112.0
+9.7,34.0,7,High,Clear,Rural Road,Car,Wednesday,Evening,26.6
+14.09,43.4,7,Medium,Foggy,Highway,Bus,Friday,Morning,40.2
+11.01,45.4,10,Low,Clear,City Road,Bus,Tuesday,Night,27.9
+16.51,54.8,7,Medium,Stormy,Highway,Car,Thursday,Afternoon,34.9
+7.58,21.7,8,Medium,Rainy,City Road,Car,Wednesday,Evening,30.4
+13.79,33.1,11,Medium,Clear,City Road,Car,Friday,Night,32.5
+9.75,30.0,9,Medium,Clear,City Road,Bus,Sunday,Night,31.8
+22.1,42.1,11,Medium,Clear,Rural Road,Bus,Friday,Morning,43.9
+3.24,33.1,6,Low,Rainy,City Road,Car,Monday,Afternoon,13.4
+10.36,71.8,5,Low,Foggy,Highway,Car,Friday,Afternoon,17.8
+20.96,52.1,12,Medium,Clear,Rural Road,Bike,Wednesday,Night,25.4
+19.65,80.5,8,Low,Clear,Highway,Bike,Monday,Night,15.0
+4.97,21.9,11,Low,Rainy,City Road,Car,Tuesday,Evening,23.2
+18.49,33.8,9,Medium,Clear,Rural Road,Bike,Sunday,Morning,40.9
+7.18,64.3,3,Medium,Rainy,Highway,Truck,Wednesday,Night,21.0
+8.42,27.6,9,Low,Clear,City Road,Car,Tuesday,Evening,22.8
+20.34,60.3,8,Medium,Rainy,Highway,Bike,Monday,Afternoon,29.8
+10.24,8.0,3,High,Stormy,Rural Road,Bike,Friday,Afternoon,95.3
+4.77,42.5,9,Low,Clear,City Road,Bike,Saturday,Afternoon,12.4
+6.18,51.2,6,High,Clear,Highway,Bus,Wednesday,Afternoon,25.0
+12.67,8.6,11,High,Clear,City Road,Bike,Monday,Night,104.1
+10.05,16.4,10,Medium,Rainy,City Road,Bike,Wednesday,Night,43.3
+9.95,59.1,4,Medium,Clear,Highway,Car,Friday,Morning,12.4
+16.35,19.6,13,Low,Stormy,City Road,Bike,Monday,Night,64.3
+14.77,8.3,11,High,Rainy,City Road,Car,Tuesday,Afternoon,125.8
+10.46,29.2,10,Medium,Clear,City Road,Car,Monday,Night,36.2
+19.83,8.9,11,High,Rainy,City Road,Car,Thursday,Night,148.4
+16.43,24.3,11,Medium,Clear,City Road,Bike,Tuesday,Evening,45.0
+14.29,63.7,7,Low,Foggy,Highway,Truck,Tuesday,Evening,27.1
+9.17,22.5,11,Low,Clear,City Road,Bike,Monday,Evening,28.4
+21.53,16.4,15,Medium,Rainy,City Road,Bus,Saturday,Night,99.7
+9.88,29.8,3,Medium,Stormy,Rural Road,Car,Thursday,Afternoon,36.3
+10.39,40.1,3,Low,Rainy,Rural Road,Bike,Sunday,Evening,15.2
+27.36,22.9,16,Medium,Foggy,City Road,Truck,Wednesday,Night,95.0
+7.41,8.0,7,High,Clear,City Road,Car,Tuesday,Night,71.9
+7.35,8.0,10,Medium,Foggy,City Road,Bus,Tuesday,Morning,74.5
+10.61,20.5,7,Medium,,City Road,Bike,Sunday,Afternoon,35.3
+6.52,24.8,8,Low,Rainy,City Road,Car,Friday,Evening,22.9
+6.62,22.2,4,High,Clear,Rural Road,Bike,Wednesday,Evening,27.8
+26.93,74.3,11,Low,Clear,Highway,Car,Friday,Evening,30.5
+10.52,8.0,8,High,Rainy,City Road,Car,Thursday,Night,90.9
+14.55,43.9,4,Medium,Clear,Rural Road,Car,Monday,Evening,22.4
+5.24,22.5,8,Medium,Rainy,City Road,Car,Friday,Evening,27.1
+7.05,22.4,9,Low,Foggy,City Road,Car,Monday,Night,33.3
+28.96,20.2,18,Low,Foggy,City Road,Bus,Tuesday,Morning,106.1
+6.55,11.0,8,High,Clear,City Road,Car,Friday,Evening,51.8
+14.8,29.9,8,Medium,Stormy,Rural Road,Bus,Thursday,Afternoon,51.8
+2.21,28.0,8,Medium,Clear,City Road,Bike,Tuesday,Night,11.9
+5.02,48.3,5,High,Clear,Highway,Car,Monday,Evening,18.4
+10.43,8.0,10,High,Foggy,City Road,Car,Friday,Evening,99.0
+19.5,29.9,6,High,Clear,Rural Road,Truck,Friday,Night,52.0
+12.28,64.7,5,Low,Clear,Highway,Bike,Tuesday,Morning,13.7
+10.95,24.5,10,Medium,Clear,City Road,Truck,Wednesday,Evening,35.9
+17.15,9.4,13,High,Clear,City Road,Car,Wednesday,Night,125.5
+13.68,33.8,4,Medium,Foggy,Rural Road,Bike,Sunday,Night,32.1
+4.27,73.6,2,Low,Clear,Highway,Bus,Saturday,Morning,10.3
+11.84,15.4,11,High,Clear,City Road,Truck,Tuesday,Night,61.3
+9.28,25.8,5,Medium,Rainy,Rural Road,Car,Thursday,Morning,29.5
+10.72,28.9,9,Medium,Clear,City Road,Truck,Sunday,Afternoon,34.0
+9.13,12.9,12,High,Rainy,City Road,Car,Wednesday,Night,61.0
+11.93,41.9,4,Medium,Stormy,Highway,Bus,Monday,Evening,39.9
+15.08,14.1,13,Medium,Rainy,City Road,Bike,Wednesday,Evening,72.5
+5.62,8.0,9,Medium,Foggy,City Road,Bike,Friday,Evening,48.5
+8.09,35.1,8,Medium,Clear,City Road,Car,Sunday,Night,17.4
+16.85,20.4,12,Low,Foggy,City Road,Bus,Wednesday,Morning,63.7
+18.01,11.2,12,High,Clear,City Road,Car,Monday,Afternoon,114.9
+24.86,15.0,15,High,Clear,City Road,Car,Tuesday,Afternoon,119.5
+12.42,45.8,5,Low,Rainy,Rural Road,Bike,Wednesday,Night,18.0
+7.83,79.0,3,Low,Clear,Highway,Bike,Monday,Evening,9.9
+8.17,8.0,8,High,Foggy,City Road,Car,Monday,Evening,82.1
+12.2,25.1,10,Low,Rainy,City Road,Bike,Friday,Night,31.9
+7.03,54.5,3,Medium,Stormy,Highway,Car,Saturday,Night,19.4
+23.94,38.9,11,Medium,Clear,City Road,Bike,Tuesday,Afternoon,38.1
+9.1,36.0,9,Medium,Clear,City Road,Bike,Thursday,Afternoon,21.2
+22.14,58.5,8,Low,Rainy,Highway,Bike,Friday,Morning,29.2
+6.51,20.7,5,Medium,Clear,City Road,Bus,Friday,Morning,28.7
+10.75,69.8,4,Medium,Clear,Highway,Bike,Sunday,Afternoon,6.4
+9.86,28.9,5,Medium,Rainy,Rural Road,Car,Sunday,Evening,26.7
+5.16,38.9,6,Low,Stormy,Rural Road,Bike,Wednesday,Night,18.7
+10.29,20.3,9,Medium,Rainy,City Road,Car,Sunday,Afternoon,44.2
+13.65,17.4,12,Medium,Clear,City Road,Car,Monday,Evening,49.6
+3.11,44.8,9,Low,Clear,City Road,Bus,Sunday,Night,9.8
+15.83,66.4,6,Low,Rainy,Highway,Car,Monday,Afternoon,22.7
+14.29,43.0,7,Low,Clear,Rural Road,Car,Monday,Morning,20.1
+11.77,49.4,9,Low,Clear,Rural Road,Truck,Monday,Night,21.5
+17.57,35.1,12,Low,Clear,City Road,Car,Monday,Evening,31.9
+18.22,22.5,9,High,Clear,Rural Road,Car,Thursday,Morning,64.8
+42.35,74.4,15,Medium,Clear,Highway,Car,Friday,Afternoon,37.7
+5.01,26.1,5,High,Clear,Rural Road,Car,Saturday,Afternoon,22.2
+25.86,32.7,10,High,Rainy,Highway,Bike,Monday,Morning,64.4
+20.03,37.8,10,Low,Clear,City Road,Bus,Wednesday,Afternoon,43.1
+14.29,21.1,10,Medium,Rainy,City Road,Bike,Monday,Night,48.3
+6.59,23.0,3,High,Clear,Rural Road,Car,Tuesday,Evening,26.0
+9.46,9.6,9,Medium,Foggy,City Road,Bike,Saturday,Night,70.3
+8.72,32.4,8,Medium,Clear,City Road,Car,Friday,Night,20.4
+11.11,25.5,11,Medium,Clear,City Road,Bike,Tuesday,Afternoon,33.2
+17.2,28.8,12,Low,Clear,City Road,Bike,Wednesday,Morning,38.1
+23.24,42.9,8,Medium,Clear,Rural Road,Car,Sunday,Morning,37.2
+29.87,8.0,16,High,Clear,City Road,Bus,Friday,Night,245.6
+9.51,8.0,10,High,Foggy,City Road,Bus,Tuesday,Afternoon,93.8
+13.07,61.6,7,Low,Foggy,Highway,Car,Sunday,Evening,17.0
+7.3,65.9,2,Medium,Clear,Highway,Bike,Tuesday,Afternoon,7.4
+20.53,37.8,12,Low,Clear,City Road,Bike,Wednesday,Night,38.0
+14.79,8.0,14,High,Rainy,City Road,Car,Friday,Evening,128.5
+10.55,41.8,10,Low,Rainy,City Road,Car,Thursday,Night,22.6
+4.83,20.3,8,High,Clear,City Road,Bike,Monday,Afternoon,22.1
+13.17,16.4,10,High,Rainy,City Road,Truck,Saturday,Night,67.0
+13.94,28.5,11,Low,Clear,City Road,Bike,Tuesday,Evening,30.8
+4.02,56.1,5,Low,Rainy,Highway,Bike,Friday,Morning,6.7
+5.67,21.7,4,High,Clear,Rural Road,Bike,Wednesday,Morning,27.7
+13.0,59.0,8,Low,Clear,Rural Road,Car,Saturday,Afternoon,17.9
+28.45,12.7,16,Medium,Clear,City Road,Car,Sunday,Morning,141.6
+21.7,8.0,12,High,Rainy,City Road,Car,Saturday,Night,182.1
+10.72,32.9,5,Medium,Clear,Rural Road,Truck,Sunday,Morning,30.3
+9.84,55.8,3,Medium,Rainy,Highway,Bus,Thursday,Evening,20.1
+7.96,55.1,4,Medium,Rainy,Highway,Truck,Monday,Evening,13.8
+7.5,20.1,10,Low,Rainy,City Road,Car,Thursday,Evening,27.7
+10.24,8.0,10,High,Clear,City Road,Bike,Thursday,Evening,91.1
+33.08,74.3,12,Low,Clear,Highway,Bike,Saturday,Night,33.3
+9.8,77.9,3,Low,Clear,Highway,Car,Tuesday,Night,5.1
+11.94,25.7,11,Low,Rainy,City Road,Car,Friday,Night,39.3
+5.9,17.2,2,High,Foggy,Rural Road,Bus,Thursday,Afternoon,43.1
+16.17,68.0,5,Low,Clear,Highway,Bike,Friday,Evening,17.5
+11.82,38.5,6,High,Foggy,Highway,Bike,Wednesday,Morning,36.9
+9.48,29.9,9,Medium,Clear,City Road,Car,Wednesday,Night,29.7
+6.72,45.9,3,High,Clear,Highway,Bike,Tuesday,Morning,18.3
+7.7,55.8,3,High,Clear,Highway,Car,Saturday,Morning,19.8
+9.13,8.9,10,High,Rainy,City Road,Car,Monday,Night,77.4
+9.45,53.2,5,High,Clear,Highway,Bike,Tuesday,Night,21.8
+6.68,69.1,2,Low,Clear,Highway,Car,Wednesday,Morning,3.1
+11.23,16.1,5,High,Rainy,Rural Road,Truck,Tuesday,Night,60.6
+13.34,21.7,10,Medium,Clear,City Road,Car,Sunday,Morning,45.6
+17.73,38.5,9,Medium,Clear,Rural Road,Car,Wednesday,Morning,39.2
+27.6,8.0,16,High,Clear,City Road,Car,Tuesday,Night,222.1
+3.96,8.0,7,High,Clear,City Road,Bike,Tuesday,Morning,43.1
+14.44,19.4,11,Medium,Clear,City Road,Car,Tuesday,Morning,53.7
+10.06,24.5,9,Medium,Clear,City Road,Car,Friday,Night,32.9
+3.33,14.2,6,Medium,Rainy,City Road,Car,Thursday,Evening,21.9
+8.28,22.9,11,Medium,Clear,City Road,Car,Tuesday,Evening,30.8
+4.25,61.4,2,Medium,Rainy,Highway,Bike,Sunday,Night,10.0
+16.74,24.8,12,Medium,Clear,City Road,Car,Friday,Morning,45.9
+15.58,52.1,4,Low,Clear,Rural Road,Car,Wednesday,Night,18.9
+12.67,39.8,10,Low,Clear,City Road,Bus,Thursday,Afternoon,31.0
+7.81,42.0,2,High,Clear,Highway,Car,Friday,Evening,18.6
+23.7,46.4,9,Medium,Clear,Rural Road,Bike,Tuesday,Afternoon,30.9
+6.22,30.4,8,High,Clear,Rural Road,Car,Saturday,Afternoon,25.6
+9.55,52.0,5,Medium,Foggy,Highway,Bike,Tuesday,Afternoon,16.6
+10.52,59.2,7,Low,Foggy,Highway,Car,Monday,Evening,22.7
+11.35,39.8,11,Low,Clear,City Road,Car,Thursday,Night,26.6
+36.47,25.4,20,Low,Rainy,City Road,Car,Sunday,Morning,102.8
+26.36,8.0,15,High,Rainy,City Road,Truck,Saturday,Evening,220.6
+15.31,24.4,14,Low,Foggy,City Road,Car,Wednesday,Night,52.5
+11.87,25.8,11,Medium,Clear,City Road,Truck,Wednesday,Evening,41.6
+11.8,17.6,10,High,Clear,City Road,Truck,Friday,Night,57.8
+17.41,18.4,8,High,Clear,Rural Road,Car,Tuesday,Morning,73.4
+21.28,49.3,9,Low,Clear,Rural Road,Car,Saturday,Afternoon,27.3
+6.14,51.8,4,Low,Clear,Rural Road,Car,Wednesday,Afternoon,8.8
+27.74,52.6,11,Low,Foggy,Highway,Truck,Tuesday,Evening,40.8
+14.9,29.0,12,Low,Foggy,City Road,Bike,Monday,Afternoon,39.2
+8.7,45.9,12,Low,Clear,City Road,Bike,Friday,Afternoon,12.9
+10.99,77.1,3,Medium,Clear,Highway,Car,Monday,Night,12.0
+15.34,41.6,8,High,Clear,Highway,Bus,Saturday,Morning,39.1
+15.74,33.9,11,Medium,Clear,City Road,Car,Sunday,Night,34.8
+6.74,14.4,10,Medium,Rainy,City Road,Car,Monday,Morning,38.9
+11.55,28.0,10,Low,Clear,City Road,Car,Monday,Afternoon,33.3
+13.32,8.0,11,High,Foggy,City Road,Car,Sunday,Evening,118.2
+21.46,9.8,13,Medium,Stormy,City Road,Bus,Monday,Night,157.1
+22.71,13.1,11,High,Rainy,City Road,Bus,Wednesday,Night,126.5
+5.73,34.6,6,High,Rainy,Highway,Car,Sunday,Morning,26.8
+12.2,49.8,5,Low,Clear,Rural Road,Car,Monday,Evening,16.5
+8.45,79.5,4,Low,Clear,Highway,Bus,Friday,Afternoon,11.0
+15.15,72.8,5,Low,Clear,Highway,Bike,Wednesday,Night,14.0
+35.46,34.2,12,Medium,Rainy,Rural Road,Car,Thursday,Night,76.0
+20.11,14.7,13,High,Clear,City Road,Car,Sunday,Morning,96.0
+15.88,57.1,6,Medium,Foggy,Highway,Bike,Friday,Afternoon,22.7
+18.3,19.5,11,High,,City Road,Truck,Wednesday,Night,73.6
+25.35,74.3,10,Medium,Clear,Highway,Bike,Sunday,Night,28.3
+19.15,29.8,10,Low,Clear,City Road,Car,Friday,Evening,46.2
+6.3,22.6,4,Low,Stormy,Rural Road,Bike,Monday,Morning,29.4
+28.87,39.2,12,Medium,Clear,Rural Road,Car,Wednesday,Afternoon,53.3
+12.86,37.3,7,Medium,Clear,City Road,Bus,Tuesday,Night,30.4
+14.82,22.8,10,Medium,Clear,City Road,Car,Friday,Evening,46.4
+22.69,15.3,15,Low,Rainy,City Road,Car,Sunday,Morning,98.7
+34.53,56.2,11,Medium,Stormy,Highway,Car,Monday,Afternoon,51.8
+9.53,63.1,5,Low,Clear,Highway,Car,Saturday,Morning,11.3
+22.02,8.0,14,High,Foggy,City Road,Car,Sunday,Afternoon,183.8
+9.21,55.4,4,Low,Clear,Rural Road,Bike,Sunday,Afternoon,9.8
+14.16,36.6,11,Low,Rainy,City Road,Bus,Friday,Evening,34.6
+5.17,34.1,9,Medium,Clear,City Road,Bus,Wednesday,Night,18.4
+9.24,19.6,8,Medium,Clear,City Road,Car,Tuesday,Evening,35.8
+13.78,54.1,6,Medium,Rainy,Highway,Car,Sunday,Evening,22.8
+16.34,34.6,13,Medium,Clear,City Road,Car,Wednesday,Afternoon,33.9
+15.84,14.1,10,High,Clear,City Road,Car,Wednesday,Evening,80.8
+20.52,16.8,14,Medium,Foggy,City Road,Car,Saturday,Night,87.4
+10.0,17.9,4,Medium,Stormy,Rural Road,Bus,Saturday,Morning,55.8
+11.63,65.8,5,Medium,Clear,Highway,Truck,Saturday,Afternoon,16.6
+11.94,42.3,7,Low,Rainy,Rural Road,Car,Sunday,Morning,24.1
+10.41,59.1,1,Medium,Rainy,Highway,Bus,Sunday,Morning,21.3
+7.41,62.3,3,Low,Clear,Highway,Bike,Tuesday,Morning,6.5
+12.91,8.0,11,Medium,Foggy,City Road,Car,Tuesday,Evening,109.7
+18.74,73.9,8,Low,Clear,Highway,Bike,Tuesday,Night,15.6
+14.66,8.0,10,High,Rainy,City Road,Car,Friday,Night,129.3
+9.71,15.8,8,Medium,Clear,City Road,Car,Friday,Morning,41.1
+13.05,8.0,12,High,Clear,City Road,Truck,Sunday,Evening,115.3
+9.38,35.6,9,Medium,Clear,City Road,Bike,Saturday,Afternoon,18.8
+16.56,54.2,9,Low,Clear,Rural Road,Car,Saturday,Afternoon,27.3
+19.08,9.7,9,High,Foggy,Rural Road,Car,Monday,Evening,136.7
+19.32,46.2,7,Medium,Stormy,Highway,Truck,Friday,Evening,49.0
+10.98,11.9,11,High,,City Road,Car,Saturday,Evening,68.0
+9.49,34.9,4,Medium,Clear,Rural Road,Truck,Sunday,Morning,27.9
+20.52,68.0,10,Medium,Clear,Highway,Bus,Wednesday,Afternoon,32.3
+10.52,13.0,12,High,Clear,City Road,Car,Saturday,Afternoon,63.9
+12.94,67.4,7,Medium,Clear,Highway,Bike,Wednesday,Morning,12.1
+14.57,59.7,6,Low,Foggy,Highway,Bike,Tuesday,Morning,17.9
+12.36,20.5,14,Medium,Rainy,City Road,Bus,Wednesday,Afternoon,57.8
+17.83,64.0,7,Medium,Clear,Highway,Car,Tuesday,Morning,26.2
+5.51,56.2,3,High,Clear,Highway,Car,Sunday,Evening,21.9
+15.75,14.4,11,Medium,Rainy,City Road,Car,Tuesday,Morning,74.2
+7.98,20.7,7,Medium,Clear,City Road,Bike,Monday,Morning,28.7
+9.91,64.7,6,High,Clear,Highway,Bus,Friday,Night,23.5
+13.61,68.6,5,Medium,Clear,Highway,Bus,Friday,Evening,20.4
+4.75,42.9,5,Medium,Clear,Rural Road,Bike,Thursday,Evening,9.0
+11.3,34.5,8,Medium,Clear,Rural Road,Car,Tuesday,Morning,28.0
+10.28,61.0,6,Low,Rainy,Highway,Car,Thursday,Morning,14.7
+11.64,60.8,4,Medium,Clear,Highway,Bus,Sunday,Night,20.9
+9.98,76.8,4,Low,Rainy,Highway,Bike,Monday,Night,13.2
+12.98,80.4,2,Low,Clear,Highway,Bus,Saturday,Night,18.2
+9.2,9.0,9,Medium,Foggy,City Road,Car,Monday,Night,76.5
+12.11,68.0,6,Medium,Clear,Highway,Car,Tuesday,Morning,17.4
+13.59,53.3,5,High,Clear,Highway,Truck,Sunday,Night,30.0
+20.91,78.9,7,Low,Clear,Highway,Car,Wednesday,Afternoon,18.5
+23.34,39.4,10,Low,Clear,Rural Road,Car,Thursday,Evening,42.6
+5.77,57.5,5,High,Clear,Highway,Bike,Wednesday,Afternoon,12.7
+21.77,26.5,14,Low,Rainy,City Road,Bike,Friday,Evening,57.7
+7.38,39.8,11,Low,Clear,City Road,Truck,Wednesday,Night,16.6
+12.17,37.9,9,Low,Clear,City Road,Truck,Thursday,Night,27.1
+4.93,35.1,8,Medium,Clear,City Road,Bike,Saturday,Evening,10.2
+3.67,8.0,7,High,Rainy,City Road,Car,Thursday,Afternoon,41.6
+34.34,8.0,21,High,Foggy,City Road,Car,Thursday,Evening,281.9
+12.34,25.5,11,Medium,Rainy,City Road,Bus,Saturday,Afternoon,43.8
+10.92,18.9,13,Low,Rainy,City Road,Car,Wednesday,Morning,43.2
+14.44,48.6,5,Medium,,Highway,Truck,Saturday,Evening,25.3
+11.06,59.7,7,Medium,Rainy,Highway,Bike,Saturday,Morning,14.6
+18.95,43.0,13,Low,Clear,City Road,Car,Sunday,Afternoon,33.6
+14.01,26.4,12,Low,Rainy,City Road,Bike,Thursday,Evening,38.6
+17.36,32.9,10,Low,Rainy,City Road,Bike,Thursday,Night,35.0
+8.03,28.5,9,Low,Clear,City Road,Car,Monday,Evening,23.4
+5.32,20.7,6,Medium,Rainy,City Road,Car,Monday,Night,23.3
+20.09,29.6,13,Medium,Clear,City Road,Bike,Monday,Night,44.3
+14.77,36.2,9,Low,Clear,City Road,Car,Friday,Morning,27.4
+6.31,47.1,4,Medium,Clear,Rural Road,Car,Wednesday,Night,18.0
+6.37,42.4,5,High,Rainy,Highway,Bike,Wednesday,Afternoon,22.8
+13.13,28.9,7,Medium,Foggy,Rural Road,Bus,Friday,Evening,45.6
+16.65,8.0,10,High,Clear,City Road,Bike,Wednesday,Morning,137.5
+7.35,20.4,6,Medium,Clear,City Road,Truck,Monday,Evening,26.1
+26.0,16.3,12,High,Clear,Rural Road,Truck,Thursday,Evening,112.7
+17.79,35.7,15,Low,Clear,City Road,Car,Thursday,Night,36.9
+20.84,61.6,7,Medium,Stormy,Highway,Car,Monday,Night,36.3
+12.95,47.6,10,Low,Clear,Rural Road,Bus,Tuesday,Night,32.7
+12.38,57.9,5,Medium,Clear,Highway,Car,Tuesday,Evening,16.5
+6.0,32.6,5,Medium,Clear,City Road,Bus,Friday,Night,23.2
+8.07,51.6,1,Low,Stormy,Highway,Bike,Tuesday,Morning,19.7
+11.56,15.8,11,High,Clear,City Road,Car,Monday,Night,59.5
+14.97,31.1,11,Low,Rainy,City Road,Bike,Tuesday,Morning,35.0
+13.58,43.3,13,Low,Clear,City Road,Bike,Thursday,Afternoon,23.5
+4.02,52.7,2,Low,Clear,Rural Road,Truck,Saturday,Night,4.3
+7.13,53.3,4,Medium,Rainy,Highway,Car,Monday,Evening,18.0
+14.05,42.7,11,Low,Clear,City Road,Truck,Sunday,Night,29.1
+15.17,17.2,11,Medium,Rainy,City Road,Car,Wednesday,Evening,65.5
+9.89,72.1,4,Low,Clear,Highway,Bus,Wednesday,Evening,14.8
+16.99,15.8,7,High,Rainy,Rural Road,Truck,Monday,Morning,86.3
+16.86,8.8,12,High,Rainy,City Road,Car,Tuesday,Night,129.6
+33.11,13.5,18,Medium,Rainy,City Road,Car,Thursday,Evening,164.1
+12.42,34.0,7,Medium,Clear,Rural Road,Bus,Friday,Evening,30.8
+9.68,25.7,7,High,Rainy,Rural Road,Bus,Saturday,Afternoon,43.6
+7.38,13.5,3,High,Stormy,Rural Road,Car,Thursday,Night,54.7
+5.57,19.6,5,Medium,Clear,City Road,Bike,Monday,Afternoon,19.3
+16.49,8.0,13,High,Clear,City Road,Bus,Wednesday,Morning,146.4
+15.54,8.0,10,High,Foggy,City Road,Car,Saturday,Morning,136.6
+5.97,8.0,8,High,Clear,City Road,Bike,Friday,Evening,55.5
+16.55,35.0,7,Medium,Rainy,Rural Road,Car,Friday,Evening,37.8
+13.33,40.0,10,Low,Rainy,City Road,Car,Thursday,Morning,28.5
+10.47,59.7,2,Low,Clear,Highway,Bus,Thursday,Evening,22.3
+3.84,38.5,2,Medium,Rainy,Rural Road,Car,Sunday,Night,12.0
+15.46,29.3,8,Medium,Rainy,Rural Road,Truck,Friday,Evening,40.8
+27.9,69.1,11,Medium,Clear,Highway,Bike,Friday,Night,28.6
+7.9,27.7,6,Medium,Foggy,Rural Road,Bike,Wednesday,Morning,27.9
+13.34,30.7,10,Medium,Clear,City Road,Car,Thursday,Afternoon,32.6
+16.11,8.0,13,High,Clear,City Road,Car,Friday,Evening,137.1
+2.95,28.1,6,Low,Foggy,City Road,Bus,Sunday,Afternoon,23.3
+7.21,49.8,1,Low,Clear,Rural Road,Bike,Saturday,Morning,6.4
+5.1,20.3,4,High,Foggy,Rural Road,Bus,Friday,Afternoon,32.1
+27.81,15.9,17,High,Clear,City Road,Car,Saturday,Afternoon,116.4
+2.87,8.0,6,High,Clear,City Road,Car,Monday,Morning,33.8
+10.45,29.1,11,High,Clear,City Road,Car,Tuesday,Afternoon,30.9
+14.15,8.8,10,High,Rainy,City Road,Bus,Tuesday,Afternoon,118.6
+7.87,50.8,6,Low,Rainy,Rural Road,Car,Friday,Night,18.9
+3.18,15.5,10,Medium,Foggy,City Road,Bike,Saturday,Afternoon,23.7
+10.68,62.9,5,Low,Stormy,Highway,Car,Tuesday,Afternoon,22.9
+7.8,62.9,3,Medium,Rainy,Highway,Car,Tuesday,Afternoon,13.6
+14.98,8.0,11,High,Rainy,City Road,Bike,Thursday,Evening,128.8
+17.94,36.4,15,Low,Clear,City Road,Bike,Sunday,Afternoon,31.6
+6.0,29.3,5,Medium,Foggy,Rural Road,Truck,Monday,Night,27.7
+8.25,69.0,7,Low,Rainy,Highway,Car,Sunday,Afternoon,15.5
+8.49,22.7,9,Low,Foggy,City Road,Bike,Tuesday,Afternoon,33.9
+17.8,32.2,11,Low,Clear,City Road,Car,Tuesday,Morning,38.2
+12.55,62.0,6,Low,Clear,Rural Road,Bus,Friday,Night,21.9
+6.13,22.7,4,High,Rainy,Rural Road,Bike,Saturday,Afternoon,28.2
+20.82,31.1,6,Medium,Clear,Rural Road,Car,Sunday,Morning,48.6
+7.86,41.8,3,High,Clear,Highway,Bus,Monday,Morning,24.0
+9.05,25.1,4,Medium,Stormy,Rural Road,Car,Monday,Afternoon,36.5
+6.95,32.9,9,Low,Clear,City Road,Car,Thursday,Night,18.5
+13.07,73.5,8,Low,Clear,Highway,Car,Thursday,Morning,13.9
+9.88,13.8,10,High,Clear,City Road,Car,Tuesday,Morning,52.8
+24.1,69.1,7,Low,Clear,Highway,Bus,Friday,Evening,27.6
+12.64,22.4,5,High,Rainy,Rural Road,Bike,Tuesday,Afternoon,50.4
+7.19,40.9,5,Low,Foggy,Rural Road,Bus,Sunday,Night,17.9
+11.91,48.9,5,Medium,Stormy,Highway,Bus,Tuesday,Night,35.4
+25.94,39.9,13,High,Rainy,Highway,Bus,Friday,Evening,61.6
+5.74,43.7,5,Low,Rainy,Rural Road,Car,Thursday,Afternoon,13.3
+15.45,43.0,9,Low,Clear,Rural Road,Car,Monday,Evening,24.8
+3.87,26.9,2,High,Foggy,Highway,Car,Friday,Evening,26.9
+23.2,40.3,16,Low,Clear,City Road,Truck,Tuesday,Afternoon,47.9
+9.18,35.3,8,Medium,Clear,City Road,Truck,Thursday,Afternoon,29.7
+7.08,30.5,6,Medium,Stormy,Rural Road,Bus,Friday,Night,38.0
+25.09,67.5,9,Low,Foggy,Highway,Car,Monday,Evening,33.7
+11.48,51.6,3,High,Clear,Highway,Car,Tuesday,Afternoon,22.7
+11.72,51.3,6,High,Rainy,Highway,Bus,Wednesday,Night,34.6
+9.26,24.5,11,Medium,Clear,City Road,Car,Sunday,Afternoon,30.6
+9.48,10.5,9,High,Clear,City Road,Bike,Tuesday,Morning,63.2
+3.64,63.2,6,Low,Clear,Rural Road,Car,Sunday,Night,6.5
+15.33,42.5,9,Low,Clear,City Road,Car,Thursday,Night,26.0
+5.12,78.3,1,Medium,Clear,Highway,Bike,Sunday,Afternoon,4.3
+19.31,52.0,8,High,Clear,Highway,Truck,Saturday,Night,36.0
+6.35,54.3,4,Low,Clear,Rural Road,Bus,Wednesday,Afternoon,12.3
+12.31,27.4,9,Low,Clear,City Road,Car,Thursday,Evening,34.4
+8.41,44.2,4,Medium,Stormy,Highway,Car,Saturday,Morning,25.2
+9.26,8.0,8,High,Rainy,City Road,Truck,Monday,Evening,93.7
+10.27,20.1,9,Low,Foggy,City Road,Bike,Friday,Morning,39.4
+14.06,19.6,11,Medium,Clear,City Road,Car,Thursday,Morning,47.7
+24.7,19.5,14,Medium,Rainy,City Road,Bike,Monday,Night,88.7
+9.13,26.7,5,Medium,Foggy,Rural Road,Car,Sunday,Morning,28.5
+3.29,54.2,2,Low,Clear,Rural Road,Car,Tuesday,Afternoon,6.3
+21.88,34.2,12,Low,Clear,City Road,Bus,Sunday,Night,47.5
+16.59,35.5,9,Medium,Clear,Rural Road,Bike,Tuesday,Night,35.7
+6.21,67.0,6,Medium,Clear,Highway,Car,Thursday,Afternoon,14.7
+5.59,40.1,5,High,Clear,Highway,Car,Wednesday,Morning,14.7
+14.41,40.8,8,Medium,Clear,Rural Road,Truck,Sunday,Afternoon,30.9
+13.07,59.9,5,Medium,Clear,Highway,Bike,Sunday,Evening,13.1
+28.01,8.0,15,High,Rainy,City Road,Bike,Saturday,Afternoon,233.8
+15.41,18.7,13,Medium,Clear,City Road,Car,Saturday,Evening,57.3
+8.12,41.0,5,Medium,Clear,City Road,Truck,Saturday,Night,17.2
+7.1,8.0,4,High,Rainy,Rural Road,Bus,Wednesday,Evening,78.3
+12.09,78.0,6,Low,Clear,Highway,Bike,Sunday,Evening,8.5
+3.75,21.2,6,Medium,Clear,City Road,Car,Thursday,Evening,12.2
+4.56,8.0,8,High,Clear,City Road,Bike,Wednesday,Morning,41.8
+5.79,49.9,5,Low,Clear,Rural Road,Bus,Tuesday,Evening,13.8
+8.0,27.7,7,Medium,Clear,City Road,Bus,Friday,Night,28.2
+11.38,68.0,5,Low,Clear,Highway,Truck,Tuesday,Evening,14.5
+15.96,88.9,6,Low,Clear,Highway,Bike,Friday,Night,11.0
+22.58,8.0,15,Medium,Stormy,City Road,Car,Monday,Night,189.6
+20.28,26.8,14,Low,Foggy,City Road,Car,Friday,Afternoon,61.2
+18.6,16.0,13,High,Clear,City Road,Bus,Friday,Afternoon,90.3
+9.06,22.0,9,High,Clear,City Road,Car,Thursday,Night,36.8
+7.22,53.0,4,High,Clear,Highway,Car,Friday,Afternoon,18.8
+14.25,48.3,5,Low,Foggy,Rural Road,Bike,Sunday,Evening,25.5
+14.74,23.8,11,Low,Foggy,City Road,Car,Saturday,Evening,53.0
+6.13,60.2,2,Low,Clear,Highway,Bus,Thursday,Morning,9.1
+10.24,32.7,11,Low,Clear,City Road,Car,Sunday,Afternoon,25.0
+6.89,16.2,9,High,Clear,City Road,Car,Sunday,Afternoon,36.6
+4.46,44.3,4,Medium,Foggy,Highway,Car,Tuesday,Morning,12.2
+13.67,70.7,8,Low,Foggy,Highway,Bike,Wednesday,Night,14.1
+18.4,52.7,7,High,Clear,Highway,Bus,Saturday,Night,40.7
+26.62,16.0,14,Medium,Rainy,City Road,Car,Thursday,Night,115.0
+10.68,67.2,4,Low,Clear,Highway,Car,Monday,Morning,9.5
+3.98,36.3,5,Low,Rainy,City Road,Car,Thursday,Afternoon,11.6
+29.17,14.9,10,Medium,Foggy,Rural Road,Bike,Wednesday,Morning,124.0
+30.58,52.2,13,High,Clear,Highway,Truck,Saturday,Morning,57.2
+45.63,52.4,16,Low,Clear,Rural Road,Bus,Thursday,Evening,64.6
+35.67,8.0,17,High,Rainy,City Road,Car,Monday,Night,282.1
+13.23,8.0,10,High,Clear,City Road,Bike,Monday,Morning,110.9
+11.67,37.8,4,High,Foggy,Highway,Car,Wednesday,Evening,31.8
+17.37,29.6,13,Low,Clear,City Road,Car,Tuesday,Morning,41.2
+4.96,60.4,3,Low,Foggy,Highway,Car,Sunday,Night,9.5
+7.75,56.5,3,High,Clear,Highway,Car,Tuesday,Morning,19.3
+10.76,50.6,7,Low,Clear,Rural Road,Car,Friday,Afternoon,14.3
+20.68,14.6,14,Medium,Clear,City Road,Bus,Monday,Morning,94.2
+21.18,31.4,7,High,Clear,Rural Road,Car,Thursday,Afternoon,55.1
+11.1,39.7,10,Low,Clear,City Road,Bus,Sunday,Afternoon,27.6
+5.26,8.0,7,High,Rainy,City Road,Truck,Friday,Evening,57.4
+18.23,53.1,6,High,Clear,Highway,Bike,Wednesday,Night,31.7
+5.05,28.2,11,Medium,Clear,City Road,Car,Saturday,Night,20.4
+8.53,46.7,5,Medium,Clear,Rural Road,Bus,Thursday,Afternoon,22.6
+13.18,31.0,6,High,Clear,Rural Road,Car,Tuesday,Night,42.3
+4.71,34.2,4,Medium,Foggy,Rural Road,Car,Sunday,Afternoon,20.2
+7.47,20.4,6,Medium,Stormy,Rural Road,Car,Sunday,Morning,36.0
+19.74,47.8,7,High,Clear,Highway,Bus,Thursday,Evening,43.4
+17.38,11.9,11,Medium,Rainy,City Road,Bus,Monday,Evening,102.4
+5.67,51.2,5,Low,Rainy,Rural Road,Bus,Wednesday,Afternoon,15.5
+14.05,12.2,9,Low,Stormy,City Road,Bike,Thursday,Evening,83.9
+3.94,59.0,5,Low,Clear,Rural Road,Bike,Sunday,Afternoon,4.9
+16.39,28.9,9,Medium,Clear,City Road,Bus,Saturday,Morning,40.2
+7.87,66.6,3,Medium,Clear,Highway,Bus,Tuesday,Afternoon,14.6
+10.36,30.0,7,Medium,Foggy,City Road,Car,Thursday,Afternoon,35.0
+12.31,18.4,9,Medium,Rainy,City Road,Truck,Tuesday,Afternoon,50.4
+5.88,11.5,10,High,Clear,City Road,Bus,Thursday,Night,46.1
+7.52,17.7,10,High,Clear,City Road,Bike,Thursday,Afternoon,43.3
+27.17,26.2,17,Low,Rainy,City Road,Car,Thursday,Evening,74.6
+9.94,10.4,7,Medium,Foggy,City Road,Car,Wednesday,Morning,72.8
+12.7,34.1,9,Medium,Clear,City Road,Bus,Thursday,Afternoon,38.6
+12.81,63.3,6,Medium,Rainy,Highway,Car,Saturday,Night,19.4
+22.91,50.3,15,Low,Clear,City Road,Car,Thursday,Night,34.5
+17.97,29.7,7,High,Clear,Rural Road,Bike,Monday,Night,51.0
+6.06,8.0,7,High,Clear,City Road,Bus,Saturday,Morning,63.0
+24.49,59.2,8,Medium,Rainy,Highway,Bus,Friday,Night,45.2
+29.42,8.0,19,High,Stormy,City Road,Bus,Friday,Afternoon,253.7
+6.04,49.4,2,High,Clear,Highway,Car,Friday,Morning,21.7
+9.59,63.0,4,Medium,Clear,Highway,Car,Tuesday,Morning,13.4
+10.95,65.8,5,Medium,Clear,Highway,Bike,Sunday,Night,12.5
+9.8,27.5,11,Medium,Clear,City Road,Car,Sunday,Evening,30.1
+16.43,56.7,5,High,Clear,Highway,Bike,Tuesday,Evening,26.2
+10.4,40.1,11,Low,Clear,City Road,Truck,Tuesday,Night,24.9
+8.6,31.1,7,Medium,Clear,City Road,Bike,Tuesday,Morning,22.6
+16.84,11.3,14,High,Clear,City Road,Bike,Sunday,Morning,99.0
+3.34,91.1,0,Low,Clear,Highway,Bike,Sunday,Night,3.0
+13.24,8.0,10,High,Rainy,City Road,Bus,Tuesday,Evening,122.8
+15.39,70.7,9,Medium,Clear,Highway,Car,Friday,Night,23.0
+23.65,8.0,15,High,Rainy,City Road,Car,Tuesday,Evening,199.8
+12.18,8.0,11,High,Foggy,City Road,Car,Monday,Morning,111.4
+4.11,26.0,6,Low,Rainy,City Road,Bike,Tuesday,Evening,15.7
+12.59,21.7,9,High,Clear,City Road,Car,Monday,Night,51.4
+3.93,76.1,4,Low,Clear,Highway,Bike,Saturday,Morning,3.0
+14.5,28.8,8,Medium,Rainy,Rural Road,Bus,Saturday,Morning,43.7
+21.44,71.0,10,Medium,Clear,Highway,Car,Tuesday,Afternoon,24.7
+11.27,18.8,10,High,Clear,City Road,Bike,Thursday,Afternoon,48.5
+10.4,35.6,9,Low,Clear,City Road,Car,Tuesday,Evening,17.3
+17.75,50.8,9,Low,Clear,Rural Road,Car,Thursday,Morning,20.6
+14.21,31.7,11,Medium,Clear,City Road,Car,Sunday,Night,34.2
+17.03,9.9,12,Medium,Rainy,City Road,Car,Sunday,Morning,117.2
+35.25,33.7,12,Medium,Clear,Rural Road,Truck,Saturday,Morning,73.8
+8.93,42.3,11,Low,Clear,City Road,Truck,Tuesday,Night,20.8
+15.03,32.2,12,Low,Foggy,City Road,Bike,Tuesday,Afternoon,38.7
+24.72,10.5,14,High,Clear,City Road,Bike,Tuesday,Evening,153.8
+24.93,68.6,11,Low,Rainy,Highway,Bus,Monday,Afternoon,38.3
+15.82,29.2,12,Medium,Clear,City Road,Bus,Friday,Afternoon,45.4
+10.16,41.1,5,High,Clear,Highway,Bike,Friday,Evening,21.6
+16.91,21.0,13,Low,Foggy,City Road,Car,Sunday,Night,62.2
+17.1,22.4,13,Medium,Clear,City Road,Bike,Monday,Morning,53.9
+18.68,46.8,13,Low,Clear,City Road,Truck,Tuesday,Night,32.7
+6.28,10.5,4,High,Foggy,Rural Road,Car,Saturday,Morning,53.6
+29.0,31.5,19,Medium,Rainy,City Road,Car,Friday,Night,68.8
+24.77,46.2,9,High,Rainy,Highway,Car,Wednesday,Night,50.6
+11.47,40.2,11,Low,Clear,City Road,Car,Tuesday,Night,20.4
+23.45,17.0,14,Medium,Clear,City Road,Bike,Thursday,Evening,90.7
+11.03,8.0,11,High,Rainy,City Road,Car,Tuesday,Night,103.7
+26.49,74.1,12,Low,Clear,Highway,Truck,Thursday,Night,27.1
+12.54,24.3,10,Low,Clear,City Road,Bus,Sunday,Evening,41.7
+7.06,41.1,5,Low,Rainy,Rural Road,Car,Tuesday,Night,19.7
+32.68,30.4,14,High,Clear,Rural Road,Bus,Monday,Afternoon,83.6
+18.27,66.3,6,Medium,Clear,Highway,Bus,Saturday,Night,26.0
+10.63,67.5,7,Medium,Clear,Highway,Bike,Monday,Night,15.9
+27.7,64.0,12,Medium,Clear,Highway,Car,Sunday,Evening,33.4
+17.01,46.3,6,Medium,Rainy,Highway,Bus,Saturday,Morning,32.2
+9.89,10.4,11,Medium,Foggy,City Road,Car,Wednesday,Morning,71.5
+27.89,41.2,11,Medium,Clear,Rural Road,Car,Wednesday,Morning,54.2
+18.63,41.7,8,Medium,Clear,Rural Road,Car,Wednesday,Evening,39.5
+14.41,42.6,10,Low,Clear,City Road,Car,Wednesday,Afternoon,24.7
+12.09,29.7,7,High,Clear,Rural Road,Bike,Saturday,Night,32.5
+6.9,26.9,4,High,Clear,Rural Road,Car,Saturday,Afternoon,25.1
+2.6,19.6,8,Low,Foggy,City Road,Bike,Tuesday,Morning,20.8
+17.64,45.3,9,Medium,Clear,Rural Road,Car,Tuesday,Evening,31.5
+6.08,33.4,8,Low,Clear,City Road,Bus,Thursday,Morning,23.9
+6.9,8.0,11,High,Stormy,City Road,Car,Friday,Night,79.2
+10.93,9.8,9,High,Clear,City Road,Truck,Saturday,Morning,80.9
+11.08,37.2,3,High,Stormy,Highway,Truck,Wednesday,Afternoon,39.7
+7.44,41.1,10,Low,Clear,City Road,Car,Thursday,Night,14.1
+17.63,45.8,5,Low,Clear,Rural Road,Bike,Monday,Evening,22.7
+4.27,25.9,10,Low,Foggy,City Road,Car,Thursday,Night,17.7
+17.44,45.0,12,Low,Clear,City Road,Bus,Friday,Afternoon,31.6
+10.23,70.2,2,Low,Clear,Highway,Bike,Wednesday,Night,9.3
+7.22,34.4,7,Low,Clear,City Road,Car,Wednesday,Evening,16.8
+4.52,36.6,0,High,Rainy,Highway,Car,Thursday,Evening,23.5
+13.24,14.5,11,Low,Rainy,City Road,Car,Sunday,Morning,64.7
+5.8,50.1,2,Low,Clear,Rural Road,Bus,Friday,Night,10.9
+5.31,38.8,4,High,Rainy,Highway,Bus,Sunday,Morning,28.4
+24.57,22.5,14,Medium,Rainy,City Road,Car,Monday,Afternoon,76.7
+5.0,10.7,7,High,Clear,City Road,Car,Saturday,Evening,34.1
+4.22,34.0,8,Medium,Clear,City Road,Car,Monday,Night,15.4
+16.68,14.3,9,High,Clear,Rural Road,Bike,Wednesday,Evening,83.2
+13.84,71.9,8,Medium,Clear,Highway,Car,Wednesday,Afternoon,18.0
+8.56,33.6,8,Medium,Clear,City Road,Car,Tuesday,Afternoon,20.7
+6.64,31.1,8,Medium,Clear,City Road,Bus,Sunday,Night,21.7
+7.72,47.5,4,Medium,Clear,Rural Road,Car,Sunday,Afternoon,17.4
+8.69,30.3,9,Low,Clear,City Road,Bike,Thursday,Night,20.8
+15.63,49.0,5,Medium,Rainy,Highway,Car,Thursday,Morning,29.0
+13.42,78.8,5,Low,Clear,Highway,Car,Saturday,Evening,13.0
+9.59,8.0,9,High,Stormy,City Road,Bike,Friday,Evening,90.9
+9.53,71.1,5,Low,Foggy,Highway,Car,Thursday,Evening,12.9
+17.1,25.6,12,Low,Rainy,City Road,Car,Saturday,Afternoon,49.8
+7.2,21.8,9,Low,Stormy,City Road,Truck,Tuesday,Evening,37.8
+4.43,14.9,3,High,Foggy,Rural Road,Bus,Tuesday,Afternoon,38.3
+23.12,76.3,8,Low,Clear,Highway,Bike,Monday,Evening,24.4
+9.6,35.5,6,Medium,Rainy,Rural Road,Car,Monday,Night,25.6
+30.86,47.6,10,High,Clear,Highway,Car,Tuesday,Evening,45.7
+8.83,27.0,10,Low,Rainy,City Road,Car,Friday,Evening,28.2
+11.73,51.9,5,High,Clear,Highway,Truck,Saturday,Night,26.2
+6.86,76.0,4,Low,Clear,Highway,Bus,Friday,Morning,12.1
+13.54,30.7,11,Low,Clear,City Road,Bike,Thursday,Evening,26.9
+9.66,8.0,12,Medium,Stormy,City Road,Truck,Tuesday,Evening,96.5
+10.33,33.8,5,High,Clear,Highway,Car,Monday,Evening,28.4
+12.44,70.3,5,Low,Clear,Highway,Bike,Friday,Morning,9.4
+8.94,36.3,8,Medium,Clear,City Road,Car,Monday,Night,20.6
+13.3,50.5,8,Low,Clear,Rural Road,Car,Saturday,Morning,20.3
+7.79,22.4,8,Medium,Foggy,City Road,Truck,Wednesday,Afternoon,37.9
+12.92,14.3,8,Medium,Rainy,City Road,Bus,Wednesday,Evening,69.0
+3.95,38.4,7,Medium,Clear,City Road,Car,Monday,Afternoon,13.1
+5.0,38.4,4,Medium,Clear,Rural Road,Car,Tuesday,Morning,13.1
+6.8,28.7,7,Low,Clear,City Road,Bike,Monday,Evening,14.9
+5.61,34.3,8,Medium,Clear,City Road,Car,Saturday,Afternoon,18.4
+5.88,22.6,8,Medium,Foggy,City Road,Bike,Thursday,Night,25.8
+15.11,65.1,6,Medium,Rainy,Highway,Bike,Saturday,Night,21.6
+9.81,78.0,6,Low,Clear,Highway,Car,Thursday,Afternoon,15.6
+8.94,15.4,7,Medium,Rainy,City Road,Car,Sunday,Evening,44.2
+13.36,44.0,10,Medium,Clear,Rural Road,Car,Saturday,Morning,25.5
+13.93,34.4,11,Low,Rainy,City Road,Truck,Tuesday,Night,34.1
+8.37,24.6,10,Low,Clear,City Road,Car,Monday,Morning,22.3
+19.98,58.9,8,Medium,Rainy,Highway,Bike,Sunday,Night,29.4
+10.13,66.6,2,Medium,Clear,Highway,Car,Tuesday,Night,14.6
+15.9,18.2,10,Low,Stormy,City Road,Bike,Saturday,Afternoon,65.9
+7.78,44.4,3,High,Clear,Highway,Car,Friday,Night,22.1
+13.08,31.5,12,Medium,Clear,City Road,Car,Friday,Evening,36.5
+16.72,42.6,5,High,Clear,Highway,Bike,Tuesday,Evening,30.9
+15.68,66.0,5,Medium,Clear,Highway,Bike,Wednesday,Afternoon,18.1
+14.9,27.3,7,Medium,Clear,Rural Road,Car,Thursday,Morning,39.6
+7.57,18.3,9,Medium,Rainy,City Road,Car,Monday,Evening,36.4
+5.47,38.5,4,High,Rainy,Highway,Truck,Wednesday,Morning,25.9
+5.1,68.2,1,Medium,Clear,Highway,Car,Thursday,Afternoon,5.6
+8.7,12.5,7,Medium,Rainy,City Road,Car,Tuesday,Morning,48.3
+8.35,16.9,10,Medium,Rainy,City Road,Car,Wednesday,Morning,42.8
+14.06,34.6,9,Medium,Clear,Rural Road,Car,Sunday,Morning,33.0
+11.48,22.1,10,Low,Clear,City Road,Bike,Wednesday,Morning,33.3
+5.19,63.5,1,Medium,Clear,Highway,Bike,Sunday,Night,6.2
+18.33,23.3,12,Medium,Clear,City Road,Bike,Sunday,Night,53.2
+12.68,23.4,7,High,Rainy,Rural Road,Bike,Friday,Night,47.2
+7.28,14.7,8,Medium,Foggy,City Road,Car,Tuesday,Morning,43.3
+8.0,44.3,7,Medium,Rainy,Rural Road,Bus,Tuesday,Night,25.5
+23.03,38.8,10,High,Clear,Highway,Car,Sunday,Evening,50.0
+5.61,25.1,8,Medium,Rainy,City Road,Car,Monday,Night,25.7
+23.69,68.9,6,Low,Rainy,Highway,Bike,Thursday,Night,22.3
+9.67,94.6,3,Low,Clear,Highway,Car,Friday,Afternoon,8.0
+10.04,26.9,9,Low,Foggy,City Road,Car,Saturday,Evening,29.1
+13.41,40.5,10,Low,Clear,City Road,Car,Sunday,Evening,23.7
+4.36,74.0,3,Medium,Clear,Highway,Bike,Tuesday,Afternoon,3.0
+12.66,56.9,6,High,Clear,Highway,Car,Thursday,Afternoon,26.0
+16.54,20.0,9,Medium,Clear,City Road,Bike,Friday,Morning,55.5
+8.57,32.0,6,Low,Foggy,Rural Road,Bus,Sunday,Morning,28.7
+10.97,26.0,10,Medium,Clear,City Road,Bike,Thursday,Night,27.6
+31.23,35.1,17,Low,Clear,City Road,Car,Monday,Evening,68.3
+17.52,54.8,8,High,Clear,Highway,Bus,Sunday,Evening,39.2
+6.5,30.2,7,Low,Clear,City Road,Car,Thursday,Evening,15.2
+8.28,26.4,11,Medium,Clear,City Road,Truck,Tuesday,Afternoon,28.9
+9.5,64.6,4,Low,Clear,Highway,Bike,Tuesday,Morning,3.8
+18.13,23.2,15,Medium,Rainy,City Road,Car,Tuesday,Night,62.2
+6.49,36.1,7,Medium,Clear,City Road,Bus,Saturday,Night,19.4
+15.7,45.4,9,High,Rainy,Highway,Bike,Sunday,Morning,38.0
+15.76,86.9,5,Low,Clear,Highway,Car,Thursday,Night,15.1
+11.35,24.1,10,High,Rainy,Rural Road,Car,Monday,Afternoon,45.3
+18.46,50.5,6,Medium,Foggy,Highway,Bike,Sunday,Evening,28.1
+6.86,13.4,10,High,Clear,City Road,Bike,Friday,Morning,44.6
+20.49,9.4,13,High,Clear,City Road,Bus,Thursday,Afternoon,152.5
+3.84,26.8,3,High,Stormy,Highway,Car,Monday,Morning,29.1
+6.47,48.6,8,Low,Clear,City Road,Bike,Sunday,Night,8.1
+3.89,26.6,6,Low,Rainy,City Road,Bike,Monday,Afternoon,13.1
+7.09,54.8,0,Low,Clear,Rural Road,Bike,Friday,Afternoon,5.3
+15.91,75.2,10,Low,Clear,Highway,Car,Friday,Evening,15.0
+13.72,70.4,6,Medium,Clear,Highway,Car,Thursday,Night,21.0
+12.59,8.7,6,High,Foggy,City Road,Bus,Thursday,Afternoon,113.2
+7.03,14.6,9,High,Clear,City Road,Car,Wednesday,Evening,45.5
+10.86,16.4,11,Medium,Rainy,City Road,Car,Friday,Evening,55.2
+20.6,69.0,7,Medium,Rainy,Highway,Bike,Wednesday,Afternoon,29.8
+7.2,10.4,7,High,Clear,City Road,Car,Thursday,Night,52.0
+7.39,8.0,9,High,Clear,City Road,Car,Friday,Morning,66.9
+7.57,52.0,10,Low,Clear,City Road,Car,Saturday,Night,11.3
+12.23,79.7,5,Medium,Clear,Highway,Bike,Tuesday,Afternoon,13.0
+15.14,32.6,8,High,Rainy,Highway,Truck,Sunday,Morning,47.3
+17.05,39.9,14,Low,Clear,City Road,Car,Monday,Night,29.4
+9.49,30.7,9,Medium,Clear,City Road,Car,Tuesday,Night,26.7
+8.99,9.1,7,High,Rainy,City Road,Bus,Wednesday,Night,81.0
+8.07,8.0,8,High,Rainy,City Road,Car,Wednesday,Morning,78.4
+14.63,64.2,7,High,Clear,Highway,Truck,Wednesday,Night,30.0
+4.46,8.0,8,High,Rainy,City Road,Bike,Wednesday,Evening,43.4
+10.21,85.6,6,Low,Clear,Highway,Car,Thursday,Night,10.7
+10.25,75.2,6,Low,Rainy,Highway,Car,Saturday,Afternoon,19.2
+15.88,44.9,8,Medium,Clear,Rural Road,Car,Saturday,Night,28.2
+5.22,28.5,3,Medium,Clear,Rural Road,Bus,Wednesday,Evening,22.6
+16.55,35.1,13,Medium,Clear,City Road,Car,Tuesday,Afternoon,35.3
+14.14,17.0,14,Medium,Rainy,City Road,Bus,Friday,Morning,71.3
+27.42,23.9,13,Medium,Rainy,City Road,Bus,Monday,Night,84.1
+24.62,57.1,10,Medium,Clear,Highway,Bus,Thursday,Evening,37.6
+19.81,29.8,16,Low,Foggy,City Road,Bus,Tuesday,Morning,59.8
+3.26,20.8,5,Low,Foggy,City Road,Car,Friday,Morning,19.4
+5.51,34.3,9,Low,Clear,City Road,Bike,Monday,Night,10.2
+18.5,17.5,14,Low,Rainy,City Road,Bus,Saturday,Morning,74.2
+10.07,50.4,2,High,Clear,Highway,Car,Tuesday,Morning,23.1
+24.6,47.5,11,Medium,Stormy,Highway,Car,Thursday,Evening,50.6
+11.5,77.7,5,Low,Clear,Highway,Car,Friday,Night,11.3
+15.58,32.3,7,High,Clear,Rural Road,Car,Thursday,Afternoon,42.4
+14.98,25.3,11,Medium,Clear,City Road,Bus,Thursday,Evening,47.5
+11.34,32.7,12,Low,Clear,City Road,Car,Tuesday,Evening,26.9
+18.67,20.5,12,Low,Rainy,City Road,Bike,Saturday,Evening,62.8
+16.25,76.8,6,Low,Clear,Highway,Truck,Thursday,Evening,19.2
+5.82,66.2,2,Medium,Clear,Highway,Car,Tuesday,Morning,9.8
+32.39,34.8,17,Low,Clear,City Road,Bus,Tuesday,Evening,73.1
+5.52,30.8,2,Low,Foggy,Rural Road,Car,Thursday,Morning,19.5
+7.37,17.3,8,Low,Rainy,City Road,Car,Saturday,Evening,34.4
+15.43,30.4,12,Medium,Clear,City Road,Car,Sunday,Night,39.0
+13.91,84.6,6,Low,Clear,Highway,Car,Wednesday,Night,7.5
+16.99,27.2,10,High,Clear,Rural Road,Car,Wednesday,Morning,53.0
+9.88,70.9,5,Low,Foggy,Highway,Car,Monday,Night,19.5
+14.46,34.7,6,Medium,Rainy,Rural Road,Car,Thursday,Afternoon,34.8
+7.67,10.0,7,Medium,Rainy,City Road,Car,Tuesday,Morning,56.8
+11.5,49.9,5,Medium,Foggy,Highway,Bike,Saturday,Evening,21.0
+23.01,47.0,10,Low,Clear,Rural Road,Car,Thursday,Evening,32.8
+5.5,52.5,3,High,Rainy,Highway,Bus,Tuesday,Afternoon,23.2
+19.29,8.0,13,High,Clear,City Road,Truck,Sunday,Evening,164.7
+10.29,45.0,6,Low,Clear,Rural Road,Bike,Saturday,Evening,17.7
+6.74,42.3,9,Low,Clear,City Road,Bike,Wednesday,Morning,17.5
+7.01,14.8,8,High,Clear,City Road,Bike,Monday,Evening,37.3
+10.12,22.6,4,Medium,Stormy,Rural Road,Bike,Tuesday,Afternoon,38.6
+19.78,54.3,8,Low,Clear,Rural Road,Truck,Wednesday,Morning,27.7
+14.41,37.4,8,Low,Foggy,Rural Road,Truck,Wednesday,Afternoon,33.2
+5.23,34.8,3,Medium,Rainy,Rural Road,Car,Saturday,Night,14.8
+18.76,12.4,11,Medium,Rainy,City Road,Bike,Sunday,Evening,98.2
+17.11,32.6,10,Medium,Foggy,Rural Road,Bus,Saturday,Afternoon,53.4
+3.87,18.1,6,High,Clear,City Road,Car,Saturday,Afternoon,22.3
+6.56,70.5,3,Medium,Clear,Highway,Bike,Monday,Night,10.3
+20.88,35.1,14,Low,Clear,City Road,Bike,Tuesday,Evening,43.5
+11.37,43.0,6,Medium,Clear,Rural Road,Bike,Sunday,Night,20.8
+18.7,51.9,4,Medium,Foggy,Highway,Car,Friday,Evening,35.5
+2.76,55.4,4,Low,Clear,Rural Road,Car,Tuesday,Night,3.0
+2.2,25.1,9,Low,Clear,City Road,Car,Saturday,Evening,8.6
+16.02,32.4,13,Medium,Clear,City Road,Bike,Tuesday,Afternoon,35.2
+8.09,30.5,6,Medium,Clear,City Road,Truck,Saturday,Afternoon,26.4
+16.51,20.4,15,Low,Rainy,City Road,Bus,Sunday,Morning,68.4
+18.83,67.9,6,Medium,Clear,Highway,Car,Thursday,Night,19.3
+8.18,20.0,7,Medium,Rainy,City Road,Car,Friday,Night,33.2
+10.78,52.8,6,Medium,Rainy,Highway,Bus,Saturday,Evening,25.8
+9.48,15.8,10,High,Rainy,City Road,Bike,Sunday,Afternoon,49.6
+8.1,17.5,9,High,Clear,City Road,Bike,Friday,Morning,36.5
+12.83,40.4,5,Medium,Rainy,Highway,Car,Wednesday,Evening,26.8
+17.8,34.4,14,Low,Clear,City Road,Car,Tuesday,Morning,34.8
+7.41,26.8,9,Medium,Clear,City Road,Bus,Wednesday,Evening,32.7
+7.39,20.9,6,Medium,Rainy,City Road,Bike,Monday,Afternoon,26.8
+8.22,36.6,11,Low,Rainy,City Road,Car,Friday,Night,25.7
+15.45,88.3,7,Low,Clear,Highway,Truck,Wednesday,Night,21.6
+18.76,13.1,14,Low,Foggy,City Road,Bike,Friday,Morning,94.9
+9.39,30.7,10,Medium,Clear,City Road,Truck,Monday,Afternoon,30.2
+3.37,71.8,6,Medium,Rainy,Highway,Car,Wednesday,Night,14.1
+6.09,47.8,3,Low,Stormy,Highway,Car,Wednesday,Morning,20.3
+9.07,46.4,4,High,Clear,Highway,Truck,Monday,Evening,26.7
+6.86,8.0,9,High,Foggy,City Road,Truck,Saturday,Morning,74.1
+5.21,52.3,3,Low,Rainy,Rural Road,Truck,Friday,Afternoon,17.1
+11.67,8.0,11,High,Rainy,City Road,Bus,Saturday,Morning,108.9
+36.76,24.8,14,Low,Rainy,City Road,Car,Saturday,Morning,100.5
+6.33,22.2,4,High,Rainy,Rural Road,Car,Monday,Afternoon,31.9
+12.89,38.4,5,High,Clear,Highway,Car,Sunday,Morning,34.2
+15.04,79.1,6,Low,Rainy,Highway,Truck,Monday,Night,26.6
+15.7,20.2,6,High,Clear,Rural Road,Car,Sunday,Evening,56.8
+10.97,8.0,11,High,Stormy,City Road,Bus,Friday,Afternoon,111.8
+5.37,34.9,3,High,Clear,Rural Road,Truck,Saturday,Afternoon,19.5
+17.74,56.0,8,High,Clear,Highway,Truck,Thursday,Night,39.8
+4.22,23.0,7,Medium,Foggy,City Road,Truck,Tuesday,Night,26.9
+10.34,35.0,10,Low,Clear,City Road,Bike,Tuesday,Morning,19.1
+9.76,8.0,12,High,Clear,City Road,Car,Monday,Evening,86.3
+5.63,38.6,4,Medium,Rainy,Rural Road,Truck,Saturday,Afternoon,22.2
+8.22,24.4,10,Medium,Clear,City Road,Car,Thursday,Night,27.0
+15.42,29.3,12,Medium,Clear,City Road,Car,Tuesday,Night,41.6
+10.34,67.4,4,Medium,Clear,Highway,Truck,Monday,Evening,20.0
+4.66,67.5,2,Low,Clear,Highway,Bike,Monday,Evening,5.2
+16.6,18.4,11,Medium,Clear,City Road,Bike,Tuesday,Morning,57.1
+26.99,50.6,12,Low,Clear,Rural Road,Car,Saturday,Night,37.4
+5.05,62.8,3,Medium,Clear,Highway,Bike,Sunday,Evening,6.4
+10.83,37.0,5,High,Clear,Rural Road,Truck,Friday,Afternoon,35.3
+11.05,24.7,10,Medium,Clear,City Road,Bike,Sunday,Morning,33.8
+4.98,8.0,5,Medium,Rainy,City Road,Car,Wednesday,Evening,45.3
+21.26,75.2,8,Low,Rainy,Highway,Bike,Wednesday,Afternoon,23.8
+11.18,8.0,10,High,Clear,City Road,Bus,Friday,Evening,99.5
+18.07,72.5,10,Medium,Clear,Highway,Truck,Monday,Afternoon,25.8
+13.33,9.3,13,Medium,Foggy,City Road,Car,Sunday,Morning,102.1
+20.84,67.7,7,Low,Rainy,Highway,Bike,Saturday,Afternoon,20.9
+13.23,54.6,7,Low,Clear,Rural Road,Car,Monday,Night,15.6
+8.73,42.8,5,Medium,Clear,Rural Road,Car,Tuesday,Night,21.6
+14.79,31.5,7,High,Clear,Rural Road,Car,Friday,Afternoon,42.8
+6.97,28.6,4,Medium,Foggy,Rural Road,Bike,Saturday,Night,28.7
+15.57,14.4,11,Low,Foggy,City Road,Bike,Tuesday,Morning,73.9
+6.32,8.0,11,High,Foggy,City Road,Car,Saturday,Night,67.9
+10.62,50.5,5,Medium,Clear,Rural Road,Car,Thursday,Night,18.0
+9.49,24.9,6,High,Clear,Rural Road,Car,Friday,Morning,33.5
+12.72,43.8,3,Low,Clear,Rural Road,Car,Wednesday,Evening,20.9
+22.67,66.3,10,Medium,Clear,Highway,Bike,Thursday,Afternoon,28.2
+8.06,11.6,11,High,Clear,City Road,Car,Wednesday,Night,58.8
+17.45,43.5,7,Low,Rainy,Rural Road,Car,Tuesday,Morning,28.1
+21.21,40.9,9,Medium,Clear,Rural Road,Truck,Tuesday,Night,42.0
+17.16,47.4,8,High,Foggy,Highway,Car,Tuesday,Night,39.1
+12.67,58.2,6,Low,Clear,Rural Road,Bus,Saturday,Afternoon,19.3
+12.32,86.2,6,Low,Clear,Highway,Bike,Wednesday,Afternoon,13.9
+7.78,30.3,4,Medium,Foggy,Rural Road,Bike,Wednesday,Evening,21.0
+4.26,26.7,10,Low,Rainy,City Road,Bike,Saturday,Morning,22.3
+11.4,47.7,5,Low,Clear,Rural Road,Car,Sunday,Night,17.3
+22.2,17.1,18,Medium,Rainy,City Road,Bus,Tuesday,Morning,96.0
+23.87,8.0,16,High,Clear,City Road,Bus,Wednesday,Morning,200.3
+4.78,30.1,9,Low,Clear,City Road,Car,Wednesday,Evening,12.2
+23.48,46.8,13,Low,Clear,City Road,Bus,Saturday,Afternoon,40.9
+15.16,8.0,13,High,Clear,City Road,Bike,Friday,Morning,125.7
+14.24,34.4,8,Medium,Rainy,Rural Road,Truck,Thursday,Night,39.0
+22.11,52.6,6,High,Clear,Highway,Bus,Tuesday,Morning,39.0
+18.78,27.0,6,Medium,Rainy,Rural Road,Car,Wednesday,Morning,51.4
+6.26,8.0,9,High,Rainy,City Road,Bus,Monday,Evening,66.9
+7.28,24.4,8,Medium,Clear,City Road,Truck,Friday,Night,24.2
+3.96,67.9,2,Low,Clear,Highway,Bike,Sunday,Morning,3.0
+13.89,51.3,7,High,Clear,Highway,Car,Saturday,Afternoon,33.2
+6.69,65.1,2,Medium,Rainy,Highway,Bus,Wednesday,Night,20.3
+8.56,41.9,4,Low,Rainy,Rural Road,Bike,Thursday,Night,17.7
+20.7,29.7,8,Low,Rainy,Rural Road,Car,Sunday,Morning,49.4
+14.91,63.5,7,Medium,Clear,Highway,Bus,Wednesday,Evening,27.1
+15.12,51.8,5,Low,Clear,Rural Road,Bike,Saturday,Night,20.4
+32.04,71.9,11,Low,Clear,Highway,Bus,Friday,Evening,39.3
+1.85,78.4,0,Low,Clear,Highway,Bike,Thursday,Evening,3.5
+6.91,22.4,8,Medium,Rainy,City Road,Car,Friday,Night,29.9
+9.46,37.5,10,Medium,Clear,City Road,Truck,Tuesday,Afternoon,29.2
+7.17,21.7,10,Medium,Clear,City Road,Bike,Wednesday,Morning,28.4
+17.99,77.0,6,Low,Clear,Highway,Bike,Wednesday,Evening,11.6
+10.09,69.3,5,Low,Clear,Highway,Car,Saturday,Evening,11.7
+5.87,22.5,8,Medium,Rainy,City Road,Car,Friday,Night,21.0
+13.24,65.3,8,Medium,Clear,Highway,Bike,Wednesday,Night,16.1
+14.47,13.9,11,Medium,Foggy,City Road,Car,Saturday,Afternoon,75.3
+6.16,26.9,4,Low,Foggy,City Road,Truck,Thursday,Night,24.4
+10.37,28.4,7,Low,Foggy,Rural Road,Truck,Sunday,Morning,33.9
+14.66,32.8,10,Low,Rainy,City Road,Bus,Friday,Night,41.6
+21.33,12.5,13,Medium,Rainy,City Road,Car,Sunday,Morning,111.6
+7.61,15.2,9,Medium,Rainy,City Road,Bike,Sunday,Evening,43.4
+15.54,8.0,9,High,Clear,City Road,Car,Wednesday,Evening,130.6
+8.26,65.5,4,Medium,Clear,Highway,Bus,Tuesday,Evening,15.6
+11.92,45.5,7,Medium,Rainy,Rural Road,Car,Saturday,Night,27.7
+6.48,69.4,4,Medium,Clear,Highway,Truck,Tuesday,Evening,17.1
+15.29,81.5,5,Low,Clear,Highway,Car,Saturday,Morning,14.9
+19.41,10.2,14,Medium,Foggy,City Road,Car,Tuesday,Evening,127.7
+10.62,78.2,3,Low,Clear,Highway,Truck,Sunday,Afternoon,18.9
+9.88,24.4,9,Medium,Clear,City Road,Bike,Friday,Evening,30.9
+9.36,30.8,9,Low,Rainy,City Road,Bus,Thursday,Afternoon,28.1
+5.49,13.3,4,High,Clear,Rural Road,Truck,Thursday,Morning,39.6
+16.93,8.0,11,High,Foggy,City Road,Bike,Friday,Evening,145.7
+21.04,30.8,15,Low,Clear,City Road,Car,Wednesday,Morning,45.9
+7.36,10.7,9,Medium,Foggy,City Road,Bike,Wednesday,Afternoon,50.6
+12.81,11.5,7,High,Rainy,Rural Road,Bus,Tuesday,Evening,87.1
+15.06,38.9,12,Low,Clear,City Road,Truck,Tuesday,Night,31.4
+8.18,15.1,10,High,Clear,City Road,Car,Sunday,Afternoon,44.5
+23.82,45.1,11,Medium,Clear,Rural Road,Bike,Saturday,Afternoon,39.9
+12.94,21.8,8,High,Clear,City Road,Car,Thursday,Afternoon,47.8
+4.78,15.6,5,High,Clear,Rural Road,Bike,Saturday,Evening,26.2
+19.97,13.2,13,Low,Stormy,City Road,Bus,Friday,Morning,111.8
+10.86,57.6,6,Medium,Clear,Highway,Bus,Friday,Evening,20.0
+8.98,39.3,5,Medium,Foggy,Rural Road,Car,Monday,Night,22.8
+16.25,69.2,4,Low,Clear,Highway,Car,Thursday,Morning,12.2
+8.34,60.3,1,Low,Stormy,Highway,Car,Monday,Night,16.8
+23.02,12.2,13,High,Clear,City Road,Car,Friday,Evening,128.9
+20.35,78.6,9,Low,Clear,Highway,Car,Monday,Evening,19.9
+24.72,36.4,13,Medium,Rainy,Rural Road,Bus,Thursday,Evening,56.5
+31.08,46.8,12,High,Clear,Highway,Car,Wednesday,Night,54.5
+14.94,37.4,6,Low,Foggy,Rural Road,Car,Monday,Evening,33.5
+11.42,71.4,4,Medium,Clear,Highway,Bike,Thursday,Night,8.4
+8.15,54.7,6,High,Clear,Highway,Car,Tuesday,Afternoon,20.8
+15.73,22.3,10,Medium,Clear,City Road,Car,Tuesday,Morning,52.0
+30.62,70.4,15,Low,Rainy,Highway,Truck,Sunday,Evening,38.3
+5.51,52.2,7,Low,Clear,Rural Road,Car,Wednesday,Morning,13.6
+13.54,51.5,9,High,Clear,Highway,Car,Wednesday,Morning,27.9
+4.74,33.0,8,Low,Clear,City Road,Bike,Monday,Morning,6.0
+4.62,81.4,2,Medium,Clear,Highway,Car,Wednesday,Afternoon,7.8
+21.41,70.0,9,Low,Clear,Highway,Car,Wednesday,Morning,23.7
+19.58,16.9,10,Medium,Foggy,Rural Road,Car,Saturday,Evening,83.4
+7.91,8.0,8,High,Clear,City Road,Car,Monday,Evening,73.8
+6.09,14.3,6,Medium,Rainy,City Road,Bus,Sunday,Morning,45.0
+25.24,21.5,14,High,Clear,City Road,Car,Monday,Afternoon,85.2
+6.35,37.4,7,Low,Clear,City Road,Car,Friday,Night,21.8
+5.25,47.5,6,Medium,Clear,Rural Road,Car,Monday,Night,15.4
+6.47,8.0,7,High,Clear,City Road,Truck,Saturday,Morning,65.5
+14.31,67.4,6,Medium,Clear,Highway,Car,Friday,Evening,19.8
+33.43,40.3,19,Low,Clear,City Road,Bus,Saturday,Afternoon,61.4
+8.22,13.6,11,High,Clear,City Road,Car,Sunday,Afternoon,49.8
+21.27,29.7,10,Medium,Stormy,Rural Road,Truck,Saturday,Evening,65.5
+12.25,35.3,11,Medium,Clear,City Road,Car,Friday,Night,28.1
+3.39,8.0,6,High,Clear,City Road,Car,Saturday,Evening,33.7
+8.37,39.5,10,Low,Clear,City Road,Bike,Monday,Night,19.2
+19.7,68.7,11,Low,Clear,Rural Road,Car,Friday,Night,24.8
+19.13,56.9,6,Low,Rainy,Rural Road,Bus,Sunday,Night,28.9
+7.69,34.6,11,Medium,Clear,City Road,Bike,Wednesday,Night,18.4
+16.89,62.8,6,Low,Rainy,Highway,Bike,Sunday,Night,23.3
+10.73,36.7,11,Medium,Clear,City Road,Car,Thursday,Afternoon,26.2
+14.01,76.8,6,Low,Clear,Highway,Bike,Thursday,Night,9.2
+21.91,18.6,14,Medium,Stormy,City Road,Car,Wednesday,Night,91.7
+7.87,43.4,4,Low,Clear,Rural Road,Truck,Monday,Evening,17.2
+9.22,31.4,4,Medium,Rainy,Rural Road,Bike,Sunday,Evening,25.2
+22.13,36.8,15,Low,Clear,City Road,Bike,Saturday,Night,37.5
+31.52,8.0,17,Medium,Stormy,City Road,Bus,Wednesday,Morning,252.3
+18.39,25.1,10,Medium,Clear,City Road,Bike,Sunday,Morning,48.1
+13.54,23.4,9,Medium,Clear,City Road,Bike,Tuesday,Night,41.1
+18.3,10.9,10,High,Rainy,City Road,Car,Saturday,Evening,117.1
+8.34,16.9,8,Medium,Clear,City Road,Bike,Thursday,Evening,35.4
+11.86,41.6,7,Low,Clear,Rural Road,Car,Friday,Evening,22.4
+4.59,8.0,7,High,Stormy,City Road,Car,Monday,Evening,55.5
+8.45,45.5,6,Low,Rainy,Rural Road,Bus,Friday,Morning,21.2
+14.49,30.4,11,Low,Rainy,City Road,Car,Friday,Afternoon,32.6
+12.81,48.6,5,Medium,Rainy,Highway,Bike,Sunday,Morning,19.8
+2.8,23.4,7,Low,Foggy,City Road,Car,Wednesday,Afternoon,12.5
+10.03,29.8,8,Low,Foggy,Rural Road,Car,Monday,Morning,30.6
+12.67,23.5,8,Medium,Rainy,City Road,Bus,Monday,Night,48.1
+12.94,39.7,13,Low,Clear,City Road,Car,Tuesday,Afternoon,24.3
+5.18,49.1,4,High,Clear,Highway,Bike,Wednesday,Evening,13.8
+17.06,40.8,7,High,Rainy,Highway,Bike,Saturday,Morning,38.1
+29.11,54.1,13,Medium,Foggy,Highway,Bus,Tuesday,Morning,55.1
+18.18,28.0,12,Medium,Clear,City Road,Car,Tuesday,Afternoon,48.5
+11.86,26.3,11,Medium,Clear,City Road,Bus,Monday,Night,42.1
+25.57,30.8,10,High,Clear,Rural Road,Car,Wednesday,Night,59.1
+8.36,71.7,5,Low,Clear,Highway,Car,Friday,Evening,10.9
+15.87,61.3,5,Low,Foggy,Highway,Car,Tuesday,Evening,21.9
+11.17,18.4,10,Medium,Clear,City Road,Car,Thursday,Evening,43.5
+25.72,17.2,16,Medium,Rainy,City Road,Bike,Tuesday,Evening,103.4
+6.62,33.1,6,Low,Rainy,Rural Road,Car,Saturday,Evening,17.8
+6.61,41.8,2,Medium,Stormy,Highway,Car,Monday,Morning,24.4
+22.41,45.6,15,Low,Clear,City Road,Bike,Tuesday,Afternoon,32.3
+15.25,12.3,6,High,Foggy,Rural Road,Car,Thursday,Night,92.1
+23.4,77.3,6,Low,Rainy,Highway,Car,Saturday,Afternoon,21.0
+7.0,17.0,7,Low,Rainy,City Road,Car,Wednesday,Morning,32.0
+7.75,24.1,10,Low,Clear,City Road,Car,Monday,Evening,24.0
+13.82,72.5,6,Low,Clear,Highway,Bike,Thursday,Afternoon,14.6
+4.71,24.6,7,Low,Rainy,City Road,Truck,Tuesday,Evening,20.6
+13.29,75.6,6,Low,Clear,Highway,Bike,Wednesday,Evening,10.0
+9.14,78.5,4,Low,Clear,Highway,Bike,Sunday,Evening,5.7
+11.13,38.1,11,Low,Rainy,City Road,Car,Sunday,Night,25.4
+17.0,33.3,6,Medium,Rainy,Rural Road,Truck,Tuesday,Evening,42.1
+17.48,25.8,12,Medium,Clear,City Road,Car,Friday,Night,45.2
+28.32,27.8,16,Low,Clear,City Road,Car,Thursday,Morning,66.8
+20.58,83.9,6,Low,Clear,Highway,Car,Sunday,Night,17.0
+3.45,75.1,0,Low,Foggy,Highway,Car,Sunday,Afternoon,8.4
+6.94,8.8,8,Low,Stormy,City Road,Bus,Wednesday,Evening,68.2
+7.29,78.5,4,Low,Clear,Highway,Car,Monday,Morning,9.4
+19.44,12.4,9,High,Clear,Rural Road,Car,Monday,Evening,105.3
+26.12,23.9,10,High,Clear,Rural Road,Car,Monday,Morning,75.2
+5.6,21.5,3,High,Clear,Rural Road,Truck,Saturday,Evening,30.7
+19.71,9.0,12,Medium,Foggy,City Road,Bus,Saturday,Morning,151.1
+11.88,22.2,11,Medium,Clear,City Road,Truck,Saturday,Morning,45.0
+10.95,67.7,7,Low,Clear,Highway,Bus,Monday,Morning,21.9
+8.28,17.2,6,High,Clear,City Road,Truck,Monday,Afternoon,45.9
+10.11,55.3,5,High,Clear,Highway,Car,Tuesday,Night,23.1
+13.33,8.0,10,High,Foggy,City Road,Car,Friday,Night,120.8
+8.84,8.0,10,High,Rainy,City Road,Car,Monday,Morning,87.3
+14.83,22.6,13,Medium,Rainy,City Road,Car,Friday,Night,52.0
+10.98,8.0,9,High,Clear,City Road,Bike,Sunday,Evening,92.3
+10.3,8.0,11,High,Foggy,City Road,Car,Tuesday,Afternoon,95.7
+16.37,88.5,5,Low,Clear,Highway,Car,Saturday,Night,9.9
+14.04,42.9,6,High,Foggy,Highway,Bike,Thursday,Morning,34.4
+2.88,24.4,7,Low,Foggy,City Road,Car,Sunday,Morning,16.8
+15.19,8.0,11,High,Clear,City Road,Car,Tuesday,Morning,129.1
+13.61,14.1,5,High,Foggy,Rural Road,Car,Tuesday,Morning,75.0
+21.29,46.5,14,Low,Clear,City Road,Bike,Monday,Afternoon,37.4
+13.91,50.9,8,Medium,Rainy,Highway,Car,Friday,Morning,30.1
+9.79,72.1,3,Low,Clear,Highway,Car,Sunday,Morning,9.3
+8.1,49.5,4,High,Clear,Highway,Car,Monday,Afternoon,20.8
+4.23,21.4,5,High,Clear,Rural Road,Bus,Thursday,Evening,31.8
+11.78,77.7,5,Medium,Clear,Highway,Car,Saturday,Night,12.2
+7.34,27.4,7,High,Clear,Rural Road,Car,Saturday,Morning,26.4
+23.04,47.7,9,Low,Clear,Rural Road,Truck,Sunday,Evening,38.0
+12.07,10.5,10,Low,Rainy,City Road,Bus,Saturday,Morning,82.5
+6.18,26.7,7,Medium,Clear,City Road,Car,Sunday,Night,21.5
+3.58,40.5,7,Low,Clear,City Road,Car,Sunday,Afternoon,10.7
+4.37,10.9,8,Medium,Stormy,City Road,Car,Sunday,Night,39.5
+14.5,62.2,7,Low,Stormy,Highway,Bike,Thursday,Night,22.3
+24.47,31.2,14,Medium,Clear,City Road,Car,Wednesday,Afternoon,53.9
+16.16,27.3,11,Medium,Clear,City Road,Truck,Wednesday,Afternoon,50.0
+11.11,8.0,11,High,Rainy,City Road,Bus,Sunday,Afternoon,102.9
+31.86,71.3,14,Low,Rainy,Highway,Bike,Tuesday,Afternoon,29.8
+18.09,51.5,8,High,Clear,Highway,Car,Saturday,Afternoon,34.0
+13.98,38.2,10,Medium,Rainy,Rural Road,Bus,Friday,Evening,38.0
+9.64,37.6,10,Low,Clear,City Road,Bike,Monday,Afternoon,14.8
+25.16,18.7,16,Medium,Clear,City Road,Bus,Thursday,Night,93.8
+10.17,45.9,7,Medium,Rainy,Rural Road,Car,Tuesday,Afternoon,23.0
+7.32,67.8,6,Low,Rainy,Highway,Bike,Saturday,Afternoon,16.0
+11.38,62.5,7,Medium,Foggy,Highway,Bus,Thursday,Afternoon,29.3
+12.67,68.6,4,Low,Clear,Highway,Truck,Wednesday,Evening,18.1
+18.95,24.8,14,Medium,Clear,City Road,Bike,Monday,Morning,51.7
+7.22,44.8,5,Medium,Clear,Rural Road,Bike,Monday,Afternoon,11.4
+8.01,75.0,4,Medium,Clear,Highway,Car,Saturday,Afternoon,10.5
+8.26,45.9,1,High,Clear,Highway,Bike,Sunday,Evening,20.9
+11.04,68.7,3,Low,Clear,Highway,Truck,Wednesday,Morning,16.9
+6.26,16.3,8,High,Clear,City Road,Bike,Saturday,Afternoon,31.1
+22.89,8.0,12,High,Rainy,City Road,Car,Thursday,Evening,186.8
+4.4,45.4,2,High,Clear,Highway,Car,Wednesday,Night,12.8
+25.56,52.0,11,High,Clear,Highway,Bike,Thursday,Afternoon,45.7
+17.93,46.3,11,Low,Rainy,City Road,Bus,Friday,Night,32.4
+6.97,12.9,9,Medium,Clear,City Road,Car,Sunday,Evening,40.8
+10.55,44.2,4,Low,Foggy,Rural Road,Car,Thursday,Night,22.9
+7.62,8.0,9,High,Clear,City Road,Truck,Wednesday,Morning,74.9
+18.1,39.2,13,Medium,Clear,City Road,Bike,Saturday,Night,32.1
+24.12,62.4,7,Low,Foggy,Highway,Car,Thursday,Afternoon,34.6
+47.58,14.5,18,High,Rainy,Rural Road,Car,Wednesday,Morning,217.0
+15.6,67.4,5,Low,Rainy,Highway,Car,Thursday,Morning,16.6
+4.47,28.1,4,Medium,Rainy,Rural Road,Car,Thursday,Evening,15.7
+6.66,18.2,9,Medium,Clear,City Road,Bike,Monday,Evening,23.0
+15.18,38.9,7,Low,Rainy,Rural Road,Bike,Monday,Morning,32.2
+10.8,31.5,6,Medium,Foggy,Rural Road,Bike,Friday,Night,34.7
+17.79,35.4,8,High,Stormy,Highway,Bike,Tuesday,Afternoon,54.0
+14.12,76.7,6,Low,Clear,Highway,Car,Thursday,Evening,13.6
+7.03,24.0,8,Medium,Clear,City Road,Car,Saturday,Evening,19.4
+9.85,26.8,8,Low,Rainy,City Road,Car,Tuesday,Evening,26.9
+18.26,23.7,12,Medium,Clear,City Road,Car,Wednesday,Evening,51.3
+14.56,44.8,11,Low,Clear,City Road,Bike,Sunday,Night,22.4
+17.9,28.5,11,High,Clear,Rural Road,Car,Monday,Evening,56.6
+5.36,13.6,7,High,Clear,City Road,Bike,Saturday,Night,36.9
+7.32,84.1,4,Low,Clear,Highway,Car,Tuesday,Night,5.4
+21.99,33.5,14,Low,Clear,City Road,Car,Sunday,Afternoon,41.5
+5.49,10.7,10,Medium,Clear,City Road,Car,Wednesday,Evening,36.8
+17.32,31.1,11,Medium,Clear,City Road,Bike,Monday,Morning,43.3
+5.12,16.3,10,Medium,Foggy,City Road,Bike,Saturday,Night,29.8
+12.56,81.3,5,Low,Clear,Highway,Bus,Tuesday,Night,15.7
+9.05,48.9,9,Low,Clear,Rural Road,Car,Wednesday,Night,13.8
+6.97,8.0,9,High,,City Road,Bike,Thursday,Evening,61.8
+13.13,41.4,5,Medium,Clear,Rural Road,Bus,Saturday,Night,26.5
+21.4,40.2,8,High,Stormy,Highway,Car,Wednesday,Night,60.5
+7.91,47.4,6,Medium,Foggy,Highway,Car,Sunday,Morning,25.5
+3.17,13.3,7,High,Clear,City Road,Car,Thursday,Afternoon,25.4
+10.98,28.3,10,Low,Clear,City Road,Car,Wednesday,Evening,22.5
+6.93,60.8,6,Low,Clear,Rural Road,Bus,Wednesday,Afternoon,14.3
+18.47,51.3,7,High,Clear,Highway,Car,Saturday,Evening,34.1
+9.03,8.0,9,High,Clear,City Road,Bike,Friday,Evening,80.2
+8.08,58.4,3,Low,Clear,Rural Road,Bus,Monday,Night,16.8
+9.61,28.8,12,Medium,Clear,City Road,Car,Saturday,Night,24.8
+21.39,52.3,7,Medium,Rainy,Highway,Bike,Wednesday,Morning,34.9
+14.97,29.8,11,Medium,Clear,City Road,Car,Wednesday,Afternoon,36.2
+6.34,58.2,5,Low,Clear,Rural Road,Car,Monday,Afternoon,10.7
+5.36,8.0,8,High,Clear,City Road,Car,Sunday,Evening,51.5
+25.36,42.5,13,Low,Clear,City Road,Car,Monday,Afternoon,45.9
+7.96,82.5,2,Medium,Clear,Highway,Car,Sunday,Night,4.0
+21.75,40.9,14,Low,Clear,City Road,Bike,Monday,Afternoon,39.5
+10.73,55.2,5,Low,Clear,Rural Road,Bike,Thursday,Afternoon,10.4
+7.38,69.6,0,Medium,Clear,Highway,Bike,Monday,Night,7.5
+7.72,30.4,9,Low,Foggy,City Road,Car,Thursday,Afternoon,28.3
+11.02,8.0,9,Medium,Foggy,City Road,Truck,Saturday,Morning,98.8
+3.08,63.5,4,Low,Clear,Rural Road,Car,Friday,Afternoon,3.0
+7.52,59.9,3,High,Clear,Highway,Bus,Thursday,Afternoon,21.6
+30.43,25.8,12,Medium,Rainy,Rural Road,Bike,Monday,Evening,80.4
+35.4,8.0,18,High,Rainy,City Road,Bike,Sunday,Evening,279.8
+7.98,44.2,3,Low,Clear,Rural Road,Car,Wednesday,Evening,12.6
+16.82,81.5,6,Low,Clear,Highway,Bus,Thursday,Afternoon,21.4
+14.74,62.3,6,Medium,Clear,Highway,Bike,Sunday,Evening,19.4
+5.8,15.1,6,Medium,Rainy,City Road,Car,Friday,Morning,30.2
+16.98,26.9,13,Low,Clear,City Road,Bus,Saturday,Morning,45.0
+9.48,44.6,5,Low,Clear,Rural Road,Car,Tuesday,Evening,14.5
+12.27,50.7,4,Medium,Clear,Rural Road,Bike,Thursday,Night,16.3
+18.86,29.3,12,Low,Clear,City Road,Bike,Thursday,Evening,41.7
+9.85,23.8,6,Medium,Clear,Rural Road,Bus,Tuesday,Morning,34.3
+9.79,31.2,9,Low,Rainy,City Road,Car,Wednesday,Night,28.1
+15.97,52.1,12,Low,Clear,City Road,Car,Saturday,Afternoon,21.9
+22.1,26.2,15,Medium,Clear,City Road,Car,Sunday,Evening,59.8
+15.47,27.1,15,Medium,Clear,City Road,Car,Saturday,Night,41.8
+10.06,27.7,11,Low,Foggy,City Road,Bike,Sunday,Night,31.1
+20.82,25.4,11,Medium,Clear,City Road,Car,Sunday,Morning,59.8
+14.41,8.0,11,High,Clear,City Road,Bus,Tuesday,Morning,123.1
+24.71,57.7,9,Medium,Clear,Highway,Car,Saturday,Evening,27.2
+28.34,35.0,13,Medium,Foggy,Rural Road,Car,Friday,Night,61.5
+15.33,55.0,5,High,Rainy,Highway,Car,Sunday,Night,28.6
+23.75,8.0,14,Medium,Foggy,City Road,Car,Friday,Evening,185.8
+24.14,46.8,8,High,Rainy,Highway,Car,Monday,Morning,51.4
+11.36,8.0,9,High,Clear,City Road,Car,Thursday,Evening,100.3
+24.14,55.1,9,Low,Clear,Highway,Car,Saturday,Evening,30.8
+12.6,73.7,5,Medium,Clear,Highway,Car,Monday,Afternoon,15.3
+17.88,16.7,10,Medium,Rainy,City Road,Bike,Thursday,Evening,74.7
+11.9,8.0,12,High,Rainy,City Road,Bus,Friday,Morning,109.9
+4.83,48.5,4,Medium,Clear,Rural Road,Bike,Thursday,Night,10.4
+32.83,36.0,11,Low,Foggy,Rural Road,Car,Saturday,Morning,67.6
+17.49,68.7,7,Medium,Clear,Highway,Car,Monday,Night,21.4
+18.35,53.9,6,Low,Clear,Rural Road,Car,Wednesday,Night,23.7
+13.29,19.7,9,High,Clear,Rural Road,Bike,Sunday,Evening,56.2
+24.04,16.0,17,Medium,Foggy,City Road,Bike,Thursday,Night,104.3
+11.22,48.9,5,Medium,Foggy,Highway,Car,Tuesday,Night,22.5
+11.64,8.0,9,High,Clear,City Road,Car,Monday,Morning,101.6
+6.39,8.0,7,Medium,Stormy,City Road,Car,Friday,Evening,66.0
+14.07,8.0,10,Medium,Foggy,City Road,Car,Sunday,Evening,118.4
+23.37,8.0,10,High,Foggy,Rural Road,Truck,Monday,Night,200.0
+11.3,33.3,7,High,Foggy,Highway,Car,Monday,Evening,36.1
+5.88,8.0,9,High,Clear,City Road,Car,Wednesday,Evening,58.4
+20.72,22.4,15,Low,Rainy,City Road,Car,Tuesday,Evening,61.3
+16.05,8.0,12,Medium,Rainy,City Road,Car,Monday,Morning,132.0
+30.7,79.8,10,Low,Rainy,Highway,Car,Wednesday,Afternoon,28.9
+7.73,22.8,4,High,Clear,Rural Road,Car,Friday,Afternoon,34.1
+17.53,17.9,12,Medium,Rainy,City Road,Car,Saturday,Night,74.1
+5.73,8.0,6,Medium,Stormy,City Road,Car,Wednesday,Night,56.2
+12.09,78.5,6,Low,Clear,Highway,Bike,Friday,Evening,9.1
+13.42,16.1,12,Low,Stormy,City Road,Bike,Saturday,Morning,61.6
+4.51,59.6,3,Medium,Clear,Highway,Car,Monday,Evening,9.9
+22.43,37.3,15,Low,Clear,City Road,Bus,Saturday,Afternoon,49.3
+19.12,32.9,10,Low,Clear,City Road,Car,Tuesday,Evening,37.7
+16.05,8.0,14,High,Rainy,City Road,Truck,Friday,Afternoon,145.2
+5.95,15.9,2,High,Rainy,Rural Road,Truck,Saturday,Evening,40.0
+8.17,29.3,9,Low,Clear,City Road,Car,Saturday,Morning,26.1
+20.36,26.6,14,Low,Rainy,City Road,Car,Wednesday,Morning,55.0
+12.02,49.4,6,High,Clear,Highway,Bus,Friday,Morning,32.2
+10.69,42.0,4,Medium,Clear,Rural Road,Car,Monday,Night,21.5
+23.74,8.0,13,Medium,Foggy,City Road,Car,Thursday,Morning,192.5
+13.14,30.8,11,Low,Rainy,City Road,Bike,Sunday,Afternoon,31.8
+6.26,64.8,4,Low,Rainy,Highway,Car,Tuesday,Afternoon,15.4
+20.22,32.4,11,Low,Rainy,City Road,Bus,Tuesday,Night,44.6
+5.79,50.7,4,Medium,Stormy,Highway,Bike,Friday,Afternoon,16.5
+12.08,37.1,8,Low,Clear,City Road,Bus,Thursday,Night,30.0
+14.19,33.5,12,Low,Clear,City Road,Bike,Thursday,Night,27.9
+17.9,27.9,11,Medium,Clear,City Road,Bike,Tuesday,Evening,41.5
+5.02,44.7,3,High,Rainy,Highway,Bike,Tuesday,Afternoon,18.3
+2.79,10.8,7,High,Rainy,City Road,Truck,Saturday,Evening,33.3
+2.86,14.2,9,Medium,Rainy,City Road,Truck,Wednesday,Evening,28.6
+25.39,23.8,15,Medium,Clear,City Road,Bus,Saturday,Morning,83.1
+4.52,70.2,2,Medium,Clear,Highway,Bus,Thursday,Night,12.9
+29.0,33.7,17,Low,Rainy,City Road,Bike,Wednesday,Afternoon,64.4
+21.43,57.5,12,Medium,Stormy,Highway,Car,Tuesday,Night,38.9
+6.93,67.5,5,Medium,Clear,Highway,Bus,Friday,Evening,16.2
+3.38,21.2,7,Medium,Clear,City Road,Car,Tuesday,Night,18.2
+12.61,26.3,5,High,Clear,Rural Road,Car,Sunday,Morning,43.1
+8.93,24.5,4,High,Clear,Rural Road,Car,Wednesday,Morning,36.3
+23.95,32.2,15,Low,Clear,City Road,Bike,Saturday,Morning,50.0
+14.11,38.6,10,Medium,Clear,City Road,Bike,Thursday,Night,30.8
+12.16,40.8,10,Low,Rainy,City Road,Car,Wednesday,Night,25.6
+10.72,34.5,12,Medium,Clear,City Road,Car,Thursday,Night,28.4
+17.87,77.3,7,Low,Clear,Highway,Car,Thursday,Afternoon,20.3
+11.53,49.0,4,Low,Clear,Rural Road,Car,Thursday,Afternoon,13.5
+32.2,21.8,17,High,Foggy,Rural Road,Car,Sunday,Afternoon,106.4
+4.42,36.8,10,Medium,Clear,City Road,Bike,Friday,Night,18.3
+10.07,8.0,10,High,Clear,City Road,Car,Monday,Afternoon,91.7
+16.47,37.4,14,Low,Clear,City Road,Car,Monday,Evening,34.4
+15.28,62.7,6,Low,Rainy,Highway,Car,Monday,Evening,21.7
+32.15,9.0,18,Medium,Foggy,City Road,Bike,Friday,Afternoon,221.6
+7.81,57.3,4,Low,Clear,Rural Road,Bus,Tuesday,Afternoon,15.5
+2.08,51.5,1,Low,Clear,Rural Road,Car,Wednesday,Evening,3.0
+20.52,13.2,17,High,Clear,City Road,Car,Saturday,Night,110.6
+13.74,58.7,4,Low,Rainy,Highway,Bike,Monday,Morning,18.5
+20.62,68.6,9,Low,Foggy,Highway,Car,Tuesday,Evening,20.7
+14.86,33.7,8,Medium,Clear,Rural Road,Bus,Monday,Morning,40.2
+2.57,27.8,8,Medium,Clear,City Road,Truck,Tuesday,Morning,16.3
+15.4,8.0,11,Medium,Rainy,City Road,Bike,Monday,Evening,126.3
+7.77,64.1,4,Medium,Rainy,Highway,Truck,Friday,Afternoon,19.4
+10.07,16.9,10,High,Clear,City Road,Car,Saturday,Afternoon,49.5
+11.31,76.4,6,Low,Clear,Highway,Car,Tuesday,Morning,11.7
+5.79,37.5,8,Medium,Clear,City Road,Car,Thursday,Night,17.3
+7.62,57.9,4,Medium,Rainy,Highway,Car,Wednesday,Night,17.8
+18.56,24.6,7,High,Rainy,Rural Road,Car,Monday,Night,62.5
+18.54,8.0,16,Medium,Rainy,City Road,Car,Thursday,Morning,159.7
+4.12,8.0,8,Medium,Foggy,City Road,Bike,Friday,Morning,39.2
+13.82,69.1,6,Low,Clear,Highway,Car,Tuesday,Morning,14.0
+19.69,34.0,12,Low,Clear,City Road,Bike,Saturday,Morning,43.6
+13.03,88.4,4,Low,Clear,Highway,Car,Sunday,Afternoon,10.8
+14.28,59.3,7,Medium,Foggy,Highway,Car,Monday,Evening,28.2
+4.31,22.2,7,Low,Rainy,City Road,Car,Tuesday,Morning,19.5
+23.45,46.5,11,Medium,Clear,Rural Road,Bike,Wednesday,Afternoon,35.4
+6.1,76.7,1,Low,Clear,Highway,Bike,Saturday,Evening,5.6
+9.77,50.8,7,High,Rainy,Highway,Bike,Monday,Afternoon,26.3
+19.79,8.0,14,High,Rainy,City Road,Car,Thursday,Afternoon,164.2
+28.04,24.4,16,Low,Rainy,City Road,Car,Thursday,Evening,79.8
+10.25,39.4,10,Low,Clear,City Road,Truck,Monday,Night,22.1
+36.63,42.0,16,Low,Foggy,Rural Road,Car,Monday,Afternoon,67.7
+13.3,12.3,5,High,Rainy,Rural Road,Car,Monday,Morning,83.8
+12.45,46.4,9,Low,Rainy,Rural Road,Car,Monday,Night,29.6
+6.65,12.0,9,Medium,Rainy,City Road,Car,Thursday,Evening,44.3
+9.9,52.3,3,Medium,Foggy,Highway,Car,Sunday,Afternoon,20.3
+13.97,39.3,4,High,Foggy,Highway,Car,Wednesday,Evening,38.6
+16.59,64.6,8,Medium,Rainy,Highway,Bike,Tuesday,Night,21.3
+16.16,31.4,12,Medium,Clear,City Road,Truck,Tuesday,Morning,49.1
+9.29,31.8,6,High,Clear,Rural Road,Car,Sunday,Night,32.8
+25.26,17.9,15,Low,Foggy,City Road,Car,Sunday,Evening,98.9
+12.69,8.0,9,High,Rainy,City Road,Bus,Friday,Evening,118.8
+12.22,55.2,7,Low,Clear,Rural Road,Car,Thursday,Night,14.5
+6.37,32.8,8,Medium,Clear,City Road,Bus,Tuesday,Afternoon,21.3
+17.54,8.0,12,High,Foggy,City Road,Car,Sunday,Night,145.5
+11.82,42.6,9,Medium,Foggy,Highway,Bike,Monday,Evening,27.1
+10.33,23.3,7,Medium,Stormy,Rural Road,Truck,Tuesday,Night,45.2
+5.21,40.1,9,Low,Clear,City Road,Car,Friday,Afternoon,13.9
+5.34,57.7,7,Medium,Rainy,Highway,Bus,Tuesday,Evening,21.2
+14.8,10.6,12,Medium,Foggy,City Road,Bike,Monday,Afternoon,96.8
+27.33,31.3,16,Medium,Clear,City Road,Bus,Friday,Afternoon,67.3
+10.8,31.1,9,Medium,Clear,City Road,Car,Monday,Afternoon,25.0
+10.75,59.7,4,Low,Stormy,Highway,Car,Tuesday,Night,24.3
+17.67,37.1,9,Low,Clear,City Road,Car,Friday,Night,31.5
+22.98,20.3,15,Low,Rainy,City Road,Truck,Tuesday,Morning,85.5
+8.78,62.7,2,Medium,Rainy,Highway,Car,Saturday,Night,18.7
+6.43,69.6,5,Low,Rainy,Highway,Car,Monday,Evening,14.2
+11.64,53.0,5,High,Clear,Highway,Bus,Friday,Morning,30.0
+16.03,31.4,8,Medium,Rainy,Rural Road,Car,Monday,Night,42.1
+2.87,31.1,7,Low,Clear,City Road,Bike,Saturday,Morning,8.8
+9.51,8.0,11,Medium,Foggy,City Road,Car,Saturday,Night,81.3
+10.97,15.5,12,High,Clear,City Road,Bike,Saturday,Afternoon,52.2
+10.14,75.0,5,Low,Rainy,Highway,Car,Tuesday,Night,13.6
+4.91,39.9,6,Low,Rainy,City Road,Car,Tuesday,Afternoon,10.5
+9.53,23.1,11,Low,Clear,City Road,Bike,Sunday,Morning,26.2
+11.07,34.6,8,Low,Clear,City Road,Car,Saturday,Night,21.5
+7.06,8.0,6,High,Rainy,City Road,Car,Tuesday,Evening,68.8
+14.02,21.9,8,High,Clear,Rural Road,Car,Monday,Afternoon,50.6
+19.13,72.9,10,Low,Clear,Highway,Bike,Wednesday,Morning,21.2
+19.51,33.1,12,Medium,Clear,City Road,Car,Friday,Night,45.7
+8.08,55.6,4,Low,Stormy,Highway,Car,Wednesday,Night,20.9
+15.86,62.7,6,Medium,Rainy,Highway,Car,Saturday,Afternoon,24.3
+15.12,8.0,12,High,Clear,City Road,Car,Thursday,Evening,128.5
+30.7,10.9,18,Medium,Stormy,City Road,Bike,Sunday,Morning,185.8
+15.9,73.0,6,Low,Clear,Highway,Car,Sunday,Morning,22.5
+16.44,18.8,10,Medium,Clear,City Road,Bus,Thursday,Evening,61.4
+21.27,48.8,6,High,Clear,Highway,Bike,Saturday,Night,34.2
+5.64,81.9,4,Low,Clear,Highway,Bus,Thursday,Night,8.8
+12.5,86.8,4,Low,Clear,Highway,Bike,Monday,Afternoon,8.8
+28.28,35.1,12,Low,Rainy,Rural Road,Car,Wednesday,Morning,59.9
+28.6,59.8,12,Medium,Clear,Highway,Truck,Wednesday,Evening,40.3
+9.53,50.2,4,Medium,Rainy,Highway,Bus,Sunday,Evening,27.7
+27.86,22.8,16,High,Clear,City Road,Bike,Saturday,Night,88.3
+10.35,37.5,6,High,Clear,Highway,Car,Tuesday,Morning,30.3
+14.31,28.4,6,High,Clear,Rural Road,Car,Monday,Evening,45.5
+4.44,12.1,2,High,Rainy,Rural Road,Bike,Thursday,Evening,28.3
+24.62,38.6,10,Low,Rainy,Rural Road,Car,Thursday,Evening,48.6
+10.06,20.3,11,Medium,Clear,City Road,Bike,Saturday,Morning,31.1
+5.0,73.2,5,Low,Clear,Highway,Car,Tuesday,Morning,6.6
+11.23,43.4,6,Low,Clear,Rural Road,Bike,Saturday,Evening,16.4
+2.44,40.3,1,High,Foggy,Highway,Car,Wednesday,Morning,19.1
+17.24,67.5,9,Medium,Clear,Highway,Car,Wednesday,Evening,20.4
+22.15,34.1,6,High,Rainy,Highway,Car,Wednesday,Morning,57.6
+6.55,73.3,4,Medium,Clear,Highway,Bus,Sunday,Night,12.1
+6.41,28.2,8,Medium,Clear,City Road,Bike,Wednesday,Afternoon,21.2
+16.55,22.3,14,Medium,Rainy,City Road,Truck,Thursday,Afternoon,58.4
+17.68,62.6,10,Low,Clear,Rural Road,Bike,Sunday,Afternoon,19.9
+8.31,51.6,3,Low,Clear,Rural Road,Bus,Monday,Afternoon,20.9
+7.08,23.6,5,Medium,Stormy,Rural Road,Bike,Thursday,Evening,37.5
+20.02,34.3,12,Low,Clear,City Road,Bus,Friday,Evening,42.3
+4.71,8.0,7,High,Clear,City Road,Truck,Sunday,Evening,49.8
+9.23,41.8,10,Low,Clear,City Road,Bike,Monday,Night,14.5
+6.98,48.2,4,Low,Clear,Rural Road,Car,Saturday,Morning,16.3
+16.41,41.2,7,High,Rainy,Highway,Bike,Saturday,Night,38.3
+7.31,44.0,6,Low,Clear,Rural Road,Car,Wednesday,Evening,15.4
+21.49,8.0,16,High,Stormy,City Road,Car,Saturday,Afternoon,186.6
+9.02,60.6,5,Medium,Rainy,Highway,Bike,Thursday,Night,12.8
+14.81,60.7,6,Low,Stormy,Highway,Bus,Friday,Evening,27.7
+7.39,12.9,7,Medium,Foggy,City Road,Car,Wednesday,Morning,44.4
+13.28,17.8,9,Medium,Foggy,Rural Road,Car,Tuesday,Morning,63.4
+7.95,37.6,5,High,Rainy,Highway,Bus,Saturday,Evening,33.1
+6.19,8.2,8,High,Clear,City Road,Car,Tuesday,Evening,59.7
+17.62,25.7,12,Medium,Clear,City Road,Car,Tuesday,Morning,47.2
+7.27,25.7,5,Medium,Rainy,Rural Road,Bike,Sunday,Evening,23.5
+7.35,65.8,5,Low,Clear,Highway,Bus,Sunday,Evening,16.3
+12.63,61.7,7,Medium,Rainy,Highway,Bike,Friday,Night,16.7
+13.88,49.8,8,High,Clear,Highway,Bike,Friday,Evening,26.6
+6.06,19.2,8,Medium,Foggy,City Road,Car,Wednesday,Night,28.2
+15.69,57.6,9,Medium,Clear,Highway,Car,Friday,Morning,24.1
+7.62,35.8,6,Medium,Stormy,Rural Road,Bus,Friday,Night,33.6
+5.17,14.5,8,High,Clear,City Road,Bus,Thursday,Afternoon,40.8
+9.97,48.0,2,High,Clear,Highway,Car,Friday,Evening,24.3
+9.88,24.7,10,Low,Foggy,City Road,Car,Thursday,Night,34.8
+14.97,33.5,14,Low,Foggy,City Road,Car,Sunday,Night,41.7
+31.33,16.9,16,Medium,Rainy,City Road,Car,Friday,Morning,122.7
+12.51,20.6,7,Medium,Stormy,Rural Road,Car,Wednesday,Morning,54.9
+16.12,16.2,12,Medium,Clear,City Road,Car,Friday,Evening,63.2
+4.37,33.5,9,Low,Foggy,City Road,Bus,Tuesday,Night,20.6
+22.05,65.8,8,Medium,Clear,Highway,Car,Tuesday,Evening,32.7
+10.91,27.1,9,Medium,Clear,City Road,Bike,Saturday,Morning,31.2
+5.43,62.2,4,Medium,Clear,Highway,Bike,Friday,Morning,9.6
+21.59,36.6,8,Medium,Clear,Rural Road,Bus,Monday,Evening,46.0
+11.18,13.1,7,Medium,Rainy,City Road,Truck,Wednesday,Evening,62.3
+19.67,33.4,16,Medium,Rainy,City Road,Car,Sunday,Night,48.4
+33.21,19.3,15,High,Clear,Rural Road,Car,Friday,Evening,120.4
+4.65,8.0,10,Medium,Stormy,City Road,Bike,Sunday,Afternoon,55.6
+7.44,20.1,10,Medium,Clear,City Road,Car,Thursday,Morning,33.7
+17.78,42.3,9,Medium,Clear,Rural Road,Car,Monday,Night,33.3
+11.61,53.3,7,Low,Rainy,Rural Road,Car,Tuesday,Night,20.4
+2.57,65.2,2,Low,Clear,Highway,Bus,Monday,Morning,10.2
+9.34,67.2,5,Medium,Clear,Highway,Car,Saturday,Afternoon,10.2
+10.22,23.0,5,High,Rainy,Rural Road,Car,Saturday,Afternoon,36.5
+11.19,68.3,3,Medium,Clear,Highway,Car,Thursday,Evening,16.0
+7.28,83.6,3,Low,Clear,Highway,Bike,Saturday,Night,4.6
+25.13,37.1,13,Medium,Rainy,Rural Road,Car,Thursday,Morning,50.9
+4.37,81.7,1,Low,Clear,Highway,Bus,Saturday,Night,3.5
+14.37,49.0,4,Medium,Foggy,Highway,Bike,Friday,Morning,29.2
+8.36,11.3,10,High,Rainy,City Road,Car,Thursday,Night,59.3
+8.01,55.2,3,Medium,Clear,Highway,Car,Friday,Evening,14.0
+23.31,53.5,10,Medium,Clear,Highway,Bus,Wednesday,Morning,37.7
+9.91,36.9,11,Low,Clear,City Road,Bus,Saturday,Evening,26.1
+14.42,23.1,12,Medium,Rainy,City Road,Car,Sunday,Afternoon,47.0
+18.44,34.8,8,High,Clear,Rural Road,Car,Tuesday,Afternoon,44.2
+11.92,8.0,12,Medium,Stormy,City Road,Car,Friday,Morning,109.8
+23.49,28.4,15,Medium,Clear,City Road,Car,Monday,Evening,57.8
+5.1,25.4,8,Medium,Rainy,City Road,Car,Wednesday,Night,22.2
+14.91,31.8,11,Low,Clear,City Road,Car,Friday,Evening,33.8
+31.52,81.0,13,Low,Clear,Highway,Car,Tuesday,Night,30.4
+14.22,41.7,11,Low,Clear,City Road,Bus,Tuesday,Afternoon,28.9
+3.79,9.7,5,Medium,Rainy,City Road,Bus,Wednesday,Evening,36.9
+15.21,10.1,8,High,Stormy,Rural Road,Bus,Monday,Night,116.1
+25.7,31.7,16,Medium,Clear,City Road,Bike,Friday,Afternoon,59.0
+9.41,29.9,6,Low,Clear,City Road,Bike,Monday,Evening,22.5
+9.35,39.7,6,Low,Clear,Rural Road,Car,Wednesday,Morning,17.5
+17.38,73.5,10,Low,Clear,Highway,Bike,Wednesday,Evening,22.0
+15.65,47.2,5,High,Foggy,Highway,Car,Sunday,Night,37.9
+12.17,38.3,6,Medium,Foggy,Rural Road,Bike,Sunday,Night,28.6
+7.59,20.7,4,High,Foggy,Rural Road,Truck,Monday,Afternoon,42.9
+8.82,11.1,12,High,Clear,City Road,Bus,Tuesday,Evening,69.0
+6.32,76.9,5,Low,Clear,Highway,Car,Saturday,Evening,7.8
+3.55,62.4,1,Medium,Rainy,Highway,Bike,Wednesday,Night,6.4
+22.06,8.0,14,High,Clear,City Road,Car,Friday,Night,182.1
+17.9,42.8,12,Medium,Rainy,Rural Road,Car,Sunday,Night,34.3
+16.92,35.5,11,Low,Clear,City Road,Car,Tuesday,Night,37.6
+16.74,24.3,8,High,Clear,Rural Road,Car,Sunday,Afternoon,50.2
+10.41,37.5,5,High,Foggy,Highway,Bike,Monday,Afternoon,33.0
+9.62,82.4,3,Medium,Clear,Highway,Car,Tuesday,Afternoon,7.2
+5.46,14.2,11,Medium,Stormy,City Road,Car,Thursday,Afternoon,42.4
+18.74,49.8,8,Low,Clear,Rural Road,Truck,Sunday,Night,30.0
+41.84,51.6,14,High,Clear,Highway,Bike,Thursday,Night,56.6
+14.84,30.0,10,Medium,Clear,City Road,Car,Monday,Night,39.8
+20.25,34.7,14,Low,Clear,City Road,Bike,Tuesday,Evening,32.0
+20.3,63.4,7,Medium,Clear,Highway,Bike,Saturday,Morning,22.5
+26.63,8.0,16,High,Clear,City Road,Car,Thursday,Morning,219.3
+7.01,48.6,4,High,Rainy,Highway,Bike,Monday,Afternoon,25.5
+4.42,56.9,1,Low,Foggy,Highway,Bus,Thursday,Evening,12.0
+13.2,45.2,10,Low,Clear,City Road,Car,Wednesday,Afternoon,19.6
+10.97,47.3,5,High,Clear,Highway,Car,Monday,Evening,28.0
+39.83,11.2,21,High,Clear,City Road,Car,Tuesday,Night,232.1
+6.38,40.4,3,Medium,Rainy,Rural Road,Bus,Sunday,Afternoon,26.1
+31.26,38.9,13,Medium,Rainy,Rural Road,Car,Friday,Night,68.3
+11.03,19.6,9,Medium,Clear,City Road,Car,Monday,Evening,39.3
+5.93,73.7,4,Medium,Clear,Highway,Truck,Monday,Night,14.9
+28.05,75.1,12,Low,Clear,Highway,Bike,Wednesday,Morning,23.6
+7.08,61.0,4,Low,Clear,Rural Road,Car,Thursday,Afternoon,3.6
+20.32,43.6,14,Low,Clear,City Road,Car,Thursday,Night,35.3
+13.42,35.9,5,High,Stormy,Highway,Car,Friday,Night,38.1
+31.19,38.5,14,Low,Clear,Rural Road,Truck,Tuesday,Evening,56.7
+22.78,32.9,15,Low,Clear,City Road,Car,Monday,Morning,45.2
+10.87,63.7,8,Medium,Clear,Highway,Car,Friday,Morning,17.3
+28.13,32.3,15,Low,Rainy,City Road,Bike,Sunday,Afternoon,59.0
+15.89,64.9,6,Low,Clear,Highway,Car,Tuesday,Night,13.5
+12.35,33.4,9,Medium,Clear,City Road,Car,Wednesday,Afternoon,30.8
+13.25,40.4,5,Medium,Clear,Rural Road,Bus,Friday,Night,28.3
+20.77,17.4,13,Medium,Rainy,City Road,Car,Tuesday,Evening,81.5
+10.55,15.5,11,High,Clear,City Road,Bus,Sunday,Morning,58.0
+8.87,33.7,6,Low,Foggy,Rural Road,Bus,Tuesday,Evening,32.1
+7.69,32.2,5,High,Clear,Rural Road,Car,Thursday,Afternoon,26.8
+14.73,47.2,6,High,Clear,Highway,Bike,Wednesday,Morning,26.2
+8.01,31.6,3,High,Stormy,Highway,Bus,Friday,Evening,36.0
+20.94,10.5,12,Medium,Foggy,City Road,Bike,Tuesday,Morning,139.5
+10.4,67.4,4,Medium,Clear,Highway,Bike,Monday,Night,17.3
+16.6,13.5,10,Medium,Foggy,City Road,Car,Thursday,Night,91.6
+23.51,38.0,16,Medium,Clear,City Road,Car,Sunday,Night,44.3
+27.07,49.2,14,Low,Clear,Rural Road,Bike,Friday,Morning,35.7
+13.88,47.2,3,High,Foggy,Highway,Car,Saturday,Night,34.9
+3.27,24.0,8,Medium,Rainy,City Road,Car,Thursday,Afternoon,15.9
+3.39,11.9,8,High,Clear,City Road,Car,Monday,Evening,27.2
+20.63,24.5,10,Medium,Rainy,Rural Road,Car,Wednesday,Morning,66.3
+6.79,40.4,7,Low,Clear,City Road,Bus,Sunday,Night,18.1
+10.12,32.5,11,Medium,Clear,City Road,Bus,Saturday,Afternoon,30.4
+22.35,10.5,14,Medium,Stormy,City Road,Bus,Friday,Evening,155.3
+8.94,43.4,11,Medium,Clear,City Road,Car,Wednesday,Afternoon,18.7
+5.47,34.0,7,Low,Rainy,City Road,Car,Friday,Night,11.7
+10.31,35.7,4,Low,Rainy,Rural Road,Bus,Friday,Evening,25.4
+18.44,16.0,13,Medium,Rainy,City Road,Car,Friday,Afternoon,80.4
+8.83,65.5,3,Medium,Clear,Highway,Bike,Sunday,Afternoon,10.7
+17.03,25.1,9,High,Stormy,Highway,Bike,Friday,Morning,62.2
+5.58,57.5,0,Low,Rainy,Highway,Car,Tuesday,Afternoon,12.9
+7.55,68.6,3,Low,Rainy,Highway,Car,Tuesday,Night,11.2
+10.4,83.6,4,Low,Clear,Highway,Bike,Friday,Night,5.8
+24.0,70.4,9,Medium,Clear,Highway,Car,Sunday,Night,29.9
+9.5,60.7,5,Medium,Clear,Highway,Bus,Sunday,Morning,21.9
+8.7,61.9,5,Medium,Clear,Highway,Bike,Friday,Afternoon,10.8
+8.73,60.3,5,High,Clear,Highway,Car,Thursday,Night,21.1
+17.02,74.6,8,Low,Rainy,Highway,Bike,Saturday,Afternoon,18.4
+19.45,9.9,13,Medium,Foggy,City Road,Car,Sunday,Morning,129.0
+23.41,69.0,12,Low,Clear,Highway,Car,Monday,Afternoon,33.0
+33.96,77.5,15,Low,Clear,Highway,Truck,Wednesday,Night,36.3
+14.79,24.2,11,Medium,Rainy,City Road,Bike,Wednesday,Night,46.2
+8.08,46.9,5,Low,Clear,Rural Road,Bike,Thursday,Morning,7.3
+11.25,19.0,9,Medium,Foggy,City Road,Bus,Wednesday,Night,56.1
+7.0,25.4,9,Medium,Clear,City Road,Bike,Wednesday,Evening,18.6
+13.29,45.8,5,Medium,Clear,Rural Road,Car,Monday,Night,26.5
+7.7,25.2,8,Medium,Clear,City Road,Car,Monday,Evening,30.2
+23.33,8.0,11,Medium,Stormy,City Road,Car,Thursday,Evening,193.1
+14.14,15.9,10,Medium,Clear,City Road,Car,Sunday,Evening,60.9
+27.49,41.4,13,Low,Rainy,Rural Road,Car,Wednesday,Evening,50.5
+19.06,43.4,12,Low,Clear,City Road,Bike,Tuesday,Night,30.7
+18.11,64.6,7,Medium,Clear,Highway,Car,Tuesday,Evening,24.3
+5.45,35.7,3,High,Foggy,Highway,Bike,Sunday,Morning,23.3
+17.0,70.4,5,Low,Clear,Highway,Bus,Friday,Morning,23.9
+33.55,46.1,14,Medium,Clear,Rural Road,Truck,Friday,Afternoon,56.2
+9.67,31.9,7,High,Clear,Rural Road,Car,Tuesday,Afternoon,34.6
+21.38,8.0,14,High,Foggy,City Road,Truck,Sunday,Night,185.9
+4.54,50.0,5,Medium,Clear,Rural Road,Bus,Tuesday,Morning,13.2
+6.39,65.4,5,Medium,Clear,Highway,Car,Sunday,Night,12.7
+11.71,20.1,11,Medium,Stormy,City Road,Car,Sunday,Morning,53.1
+8.79,8.0,8,High,Rainy,City Road,Car,Thursday,Afternoon,77.8
+7.63,69.9,3,Low,Foggy,Highway,Bike,Sunday,Afternoon,11.0
+8.81,8.0,12,High,Rainy,City Road,Bike,Sunday,Evening,76.7
+15.98,65.5,7,Low,Rainy,Highway,Car,Friday,Morning,20.4
+21.53,19.9,14,High,,City Road,Bus,Saturday,Night,83.9
+16.73,72.2,6,Low,Clear,Highway,Car,Friday,Morning,18.0
+17.27,36.9,12,Low,Rainy,City Road,Car,Thursday,Night,34.3
+12.0,36.9,7,Low,Rainy,Rural Road,Bus,Wednesday,Evening,29.4
+6.29,8.0,8,Medium,Stormy,City Road,Truck,Friday,Night,71.4
+11.46,35.1,9,Low,Rainy,City Road,Bus,Tuesday,Night,38.7
+13.48,40.2,10,Low,Clear,City Road,Car,Tuesday,Night,23.6
+22.06,27.6,16,Medium,Clear,City Road,Car,Tuesday,Afternoon,60.2
+29.89,59.9,12,Medium,Rainy,Highway,Car,Monday,Afternoon,44.2
+15.24,49.0,7,High,Clear,Highway,Car,Sunday,Evening,26.2
+20.82,8.0,14,High,Rainy,City Road,Car,Tuesday,Evening,172.7
+2.89,38.9,1,Medium,Rainy,Rural Road,Truck,Saturday,Night,8.2
+10.3,45.9,10,Low,Clear,City Road,Bike,Thursday,Afternoon,16.0
+11.97,42.3,12,Low,Rainy,City Road,Car,Wednesday,Afternoon,22.5
+16.49,46.0,6,High,Rainy,Highway,Car,Tuesday,Morning,37.1
+30.29,60.8,13,Low,Foggy,Highway,Car,Saturday,Morning,47.3
+14.73,71.3,7,Medium,Clear,Highway,Car,Thursday,Night,23.3
+4.19,8.0,9,High,Rainy,City Road,Bike,Thursday,Night,43.8
+17.38,8.0,12,High,Clear,City Road,Car,Friday,Evening,143.4
+9.86,74.4,6,Medium,Clear,Highway,Bus,Saturday,Afternoon,22.5
+16.45,20.5,10,Medium,Clear,City Road,Car,Friday,Morning,53.0
+18.18,11.8,12,Medium,Foggy,City Road,Car,Thursday,Morning,110.1
+4.01,8.0,4,High,Foggy,Rural Road,Truck,Sunday,Evening,57.5
+11.61,78.9,6,Low,Clear,Highway,Car,Sunday,Evening,12.3
+11.86,30.4,12,Low,Rainy,City Road,Car,Sunday,Afternoon,36.5
+14.63,27.4,11,Medium,Clear,City Road,Bike,Monday,Morning,41.0
+7.98,60.5,3,Low,Rainy,Highway,Car,Sunday,Morning,11.8
+6.71,18.2,6,Medium,Clear,City Road,Car,Tuesday,Evening,29.3
+30.01,20.6,16,Medium,Rainy,City Road,Car,Friday,Evening,100.3
+13.81,11.9,12,High,Clear,City Road,Car,Friday,Afternoon,87.0
+7.13,31.2,5,High,Rainy,Highway,Bike,Tuesday,Evening,23.6
+8.93,64.8,2,Medium,Clear,Highway,Car,Monday,Night,14.1
+30.78,8.0,19,High,Rainy,City Road,Bus,Sunday,Evening,263.0
+24.41,35.8,13,Low,Rainy,City Road,Bus,Sunday,Afternoon,55.1
+8.37,58.2,4,Medium,Clear,Highway,Car,Tuesday,Morning,11.9
+6.34,76.8,2,Low,Clear,Highway,Car,Friday,Night,5.4
+6.63,38.4,4,High,Foggy,Highway,Car,Tuesday,Evening,24.6
+22.98,13.6,14,High,Rainy,City Road,Car,Thursday,Afternoon,122.8
+9.48,46.7,5,High,Clear,Highway,Car,Wednesday,Morning,21.4
+4.86,32.8,6,High,Clear,Rural Road,Bus,Saturday,Night,23.6
+9.1,59.4,5,High,Clear,Highway,Car,Friday,Night,22.1
+14.54,42.8,10,Low,Rainy,City Road,Car,Thursday,Afternoon,30.5
+11.49,41.2,6,High,Rainy,Highway,Bike,Friday,Afternoon,28.9
+24.64,18.7,18,Medium,Clear,City Road,Bus,Thursday,Evening,91.9
+14.64,19.5,12,Medium,Rainy,City Road,Car,Monday,Night,58.6
+15.78,18.1,13,Medium,Rainy,City Road,Car,Friday,Evening,62.9
+20.13,37.7,7,Low,Rainy,Rural Road,Truck,Saturday,Morning,47.6
+19.54,33.6,13,Low,Clear,City Road,Car,Thursday,Morning,39.8
+9.07,47.6,5,Low,Clear,Rural Road,Bike,Tuesday,Morning,12.6
+6.41,80.0,2,Low,Clear,Highway,Bike,Monday,Afternoon,3.0
+13.99,70.5,6,Medium,Clear,Highway,Bike,Wednesday,Afternoon,16.0
+12.92,12.1,11,High,Clear,City Road,Car,Saturday,Evening,87.6
+14.71,65.1,5,Medium,Clear,Highway,Car,Wednesday,Night,18.5
+15.4,21.3,12,Medium,Clear,City Road,Car,Sunday,Morning,55.8
+28.76,15.9,16,Medium,Rainy,City Road,Bike,Wednesday,Night,123.2
+10.52,31.1,11,Medium,Clear,City Road,Bus,Wednesday,Afternoon,36.8
+15.75,23.0,12,Low,Rainy,City Road,Bike,Saturday,Evening,44.5
+6.4,52.3,4,High,Clear,Highway,Truck,Friday,Morning,26.9
+7.63,32.0,10,Low,Rainy,City Road,Truck,Monday,Afternoon,27.1
+12.47,27.8,11,Medium,Clear,City Road,Bike,Monday,Night,32.1
+6.99,12.8,4,High,Rainy,Rural Road,Car,Tuesday,Morning,50.1
+17.57,30.6,9,Medium,Rainy,City Road,Car,Sunday,Afternoon,46.3
+16.13,8.0,12,High,Clear,City Road,Bike,Monday,Evening,131.5
+8.44,20.9,8,Low,Rainy,City Road,Bike,Monday,Evening,24.1
+10.96,15.2,10,High,,City Road,Car,Saturday,Afternoon,62.0
+23.11,58.8,10,Medium,Rainy,Highway,Bike,Friday,Afternoon,31.5
+13.9,17.5,13,High,Clear,City Road,Car,Sunday,Night,60.3
+38.03,21.7,22,Medium,Clear,City Road,Car,Tuesday,Morning,117.1
+10.96,56.3,3,High,Clear,Highway,Bus,Friday,Afternoon,30.3
+11.7,8.0,8,High,Foggy,City Road,Car,Monday,Afternoon,106.1
+12.47,44.5,7,Medium,Clear,Rural Road,Bike,Friday,Night,22.0
+4.5,15.5,4,High,Rainy,Rural Road,Bike,Monday,Night,28.9
+11.39,30.9,8,Medium,Clear,City Road,Bike,Sunday,Night,24.0
+11.17,13.2,10,Medium,Clear,City Road,Car,Wednesday,Morning,59.6
+18.46,8.0,13,High,Clear,City Road,Bike,Tuesday,Morning,154.3
+23.63,20.4,12,Medium,Foggy,City Road,Car,Sunday,Afternoon,81.3
+10.43,27.9,8,Medium,Rainy,City Road,Bike,Monday,Afternoon,30.1
+3.25,83.7,1,Low,Clear,Highway,Car,Saturday,Morning,3.1
+13.56,29.9,10,Low,Rainy,City Road,Truck,Thursday,Night,40.5
+6.94,10.7,9,High,Clear,City Road,Bus,Friday,Night,62.1
+14.24,32.6,10,Medium,Clear,City Road,Car,Tuesday,Afternoon,32.0
+14.03,54.3,7,Medium,Clear,Rural Road,Car,Sunday,Night,20.9
+8.07,54.7,8,Low,Clear,Rural Road,Car,Thursday,Evening,11.8
+13.63,16.8,9,Medium,Clear,City Road,Bike,Wednesday,Evening,50.2
+4.96,46.3,2,High,Rainy,Highway,Bike,Thursday,Night,14.2
+14.73,11.3,12,High,Clear,City Road,Bike,Wednesday,Morning,91.1
+19.43,64.6,9,Low,Foggy,Highway,Bus,Wednesday,Morning,35.6
+16.53,65.0,7,Medium,Rainy,Highway,Car,Monday,Afternoon,26.1
+9.19,30.8,8,Medium,Foggy,Rural Road,Bike,Thursday,Night,28.5
+18.63,16.9,13,Medium,Rainy,City Road,Car,Thursday,Evening,75.0
+17.47,22.6,9,Medium,Foggy,City Road,Bike,Wednesday,Afternoon,58.7
+17.91,32.3,8,Medium,Clear,Rural Road,Car,Sunday,Morning,40.4
+25.2,28.7,14,Medium,Clear,City Road,Bus,Monday,Evening,69.6
+15.52,35.0,14,Medium,Clear,City Road,Car,Sunday,Afternoon,37.0
+6.52,54.3,5,Medium,Foggy,Highway,Car,Sunday,Afternoon,18.7
+7.19,74.6,1,Medium,Clear,Highway,Car,Monday,Night,12.6
+15.53,43.1,8,High,Rainy,Highway,Truck,Friday,Evening,44.4
+4.09,58.3,4,Medium,Rainy,Highway,Bike,Tuesday,Morning,11.7
+11.29,79.9,4,Low,Clear,Highway,Car,Monday,Morning,6.1
+10.11,8.0,9,High,Foggy,City Road,Car,Sunday,Afternoon,97.6
+17.19,48.7,9,High,Clear,Highway,Car,Monday,Morning,33.7
+5.82,66.8,0,Low,Clear,Highway,Bus,Wednesday,Afternoon,10.4
+17.38,42.6,9,Medium,Rainy,Rural Road,Truck,Monday,Afternoon,35.7
+10.91,45.1,11,Low,Clear,City Road,Bus,Monday,Night,28.1
+14.96,36.8,11,Medium,Clear,City Road,Bus,Monday,Afternoon,30.2
+6.13,75.3,4,Low,Clear,Highway,Car,Saturday,Afternoon,10.9
+17.76,26.8,12,Medium,Clear,City Road,Car,Monday,Evening,48.2
+21.32,29.1,12,Low,Rainy,City Road,Bike,Saturday,Evening,47.2
+55.84,21.7,20,Medium,Foggy,Rural Road,Bike,Tuesday,Morning,177.2
+14.42,52.3,7,High,Clear,Highway,Car,Sunday,Morning,30.6
+20.9,24.3,12,Medium,Clear,City Road,Bike,Saturday,Morning,50.3
+6.97,8.0,6,High,Clear,City Road,Car,Friday,Night,62.0
+24.46,8.0,15,High,Foggy,City Road,Car,Saturday,Morning,208.7
+5.18,43.2,2,High,Rainy,Highway,Car,Wednesday,Night,25.4
+29.78,31.6,15,Low,Clear,City Road,Bus,Saturday,Afternoon,65.3
+13.63,16.8,11,High,Clear,City Road,Bike,Tuesday,Night,52.4
+5.47,19.7,9,Low,Foggy,City Road,Bike,Friday,Morning,29.2
+10.27,25.0,10,Medium,Foggy,City Road,Bus,Sunday,Afternoon,45.6
+20.78,8.0,12,High,Clear,City Road,Bus,Saturday,Morning,169.8
+11.41,21.9,11,Medium,Foggy,City Road,Car,Tuesday,Night,45.6
+11.33,64.5,7,Medium,Clear,Highway,Bus,Saturday,Evening,23.2
+19.74,27.1,16,Medium,Clear,City Road,Car,Sunday,Morning,50.8
+11.95,8.0,12,High,Rainy,City Road,Bike,Sunday,Evening,105.4
+23.62,31.0,13,Medium,Clear,City Road,Car,Saturday,Night,52.1
+9.02,21.3,10,Medium,Clear,City Road,Car,Saturday,Evening,31.2
+4.28,8.0,8,High,Foggy,City Road,Bike,Saturday,Night,49.1
+12.35,29.3,9,Low,Foggy,City Road,Car,Saturday,Afternoon,36.1
+13.18,36.9,11,Low,Clear,City Road,Car,Monday,Afternoon,20.6
+8.83,20.3,12,Medium,Rainy,City Road,Bike,Saturday,Night,37.9
+14.73,47.2,8,High,Rainy,Highway,Bike,Tuesday,Evening,34.5
+4.7,15.5,6,Low,Rainy,City Road,Car,Thursday,Evening,25.6
+14.96,65.5,6,Low,Stormy,Highway,Car,Wednesday,Night,24.9
+6.34,70.2,4,Low,Rainy,Highway,Car,Tuesday,Evening,14.6
+5.46,9.9,5,High,Clear,City Road,Bus,Tuesday,Morning,52.7
+12.98,41.9,8,Low,Clear,City Road,Bus,Monday,Morning,26.4
+5.21,22.7,8,Medium,Foggy,City Road,Car,Thursday,Night,25.4
+3.48,8.0,7,High,Stormy,City Road,Bike,Wednesday,Morning,48.8
+16.07,69.7,4,Low,Clear,Highway,Bike,Wednesday,Evening,16.3
+6.76,32.0,9,Medium,Clear,City Road,Truck,Monday,Afternoon,20.6
+16.98,32.4,10,Medium,Rainy,Rural Road,Car,Friday,Evening,39.6
+10.67,8.0,9,High,Clear,City Road,Bike,Tuesday,Morning,92.2
+12.97,66.3,6,Medium,Clear,Highway,Bike,Saturday,Afternoon,11.9
+20.96,44.0,9,Medium,Foggy,Highway,Car,Monday,Evening,35.4
+15.59,60.9,7,Low,Foggy,Highway,Car,Monday,Morning,22.4
+17.18,25.6,6,Medium,Foggy,Rural Road,Car,Wednesday,Afternoon,52.7
+16.84,19.6,7,High,Rainy,Rural Road,Car,Wednesday,Night,70.9
+8.36,19.8,8,Low,Clear,City Road,Bike,Sunday,Morning,25.5
+15.2,14.2,10,Medium,Foggy,City Road,Bike,Thursday,Evening,75.8
+7.27,12.8,11,High,Clear,City Road,Car,Wednesday,Morning,47.2
+15.22,32.4,12,Low,Clear,City Road,Bus,Saturday,Evening,36.0
+10.39,69.2,3,Low,Foggy,Highway,Car,Tuesday,Morning,14.4
+11.61,20.7,10,Medium,Rainy,City Road,Truck,Sunday,Evening,51.5
+27.95,30.4,17,Low,Foggy,City Road,Car,Wednesday,Afternoon,67.2
+16.46,71.4,6,Low,Clear,Highway,Bus,Wednesday,Evening,19.3
+8.73,8.0,10,Medium,Stormy,City Road,Truck,Wednesday,Morning,87.9
+4.69,66.8,5,Low,Rainy,Highway,Bus,Monday,Evening,16.2
+13.2,13.3,12,Medium,Rainy,City Road,Bus,Friday,Evening,72.7
+5.05,52.7,3,Medium,Foggy,Highway,Car,Friday,Morning,16.2
+29.9,73.1,13,Medium,Clear,Highway,Bike,Friday,Afternoon,29.1
+11.8,22.9,9,Low,Rainy,City Road,Bike,Friday,Evening,35.4
+19.83,44.5,12,High,Rainy,Highway,Car,Monday,Evening,47.5
+5.67,22.9,8,Low,Rainy,City Road,Truck,Sunday,Evening,27.4
+16.23,43.1,8,High,Foggy,Highway,Car,Thursday,Night,44.5
+22.09,57.1,8,Medium,Rainy,Highway,Car,Friday,Afternoon,33.3
+16.95,13.6,13,High,Clear,City Road,Truck,Monday,Night,95.7
+19.02,90.8,8,Low,Clear,Highway,Car,Saturday,Night,19.3
+15.43,24.5,6,Low,Stormy,Rural Road,Car,Friday,Evening,49.7
+9.87,46.2,3,Medium,Stormy,Highway,Car,Wednesday,Morning,23.5
+7.44,59.7,3,Low,Stormy,Highway,Bus,Sunday,Afternoon,23.5
+8.13,60.9,6,Low,Clear,Highway,Bus,Friday,Morning,13.8
+30.29,24.8,14,Medium,Clear,City Road,Car,Sunday,Evening,81.9
+13.97,44.2,5,High,Rainy,Highway,Bike,Saturday,Afternoon,32.4
+23.22,48.6,12,Low,Rainy,Rural Road,Bike,Tuesday,Night,33.7
+9.02,11.9,7,High,Clear,City Road,Bike,Sunday,Evening,54.0
+18.41,8.2,14,High,Rainy,City Road,Bike,Saturday,Afternoon,149.4
+7.14,8.6,7,High,Clear,City Road,Truck,Tuesday,Morning,66.1
+10.84,17.7,8,Medium,Clear,City Road,Car,Saturday,Morning,40.5
+9.61,25.5,9,Medium,Clear,City Road,Car,Thursday,Evening,28.1
+28.42,29.1,19,Medium,Clear,City Road,Bike,Sunday,Night,69.1
+7.84,60.0,3,Medium,Clear,Highway,Car,Tuesday,Afternoon,10.8
+17.31,8.0,9,High,Foggy,City Road,Car,Tuesday,Morning,147.7
+15.65,37.7,9,Low,Rainy,City Road,Car,Wednesday,Afternoon,30.3
+5.97,69.4,4,Low,Stormy,Highway,Car,Thursday,Night,14.9
+23.35,42.9,12,Low,Clear,City Road,Truck,Friday,Evening,47.7
+24.83,10.9,16,High,Clear,City Road,Car,Tuesday,Morning,149.8
+14.0,64.6,6,Medium,Clear,Highway,Bike,Friday,Morning,10.9
+12.74,34.5,6,Medium,Rainy,Rural Road,Bus,Monday,Morning,38.6
+4.23,50.6,3,High,Clear,Highway,Car,Wednesday,Night,13.2
+5.47,8.0,7,High,Rainy,City Road,Car,Friday,Night,58.8
+10.67,25.6,10,Low,Foggy,City Road,Car,Tuesday,Afternoon,35.9
+7.27,16.4,3,High,Foggy,Rural Road,Bike,Thursday,Evening,42.4
+19.85,43.7,10,High,Clear,Highway,Car,Friday,Morning,40.0
+5.34,74.3,1,Low,Clear,Highway,Bike,Tuesday,Evening,3.0
+5.06,57.9,3,High,Clear,Highway,Car,Sunday,Afternoon,18.8
+16.48,31.2,10,Medium,Clear,City Road,Car,Saturday,Night,34.3
+15.06,15.6,10,Medium,Rainy,City Road,Car,Sunday,Afternoon,66.7
+13.45,71.7,5,Medium,Clear,Highway,Car,Thursday,Night,14.4
+18.45,36.9,13,Low,Rainy,Rural Road,Car,Wednesday,Evening,34.0
+8.6,48.5,9,Low,Clear,City Road,Truck,Sunday,Afternoon,18.8
+9.86,67.7,3,Low,Stormy,Highway,Car,Saturday,Night,18.2
+14.81,20.1,11,Low,Stormy,City Road,Bike,Saturday,Night,59.6
+13.96,53.8,5,Medium,Clear,Rural Road,Bike,Tuesday,Afternoon,18.4
+7.62,19.7,8,Medium,Foggy,City Road,Bike,Sunday,Afternoon,33.9
+21.6,63.6,11,Low,Clear,Highway,Bike,Thursday,Evening,23.2
+6.07,13.6,9,Medium,Rainy,City Road,Car,Saturday,Morning,35.5
+10.31,66.2,6,Medium,Foggy,Highway,Bike,Saturday,Afternoon,20.5
+6.33,53.9,2,Medium,Foggy,Highway,Car,Monday,Night,19.8
+37.3,8.0,19,High,Foggy,City Road,Bus,Monday,Night,303.0
+12.93,38.2,7,Medium,Clear,Rural Road,Car,Monday,Afternoon,31.5
+7.01,12.0,3,High,Foggy,Rural Road,Bike,Friday,Afternoon,47.4
+9.65,42.8,6,Low,Rainy,Rural Road,Bike,Sunday,Night,17.2
+14.69,15.9,12,Medium,Clear,City Road,Bike,Monday,Morning,61.6
+19.77,43.9,9,High,Clear,Highway,Car,Monday,Morning,42.5
+7.41,47.7,3,High,Rainy,Highway,Bike,Thursday,Morning,21.6
+25.53,53.8,12,Medium,Rainy,Highway,Bike,Wednesday,Morning,39.2
+12.66,33.9,10,Medium,Clear,City Road,Car,Monday,Night,33.2
+16.56,55.5,6,Medium,Foggy,Highway,Car,Friday,Morning,28.5
+9.24,16.5,11,Medium,Rainy,City Road,Car,Sunday,Afternoon,46.1
+22.93,8.0,12,High,Clear,City Road,Car,Tuesday,Evening,189.7
+15.29,10.8,9,High,Clear,City Road,Bus,Monday,Evening,100.8
+8.86,18.8,8,Medium,Rainy,City Road,Car,Tuesday,Night,38.1
+9.95,35.5,10,Low,Rainy,City Road,Bike,Tuesday,Night,25.0
+20.17,30.4,15,Medium,Rainy,City Road,Bike,Thursday,Afternoon,52.0
+16.07,64.7,6,Low,Clear,Highway,Bike,Monday,Morning,17.9
+10.52,62.2,7,Low,Rainy,Highway,Bike,Wednesday,Morning,12.8
+19.58,31.0,13,Low,Rainy,City Road,Bike,Monday,Night,47.7
+14.43,55.4,6,Medium,Foggy,Highway,Bike,Friday,Afternoon,24.3
+3.82,52.0,2,Low,Clear,Rural Road,Car,Thursday,Night,11.1
+11.64,44.5,9,Low,Rainy,Rural Road,Bus,Monday,Afternoon,29.4
+19.94,54.9,9,Low,Clear,Rural Road,Truck,Monday,Night,29.3
+29.78,22.8,10,High,Clear,Rural Road,Car,Thursday,Evening,93.6
+6.62,58.8,7,Medium,Rainy,Highway,Truck,Friday,Evening,20.3
+19.23,38.9,9,Low,Rainy,Rural Road,Truck,Tuesday,Evening,43.1
+12.61,60.6,8,Low,Clear,Rural Road,Car,Wednesday,Afternoon,12.7
+5.97,11.0,11,Medium,Rainy,City Road,Bike,Friday,Morning,44.4
+6.27,41.0,5,Low,Clear,Rural Road,Bike,Thursday,Morning,5.6
+6.77,68.5,5,Medium,Clear,Highway,Car,Monday,Afternoon,11.1
+4.92,72.3,3,Medium,Clear,Highway,Car,Wednesday,Night,6.4
+5.66,26.3,5,High,Clear,Rural Road,Car,Tuesday,Evening,24.9
+12.89,31.3,10,Low,Rainy,City Road,Bus,Sunday,Evening,39.4
+3.77,19.5,7,Medium,Foggy,City Road,Car,Saturday,Afternoon,20.2
+7.48,75.8,4,Low,Rainy,Highway,Bus,Wednesday,Afternoon,16.5
+10.01,61.8,4,High,Clear,Highway,Bike,Tuesday,Afternoon,14.5
+7.5,18.1,5,High,Clear,Rural Road,Bike,Monday,Morning,33.1
+5.29,35.9,5,Medium,Clear,Rural Road,Car,Saturday,Evening,10.0
+12.39,75.9,7,Medium,Rainy,Highway,Car,Sunday,Afternoon,21.0
+7.41,59.3,6,Low,Clear,Rural Road,Car,Tuesday,Afternoon,9.5
+7.76,9.6,12,High,Clear,City Road,Car,Friday,Evening,64.1
+11.34,33.5,8,Medium,Rainy,Rural Road,Car,Tuesday,Morning,32.9
+17.25,25.3,12,Low,Rainy,City Road,Car,Sunday,Night,49.1
+8.47,58.8,5,Medium,,Highway,Car,Wednesday,Morning,16.3
+8.72,16.9,11,Medium,Clear,City Road,Bike,Monday,Evening,39.0
+5.84,49.1,2,High,Rainy,Highway,Car,Sunday,Night,18.8
+19.81,20.2,16,Medium,Clear,City Road,Car,Sunday,Morning,73.2
+12.51,22.5,9,Medium,Clear,City Road,Bus,Wednesday,Morning,45.8
+19.13,56.4,9,Medium,Foggy,Highway,Bike,Sunday,Afternoon,27.9
+20.82,71.9,8,Low,Clear,Highway,Truck,Tuesday,Night,25.6
+8.4,26.4,9,Medium,Clear,City Road,Bike,Tuesday,Evening,23.9
+33.11,71.2,11,Low,Clear,Highway,Car,Thursday,Afternoon,30.4
+18.36,11.4,14,High,Clear,City Road,Truck,Friday,Night,113.0
+13.2,23.4,9,Medium,Clear,City Road,Bus,Wednesday,Afternoon,49.7
+8.84,25.6,7,Medium,Clear,City Road,Bike,Saturday,Night,24.8
+8.06,73.0,6,Low,Rainy,Highway,Bike,Saturday,Night,15.4
+12.31,78.2,8,Low,Clear,Highway,Car,Monday,Morning,12.3
+13.97,50.2,5,Medium,Foggy,Highway,Car,Sunday,Afternoon,26.3
+3.24,26.2,5,Low,Stormy,Rural Road,Bus,Tuesday,Morning,20.7
+9.57,63.3,6,Low,Clear,Highway,Bike,Thursday,Morning,12.9
+13.64,44.0,6,High,Clear,Highway,Car,Wednesday,Morning,32.0
+15.44,29.4,9,Medium,Rainy,Rural Road,Car,Thursday,Morning,41.0
+11.29,8.0,10,Medium,Stormy,City Road,Car,Monday,Morning,99.2
+15.18,8.0,12,Medium,Foggy,City Road,Car,Wednesday,Evening,132.6
+8.07,17.8,7,High,Clear,City Road,Car,Monday,Afternoon,39.4
+14.97,75.1,4,Low,Clear,Highway,Bus,Sunday,Afternoon,18.9
+13.87,48.9,8,High,Clear,Highway,Car,Tuesday,Night,28.1
+20.64,8.0,14,High,Foggy,City Road,Car,Thursday,Night,177.0
+26.24,32.1,11,Medium,Rainy,Rural Road,Car,Tuesday,Evening,61.1
+20.92,44.5,12,Medium,Clear,Rural Road,Bike,Tuesday,Afternoon,31.4
+10.52,8.5,13,Medium,Rainy,City Road,Bike,Wednesday,Evening,85.3
+6.03,29.5,9,Medium,Clear,City Road,Bike,Sunday,Afternoon,18.4
+7.47,18.4,6,Medium,Rainy,City Road,Truck,Thursday,Afternoon,37.3
+25.85,33.0,15,Medium,Clear,City Road,Truck,Sunday,Afternoon,61.8
+12.67,44.4,5,Low,Rainy,Rural Road,Bus,Saturday,Morning,31.1
+14.18,69.1,6,Low,Rainy,Highway,Bus,Thursday,Morning,27.1
+19.12,13.9,11,Medium,Rainy,City Road,Car,Sunday,Evening,94.7
+12.25,45.6,8,Low,Clear,City Road,Bike,Wednesday,Night,18.6
+22.64,12.9,11,Medium,Foggy,City Road,Car,Thursday,Afternoon,121.7
+5.61,22.9,8,Medium,Rainy,City Road,Bus,Friday,Morning,29.9
+15.83,8.0,8,High,Clear,City Road,Car,Friday,Evening,131.1
+30.24,69.8,11,Low,Clear,Highway,Car,Saturday,Night,28.5
+23.63,60.8,10,Medium,Rainy,Highway,Car,Tuesday,Evening,40.4
+24.38,33.4,9,Medium,Clear,Rural Road,Bike,Thursday,Morning,49.1
+5.29,32.6,6,Low,Clear,City Road,Bike,Friday,Morning,13.1
+13.75,66.8,6,Low,Clear,Highway,Car,Wednesday,Evening,13.3
+11.42,51.8,9,Low,Clear,City Road,Bike,Sunday,Night,19.7
+7.45,41.1,9,Low,Clear,City Road,Car,Wednesday,Morning,13.5
+13.87,54.7,5,Low,Rainy,Rural Road,Bus,Wednesday,Night,26.3
+6.07,70.4,3,Medium,Clear,Highway,Car,Wednesday,Night,5.2
+15.16,18.9,11,Medium,,City Road,Car,Friday,Morning,63.0
+7.13,31.7,8,Low,Clear,City Road,Bike,Monday,Morning,18.1
+14.75,77.6,9,Low,Clear,Highway,Bike,Tuesday,Morning,10.8
+7.65,44.9,5,Low,Clear,Rural Road,Bus,Saturday,Evening,20.3
+10.18,61.9,5,Medium,Rainy,Highway,Bike,Tuesday,Morning,13.7
+9.65,19.7,8,Low,Stormy,City Road,Truck,Monday,Night,49.0
+11.29,20.3,10,Medium,Clear,City Road,Car,Tuesday,Morning,40.0
+11.93,29.7,10,Low,Clear,City Road,Car,Wednesday,Evening,33.3
+9.68,41.0,9,Low,Clear,City Road,Truck,Monday,Night,22.8
+6.7,45.1,4,High,Clear,Highway,Car,Saturday,Morning,22.6
+21.39,70.4,8,Low,Foggy,Highway,Bus,Monday,Afternoon,36.8
+12.21,37.6,10,Low,Clear,City Road,Car,Wednesday,Night,24.4
+14.04,58.0,5,Low,Stormy,Highway,Car,Tuesday,Morning,27.1
+9.68,54.6,4,High,Rainy,Highway,Car,Wednesday,Afternoon,22.8
+37.92,70.4,15,Medium,Clear,Highway,Bike,Monday,Afternoon,39.5
+12.8,21.1,10,Medium,Foggy,City Road,Bus,Sunday,Morning,59.9
+21.99,20.6,16,High,Clear,City Road,Car,Sunday,Afternoon,80.7
+10.28,42.7,14,Low,Rainy,City Road,Car,Monday,Afternoon,20.9
+16.18,14.7,11,High,Clear,City Road,Car,Tuesday,Afternoon,82.5
+11.04,19.7,10,Low,Foggy,City Road,Car,Sunday,Night,45.8
+20.09,18.5,15,Medium,Clear,City Road,Car,Wednesday,Morning,75.3
+9.11,27.0,9,Medium,Clear,City Road,Truck,Monday,Afternoon,32.7
+6.26,8.0,7,Medium,Foggy,City Road,Car,Monday,Morning,59.4
+14.02,19.0,10,High,Clear,Rural Road,Car,Wednesday,Night,51.5
+20.82,77.1,9,Low,Clear,Highway,Car,Thursday,Evening,23.1
+11.22,8.0,10,High,Rainy,City Road,Car,Friday,Evening,97.1
+8.98,41.6,7,Medium,Clear,Rural Road,Car,Tuesday,Morning,21.3
+5.61,28.9,9,Medium,Foggy,City Road,Bike,Wednesday,Afternoon,24.1
+20.98,8.0,13,High,Rainy,City Road,Bike,Tuesday,Morning,174.4
+7.3,48.9,3,Low,Rainy,Rural Road,Bus,Thursday,Afternoon,19.7
+9.61,13.0,9,High,Clear,City Road,Car,Wednesday,Night,59.1
+9.49,26.1,11,Medium,Clear,City Road,Bike,Tuesday,Evening,27.2
+11.72,8.0,11,Medium,Stormy,City Road,Bus,Saturday,Morning,110.0
+16.11,79.3,6,Low,,Highway,Bus,Thursday,Afternoon,20.1
+31.92,75.6,15,Medium,Clear,Highway,Truck,Thursday,Night,44.7
+14.35,21.8,11,Medium,Clear,City Road,Car,Monday,Morning,49.5
+5.63,21.9,9,Medium,Clear,City Road,Truck,Monday,Night,22.4
+11.4,38.2,10,Low,Rainy,City Road,Bus,Saturday,Afternoon,31.2
+14.47,65.5,9,Low,Rainy,Highway,Bus,Sunday,Afternoon,28.3
+22.83,8.0,15,High,Rainy,City Road,Bike,Friday,Night,191.4
+21.42,37.9,10,Low,Foggy,Rural Road,Truck,Monday,Evening,46.3
+11.15,70.6,5,Medium,Clear,Highway,Car,Thursday,Afternoon,20.0
+12.61,19.7,10,High,Clear,City Road,Bike,Tuesday,Morning,51.3
+13.61,75.7,5,Low,Clear,Highway,Bike,Monday,Morning,12.1
+12.64,31.0,8,Low,Rainy,City Road,Bike,Monday,Afternoon,26.1
+11.39,25.0,10,Medium,Clear,City Road,Bus,Thursday,Morning,41.7
+26.63,33.0,15,Low,Rainy,City Road,Car,Wednesday,Night,57.1
+8.12,22.2,8,Medium,Clear,City Road,Car,Thursday,Morning,26.4
+19.42,51.2,8,Medium,Foggy,Highway,Car,Friday,Evening,34.8
+17.52,30.8,8,Medium,Foggy,Rural Road,Bike,Tuesday,Night,49.3
+11.15,19.1,10,Medium,Foggy,City Road,Bike,Wednesday,Afternoon,47.0
+7.83,19.5,11,Medium,Clear,City Road,Bus,Friday,Evening,34.3
+12.19,34.5,6,Medium,Stormy,Highway,Bus,Tuesday,Morning,39.7
+16.48,37.7,15,Low,Clear,City Road,Bike,Monday,Evening,33.9
+2.18,27.2,6,Medium,Clear,City Road,Car,Saturday,Night,10.2
+6.04,30.7,5,High,Clear,Rural Road,Bike,Tuesday,Night,23.2
+2.82,33.2,2,Medium,Clear,Rural Road,Bus,Monday,Morning,16.2
+14.12,33.3,6,Medium,Rainy,Rural Road,Bike,Saturday,Afternoon,23.9
+13.77,26.8,14,Low,Clear,City Road,Bus,Thursday,Evening,46.9
+6.44,44.7,7,Low,Clear,City Road,Truck,Tuesday,Night,14.4
+7.49,37.9,5,Low,Rainy,City Road,Car,Saturday,Afternoon,16.7
+13.36,43.1,6,Low,Foggy,Rural Road,Bike,Tuesday,Night,29.9
+4.63,8.0,5,High,Rainy,City Road,Bike,Friday,Morning,51.9
+17.02,15.5,11,Low,Rainy,City Road,Car,Friday,Evening,77.0
+10.46,19.0,8,High,Clear,City Road,Car,Saturday,Afternoon,47.4
+11.74,56.6,5,Low,Foggy,Highway,Car,Saturday,Evening,22.7
+12.3,66.4,2,Low,Clear,Highway,Car,Friday,Evening,15.8
+5.69,70.1,5,Medium,Clear,Highway,Bike,Monday,Afternoon,12.0
+12.33,38.3,8,Low,Clear,City Road,Car,Sunday,Night,24.3
+15.94,39.4,6,High,Rainy,Highway,Car,Monday,Night,37.5
+7.91,8.1,8,High,Clear,City Road,Bike,Tuesday,Night,68.2
+7.41,8.0,10,High,Rainy,City Road,Car,Thursday,Morning,74.1
+30.85,36.7,17,Low,Clear,City Road,Bus,Wednesday,Afternoon,63.3
+6.98,49.6,5,High,Clear,Highway,Car,Friday,Evening,17.1
+9.33,40.7,9,Low,Clear,City Road,Car,Monday,Night,19.4
+24.09,35.2,10,High,Clear,Rural Road,Truck,Thursday,Afternoon,55.3
+4.44,17.8,8,Medium,Clear,City Road,Bus,Wednesday,Evening,27.0
+10.98,25.2,11,Low,Rainy,City Road,Bike,Friday,Evening,32.9
+15.76,75.2,8,Low,Clear,Highway,Bus,Thursday,Morning,21.7
+11.36,76.9,5,Low,Clear,Highway,Car,Saturday,Night,13.3
+4.06,37.6,8,Low,Rainy,City Road,Bus,Tuesday,Afternoon,21.6
+6.04,38.7,3,High,Clear,Highway,Car,Sunday,Evening,25.4
+3.7,10.8,8,High,Clear,City Road,Car,Wednesday,Afternoon,31.9
+10.58,8.0,13,High,Clear,City Road,Car,Wednesday,Morning,93.0
+14.49,76.3,6,Low,Clear,Highway,Bus,Thursday,Afternoon,19.0
+7.87,61.2,3,Medium,Clear,Highway,Car,Tuesday,Evening,12.3
+9.71,36.2,9,Low,Rainy,City Road,Car,Saturday,Afternoon,21.3
+9.68,29.2,10,Medium,Clear,City Road,Car,Tuesday,Night,25.3
+21.98,69.0,6,Low,Rainy,Highway,Bike,Sunday,Night,24.7
+13.25,24.3,10,Low,Clear,City Road,Car,Tuesday,Evening,33.6
+12.31,30.9,8,Medium,Rainy,Rural Road,Bike,Sunday,Night,32.2
+20.09,73.6,7,Low,Rainy,Highway,Car,Wednesday,Night,22.2
+5.08,41.4,4,Medium,Clear,Rural Road,Bus,Friday,Evening,16.3
+13.15,27.9,14,Medium,Clear,City Road,Car,Sunday,Night,40.9
+8.62,53.1,6,Low,Clear,Rural Road,Truck,Monday,Evening,13.6
+23.61,8.0,11,High,Stormy,City Road,Car,Wednesday,Night,203.0
+20.18,8.0,11,Medium,Stormy,City Road,Car,Sunday,Morning,169.2
+8.62,13.5,9,High,Clear,City Road,Car,Tuesday,Afternoon,50.4
+10.04,29.6,8,Medium,Rainy,City Road,Car,Monday,Night,31.2
+6.74,45.7,5,Medium,Clear,Rural Road,Car,Thursday,Afternoon,13.4
+18.46,53.0,7,Medium,Clear,Highway,Car,Monday,Morning,25.8
+16.33,51.8,8,High,Rainy,Highway,Bus,Sunday,Night,38.6
+10.35,71.2,3,Medium,Clear,Highway,Bike,Sunday,Evening,7.1
+10.29,78.8,4,Low,Clear,Highway,Car,Tuesday,Night,11.2
+9.02,55.5,4,Low,Foggy,Highway,Car,Tuesday,Morning,9.9
+22.82,41.3,10,Medium,Clear,Rural Road,Car,Saturday,Morning,42.4
+10.86,73.8,5,Low,Rainy,Highway,Car,Thursday,Evening,15.9
+9.22,76.2,1,Low,Clear,Highway,Car,Saturday,Morning,11.6
+17.49,23.9,12,Low,Clear,City Road,Car,Sunday,Evening,54.4
+2.69,48.8,3,Medium,Clear,Rural Road,Car,Wednesday,Afternoon,10.3
+9.94,16.0,11,Low,Stormy,City Road,Truck,Tuesday,Morning,56.1
+18.8,25.2,14,Medium,Clear,City Road,Bike,Friday,Night,56.0
+25.63,28.4,11,High,Clear,Rural Road,Truck,Friday,Morning,69.1
+8.07,9.2,9,High,Rainy,City Road,Car,Thursday,Night,64.9
+15.31,20.6,13,Low,Stormy,City Road,Bus,Wednesday,Morning,69.6
+8.04,8.0,11,Medium,Foggy,City Road,Car,Tuesday,Evening,75.9
+32.29,24.0,18,Medium,Rainy,City Road,Car,Thursday,Night,93.4
+12.72,32.5,10,Medium,Clear,Rural Road,Bus,Wednesday,Morning,32.4
+16.26,38.2,7,Medium,Rainy,Rural Road,Car,Thursday,Night,36.3
+3.02,35.4,5,Low,Foggy,City Road,Car,Monday,Afternoon,11.4
+8.96,8.0,5,High,Foggy,Rural Road,Bus,Sunday,Evening,86.9
+17.54,61.2,7,Low,Foggy,Highway,Bike,Friday,Night,30.2
